@@ -1,0 +1,35 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    # 每天北京时间早上 8:00 运行（UTC 时间 0:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sync upstream changes
+        id: sync
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          upstream_sync_repo: blackmatrix7/ios_rule_script  # 上游仓库
+          upstream_sync_branch: master  # 上游分支
+          target_sync_branch: master    # 你的分支（如果是main请改为main）
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          test_mode: false
+
+      - name: Check for new commits
+        run: |
+          if [ "${{ steps.sync.outputs.has_new_commits }}" == "true" ]; then
+            echo "✅ 成功同步上游更新"
+          else
+            echo "ℹ️ 没有新的更新"
+          fi
