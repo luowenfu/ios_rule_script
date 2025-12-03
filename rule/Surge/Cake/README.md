@@ -11,8 +11,13 @@ Cake规则由《RULE GENERATOR 规则生成器》自动生成。
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
+<<<<<<< HEAD
 部分多媒体资源来自Google及YouTube。
 
+=======
+部分多媒体资源来自Google及YouTube。
+
+>>>>>>> 24f90a86eabed4530aa7c11065f926cf74df9d61
 为减少重复，Cake规则并不会包含Google和YouTube的分流规则，
 
 ## 规则统计

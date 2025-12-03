@@ -11,12 +11,21 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
+<<<<<<< HEAD
 .poe.com
 .gmauthority.com
 .pp.ua
 .south-plus.net
 .spring-plus.net
 .level-plus.net
+=======
+.poe.com
+.gmauthority.com
+.pp.ua
+.south-plus.net
+.spring-plus.net
+.level-plus.net
+>>>>>>> 24f90a86eabed4530aa7c11065f926cf74df9d61
 .hicairo.com
 
 ## 规则统计

@@ -11,6 +11,7 @@ QuickConnect规则由《RULE GENERATOR 规则生成器》自动生成。
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
+<<<<<<< HEAD
 此规则用于使国区群晖强制使用外区的QuickConnect。
 
 并且在套件中心可安装国区被下架的套件，如Synology Chat。
@@ -19,6 +20,16 @@ QuickConnect规则由《RULE GENERATOR 规则生成器》自动生成。
 
 并不能帮你通过外区的QuickConnect访问NAS。
 
+=======
+此规则用于使国区群晖强制使用外区的QuickConnect。
+
+并且在套件中心可安装国区被下架的套件，如Synology Chat。
+
+此规则主要解决使用外区QuickConnect时，Synology Chat的推送问题。
+
+并不能帮你通过外区的QuickConnect访问NAS。
+
+>>>>>>> 24f90a86eabed4530aa7c11065f926cf74df9d61
 为了远程访问，建议使用国区的QuickConnect以获得更好的连接体验。
 
 ## 规则统计

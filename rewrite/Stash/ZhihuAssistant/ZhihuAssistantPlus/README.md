@@ -10,8 +10,13 @@
 
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的相关服务，并确保在使用过程中符合相关法律法规。
 ## 规则说明
+<<<<<<< HEAD
 知乎助手，Shadowrocket与Stash由规则生成器转换。
 
+=======
+知乎助手，Shadowrocket与Stash由规则生成器转换。
+
+>>>>>>> 24f90a86eabed4530aa7c11065f926cf74df9d61
 详细的使用配置，请见 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu
 
 ## 规则统计

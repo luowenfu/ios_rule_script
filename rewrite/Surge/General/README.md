@@ -10,8 +10,13 @@
 
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的相关服务，并确保在使用过程中符合相关法律法规。
 ## 规则说明
+<<<<<<< HEAD
 抽取神机规则中的General.sgmodule。
 
+=======
+抽取神机规则中的General.sgmodule。
+
+>>>>>>> 24f90a86eabed4530aa7c11065f926cf74df9d61
 但是去除重定向规则、脚本处理、MITM。
 
 ## 规则统计
