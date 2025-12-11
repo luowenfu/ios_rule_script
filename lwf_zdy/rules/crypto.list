@@ -194,3 +194,7 @@ DOMAIN-SUFFIX,bitcoin.it
 DOMAIN-SUFFIX,bitcoinmagazine.com
 DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,tronscan.org
+
+# SafePal
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,isafepal.com
