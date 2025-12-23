@@ -7,8 +7,10 @@
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
 # TOTAL: 291
+# UPDATED: 2025-12-22 02:09:21
+# DOMAIN: 137
+# TOTAL: 268
 DOMAIN,0123456789nonexistent.com
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -57,7 +59,6 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,public.demonoid.ch
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
-DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run.publictracker.xyz
 DOMAIN,seeders-paradise.org
@@ -72,6 +73,7 @@ DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
+DOMAIN,tr-zhuqiy-1.dgj055.icu
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
@@ -86,7 +88,6 @@ DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
-DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
@@ -131,11 +132,10 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
-DOMAIN,tracker.skillindia.site
-DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.theoks.net
+DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tricitytorrents.com
@@ -152,6 +152,7 @@ DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
+DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.t-1.org
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
@@ -160,11 +161,9 @@ DOMAIN,tracker3.t-1.org
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,udp.tracker.projectk.org
-DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
-DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN-SUFFIX,1ptba.com

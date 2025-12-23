@@ -8,6 +8,10 @@
 # IP-CIDR: 486
 # IP-CIDR6: 3
 # TOTAL: 207351
+# UPDATED: 2025-12-22 02:04:46
+# DOMAIN: 16463
+# DOMAIN-SUFFIX: 190738
+# TOTAL: 207968
 payload:
   - DOMAIN-KEYWORD,-logging.nextmedia.com
   - DOMAIN-KEYWORD,-rtb.gravite.net

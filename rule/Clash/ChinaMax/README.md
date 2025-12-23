@@ -1,37 +1,18 @@
 # 🧸 国内网站/IP合集
 
 ## 前言
-
 ![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
-
 国内网站/IP合集规则由《RULE GENERATOR 规则生成器》自动生成。
-
 分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
-
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
-
 ## 规则说明
-<<<<<<< HEAD
 包含所有China、ChinaIPs、Mainland等类型的规则，定义为已收集的国内网站/IP合集。
-
 排除Advertising规则，便于和去广告规则搭配使用。
-
 引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
-
-=======
-包含所有China、ChinaIPs、Mainland等类型的规则，定义为已收集的国内网站/IP合集。
-
-排除Advertising规则，便于和去广告规则搭配使用。
-
-引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
-
->>>>>>> 24f90a86eabed4530aa7c11065f926cf74df9d61
 实验性规则，效果待观察，请谨慎评估后使用。
-
 ## 规则统计
-
 最后更新时间：2025-12-20 02:09:43
-
+最后更新时间：2025-12-22 02:09:47
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -43,10 +24,12 @@
 | IP-CIDR6 | 12289  | 
 | PROCESS-NAME | 14  | 
 | TOTAL | 138392  | 
-
-
+| DOMAIN | 292  | 
+| DOMAIN-SUFFIX | 117015  | 
+| IP-CIDR | 8259  | 
+| IP-CIDR6 | 12300  | 
+| TOTAL | 137894  | 
 ## Clash 
-
 #### 使用说明
 - ChinaMax.yaml，请使用 behavior: "classical"。
 - ChinaMax_Resolve.yaml，请使用 behavior: "classical"。
@@ -55,128 +38,70 @@
 - ChinaMax_Domain.yaml，请使用 behavior: "domain"。
 - ChinaMax_IP.yaml，请使用 behavior: "ipcidr"。
 - ChinaMax_IP_No_IPv6.yaml，请使用 behavior: "ipcidr"。
-
 #### 文件区别
 - ChinaMax_Classical.yaml与ChinaMax_Classical_No_IPv6.yaml的区别在于后者不带IPv6规则，适用纯IPv4网络。
 - ChinaMax_IP.yaml与ChinaMax_IP_No_IPv6.yaml的区别在于后者不带IPv6规则，适用纯IPv4网络。
-
 #### 配置建议
 - ChinaMax_Classical.yaml 单独使用。
 - ChinaMax_Classical_No_IPv6.yaml 纯IPv4网络，单独使用。
 - ChinaMax.yaml、ChinaMax_Domain.yaml、ChinaMax_IP.yaml 共同使用。
 - ChinaMax.yaml、ChinaMax_Domain.yaml、ChinaMax_IP_No_IPv6.yaml 纯IPv4网络，共同使用。
-
 #### 规则链接
 **MASTER分支 (每日更新)**
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP.txt
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.txt
-
 **MASTER分支 CDN (每日更新)**
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_IP.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_IP.txt
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.txt
-
 **MASTER分支 GHProxy (每日更新)**
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP.txt
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.txt
-
 **RELEASE分支 (不定时更新)**
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP.txt
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.txt
-
 **RELEASE分支CDN (不定时更新)**
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_IP.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_IP.txt
-
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.txt
-
 **RELEASE分支 GHProxy (不定时更新)**
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_Domain.txt
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP.txt
-
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.txt
-
 ## 子规则/排除规则
-
 当前分流规则，已包含以下子规则，除非特殊需求否则不建议重复引用：
 | 子规则  |  |  |  |  | 
 | ---- | ---- | ---- | ---- | ----  |
@@ -231,20 +156,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 | Zhihu | ZhongGuoShiHua | ZhongWeiShiJi | ZhongXingTongXun | ZhongYuanYiShang  | 
 | ZhuanZhuan | aiXcoder | iFlytek | iQIYI | ifanr  | 
 | zhanqi  |  |  |  |  | 
-
-
 当前分流规则，已排除以下规则：
 | 排除规则  |  |  |  |  | 
-| ---- | ---- | ---- | ---- | ----  |
 | Advertising | AdvertisingLite | AdvertisingMiTV | AdvertisingTest | Bing  | 
 | Copilot | GitHub | Microsoft | MicrosoftEdge | OneDrive  | 
 | PayPal | Proxy | Steam | SteamCN | Teams  | 
 | TikTok | YouTube | YouTubeMusic  |  |  | 
-
 ## 数据来源
-
 《国内网站/IP合集》的数据来自以下链接，如与本项目的《国内网站/IP合集》规则混合使用，可能会造成规则大量重复。
-
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DiDi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DiDi.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Meitu.list
@@ -543,18 +462,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
-
-
 感谢以上规则作者的辛勤付出（排名不分先后）。
-
 ## 最后
-
 ### 感谢
-
 [@fiiir](https://github.com/fiiir) [@Tartarus2014](https://github.com/Tartarus2014) [@zjcfynn](https://github.com/zjcfynn) [@chenyiping1995](https://github.com/chenyiping1995) [@vhdj](https://github.com/vhdj)
-
 提供规则数据源及改进建议。
-
 ### 其他
-
 请不要对外宣传本项目。

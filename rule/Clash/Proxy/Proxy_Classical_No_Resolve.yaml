@@ -8,6 +8,9 @@
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # TOTAL: 6693
+# UPDATED: 2025-12-22 02:08:23
+# DOMAIN-SUFFIX: 6562
+# TOTAL: 6694
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -4172,6 +4175,7 @@ payload:
   - DOMAIN-SUFFIX,parler.com
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,parsevideo.com
+  - DOMAIN-SUFFIX,partnerstack.xyz
   - DOMAIN-SUFFIX,passion.com
   - DOMAIN-SUFFIX,passiontimes.hk
   - DOMAIN-SUFFIX,paste.ee

@@ -9,6 +9,9 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 32610
+# UPDATED: 2025-12-22 02:08:03
+# DOMAIN-SUFFIX: 32348
+# TOTAL: 32618
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -7029,6 +7032,8 @@ login.microsoftonline.com
 .dm-event.net
 .dmed.technology
 .dmgmediaprivacy.co.uk
+.dmit.io
+.dmit.sh
 .dml-lang.org
 .dml.ac.uk
 .dmm-extension.com
@@ -8060,6 +8065,7 @@ login.microsoftonline.com
 .entrustdatacard.com
 .enveast.ac.uk
 .environment-health.ac.uk
+.eotarchive.org
 .epa.gov.tw
 .epc.ac.uk
 .epic.ac.uk
@@ -9919,6 +9925,7 @@ login.microsoftonline.com
 .ghbi.ir
 .ghettotube.com
 .ghil.ac.uk
+.ghostarchive.org
 .ghostgames.com
 .ghtv666.top
 .giantessbooru.com
@@ -14981,6 +14988,7 @@ login.microsoftonline.com
 .melonstube.com
 .meme111.com
 .memealerts.com
+.mementoweb.org
 .men.com
 .men18.net
 .menai.ac.uk
@@ -18103,6 +18111,7 @@ login.microsoftonline.com
 .perfecttitspics.com
 .performancescience.ac.uk
 .perl.org
+.perma.cc
 .perplexity.com
 .persagg.com
 .pershore.ac.uk
@@ -24310,6 +24319,7 @@ login.microsoftonline.com
 .webcammedellin.co
 .webcams.tv
 .webcamtubexxx.com
+.webcitation.org
 .webex.ca
 .webex.co.in
 .webex.co.it
@@ -30079,6 +30089,7 @@ login.microsoftonline.com
 .parler.com
 .parse.com
 .parsevideo.com
+.partnerstack.xyz
 .passion.com
 .passiontimes.hk
 .paste.ee

@@ -9,6 +9,9 @@
 # IP6-CIDR: 4
 # USER-AGENT: 8
 # TOTAL: 7189
+# UPDATED: 2025-12-22 02:08:23
+# HOST-SUFFIX: 7040
+# TOTAL: 7190
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4578,6 +4581,7 @@ HOST-SUFFIX,parkansky.com,Proxy
 HOST-SUFFIX,parler.com,Proxy
 HOST-SUFFIX,parse.com,Proxy
 HOST-SUFFIX,parsevideo.com,Proxy
+HOST-SUFFIX,partnerstack.xyz,Proxy
 HOST-SUFFIX,passion.com,Proxy
 HOST-SUFFIX,passiontimes.hk,Proxy
 HOST-SUFFIX,paste.ee,Proxy
