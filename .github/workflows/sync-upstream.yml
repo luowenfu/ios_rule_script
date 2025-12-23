@@ -16,20 +16,59 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sync upstream changes
-        id: sync
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
-        with:
-          upstream_sync_repo: blackmatrix7/ios_rule_script  # 上游仓库
-          upstream_sync_branch: master  # 上游分支
-          target_sync_branch: master    # 你的分支（如果是main请改为main）
-          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          test_mode: false
-
-      - name: Check for new commits
+      - name: 配置 Git
         run: |
-          if [ "${{ steps.sync.outputs.has_new_commits }}" == "true" ]; then
-            echo "✅ 成功同步上游更新"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+      - name: 添加上游仓库
+        run: |
+          git remote remove upstream 2>/dev/null || true
+          git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
+
+      - name: 获取上游更新
+        run: |
+          git fetch upstream master
+
+      - name: 合并上游更改（自动解决所有冲突）
+        run: |
+          git checkout master
+          # 尝试合并，如果失败则处理冲突
+          if ! git merge upstream/master --no-edit; then
+            echo "检测到合并冲突，开始自动解决..."
+            # 获取所有冲突文件
+            conflict_files=$(git diff --name-only --diff-filter=U)
+            if [ -n "$conflict_files" ]; then
+              echo "冲突文件列表:"
+              echo "$conflict_files"
+              # 对每个冲突文件进行自动合并（保留双方内容）
+              echo "$conflict_files" | while read file; do
+                if [ -n "$file" ]; then
+                  echo "处理冲突文件: $file"
+                  # 使用 awk 移除冲突标记，保留所有内容
+                  # 这会保留 <<<<<<< 和 >>>>>>> 之间的所有内容（包括 ======= 标记）
+                  awk '
+                    /^<<<<<<< / { in_conflict=1; next }
+                    /^=======/ { next }
+                    /^>>>>>>> / { in_conflict=0; next }
+                    { print }
+                  ' "$file" > "${file}.merged" && mv "${file}.merged" "$file"
+                  git add "$file"
+                fi
+              done
+              # 完成合并提交
+              git commit -m "Merge upstream: 自动合并冲突，保留本地和上游所有修改" || true
+            fi
           else
-            echo "ℹ️ 没有新的更新"
+            echo "✅ 合并成功，无冲突"
+          fi
+
+      - name: 推送更改
+        run: |
+          # 检查是否有新的提交需要推送
+          if [ "$(git rev-list --count master ^origin/master)" -gt 0 ]; then
+            echo "✅ 成功同步上游更新，正在推送..."
+            git push origin master
+          else
+            echo "ℹ️ 没有新的更新需要推送"
           fi
