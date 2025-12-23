@@ -30,34 +30,38 @@ jobs:
         run: |
           git fetch upstream master
 
-      - name: 合并上游更改（自动解决所有冲突）
+      - name: 合并上游更改（自动解决冲突并去重）
         run: |
           git checkout master
           # 尝试合并，如果失败则处理冲突
           if ! git merge upstream/master --no-edit; then
-            echo "检测到合并冲突，开始自动解决..."
+            echo "检测到合并冲突，开始自动解决并去重..."
             # 获取所有冲突文件
             conflict_files=$(git diff --name-only --diff-filter=U)
             if [ -n "$conflict_files" ]; then
               echo "冲突文件列表:"
               echo "$conflict_files"
-              # 对每个冲突文件进行自动合并（保留双方内容）
+              # 对每个冲突文件进行自动合并（保留双方内容并去重）
               echo "$conflict_files" | while read file; do
                 if [ -n "$file" ]; then
                   echo "处理冲突文件: $file"
-                  # 使用 awk 移除冲突标记，保留所有内容
-                  # 这会保留 <<<<<<< 和 >>>>>>> 之间的所有内容（包括 ======= 标记）
+                  # 使用 awk 移除冲突标记，合并内容，然后去重（保持首次出现的顺序）
                   awk '
                     /^<<<<<<< / { in_conflict=1; next }
-                    /^=======/ { next }
+                    /^=======/ { in_conflict=0; next }
                     /^>>>>>>> / { in_conflict=0; next }
-                    { print }
+                    {
+                      # 去重：使用关联数组记录已出现的行
+                      if (!seen[$0]++) {
+                        print
+                      }
+                    }
                   ' "$file" > "${file}.merged" && mv "${file}.merged" "$file"
                   git add "$file"
                 fi
               done
               # 完成合并提交
-              git commit -m "Merge upstream: 自动合并冲突，保留本地和上游所有修改" || true
+              git commit -m "Merge upstream: 自动合并冲突并去重，保留本地和上游所有修改" || true
             fi
           else
             echo "✅ 合并成功，无冲突"
