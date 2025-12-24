@@ -8,6 +8,7 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 ## 规则统计
 最后更新时间：2025-12-20 02:08:18
 最后更新时间：2025-12-22 02:08:23
+最后更新时间：2025-12-24 02:08:18
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -19,6 +20,8 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 6693  | 
 | DOMAIN-SUFFIX | 6562  | 
 | TOTAL | 6694  | 
+| DOMAIN-SUFFIX | 6563  | 
+| TOTAL | 6695  | 
 ## Clash 
 #### 使用说明
 - Proxy.yaml，请使用 behavior: "classical"。

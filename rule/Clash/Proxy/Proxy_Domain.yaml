@@ -11,6 +11,9 @@
 # UPDATED: 2025-12-22 02:08:23
 # DOMAIN-SUFFIX: 6562
 # TOTAL: 6694
+# UPDATED: 2025-12-24 02:08:18
+# DOMAIN-SUFFIX: 6563
+# TOTAL: 6695
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -5068,6 +5071,7 @@ payload:
   - '+.stat.gov.tw'
   - '+.state.gov'
   - '+.static-economist.com'
+  - '+.static.pocketcasts.com'
   - '+.statically.io'
   - '+.staticflickr.com'
   - '+.statueofdemocracy.org'

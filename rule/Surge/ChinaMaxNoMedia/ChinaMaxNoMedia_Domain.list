@@ -17,6 +17,10 @@
 # IP-CIDR: 8259
 # IP-CIDR6: 12300
 # TOTAL: 137507
+# UPDATED: 2025-12-24 02:10:52
+# DOMAIN-SUFFIX: 116567
+# IP-CIDR6: 12305
+# TOTAL: 137510
 .0.zone
 .00.net
 .000.link
@@ -1644,7 +1648,6 @@
 .148com.com
 .148la.com
 .14944.net
-.1495c8.com
 .14hj.com
 .14play.net
 .14xd.com
@@ -11524,7 +11527,6 @@
 .antvr.com
 .antwork.link
 .antzk.com
-.anviettek.com
 .anw.red
 .anweilan.com
 .anweishi.com
@@ -53811,6 +53813,7 @@
 .jamanetwork.com
 .jamcz.com
 .jamidol.com
+.jamms.org
 .jammyfm.com
 .jampotgames.com
 .janbao.net

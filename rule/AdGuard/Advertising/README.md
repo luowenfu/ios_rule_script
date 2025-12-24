@@ -17,6 +17,9 @@
 | TOTAL | 206584  | 
 | DOMAIN-SUFFIX | 207201  | 
 | TOTAL | 207201  | 
+最后更新时间：2025-12-24 02:04:46
+| DOMAIN-SUFFIX | 207482  | 
+| TOTAL | 207482  | 
 ## AdGuard 
 #### 规则链接
 **MASTER分支 (每日更新)**

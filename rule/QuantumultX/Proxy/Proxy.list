@@ -12,6 +12,9 @@
 # UPDATED: 2025-12-22 02:08:23
 # HOST-SUFFIX: 7040
 # TOTAL: 7190
+# UPDATED: 2025-12-24 02:08:18
+# HOST-SUFFIX: 7041
+# TOTAL: 7191
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5507,6 +5510,7 @@ HOST-SUFFIX,startuplivingchina.com,Proxy
 HOST-SUFFIX,stat.gov.tw,Proxy
 HOST-SUFFIX,state.gov,Proxy
 HOST-SUFFIX,static-economist.com,Proxy
+HOST-SUFFIX,static.pocketcasts.com,Proxy
 HOST-SUFFIX,statically.io,Proxy
 HOST-SUFFIX,staticflickr.com,Proxy
 HOST-SUFFIX,statueofdemocracy.org,Proxy
