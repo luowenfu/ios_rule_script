@@ -12,6 +12,9 @@
 # UPDATED: 2025-12-22 02:08:03
 # DOMAIN-SUFFIX: 32348
 # TOTAL: 32618
+# UPDATED: 2025-12-26 02:08:07
+# DOMAIN-SUFFIX: 32362
+# TOTAL: 32632
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -156,6 +159,7 @@ login.microsoftonline.com
 +.112263.com
 +.114av.xyz
 +.114bank.co.jp
++.119474.xyz
 +.11jav.com
 +.123-hp.com
 +.123bin.cc
@@ -5802,6 +5806,7 @@ login.microsoftonline.com
 +.colliderporn.com
 +.collins.co.uk
 +.collins.in
++.collinsdictionary.com
 +.collyers.ac.uk
 +.colombianas.webcam
 +.colorfulstage.com
@@ -9606,6 +9611,7 @@ login.microsoftonline.com
 +.futhead.com
 +.futpromos.com
 +.futuhk.com
++.futuhkapp.com
 +.futuholdings.com
 +.futunited.com
 +.future-media.ac.uk
@@ -13786,6 +13792,7 @@ login.microsoftonline.com
 +.lcuck.ac.uk
 +.lcwc.ac.uk
 +.ldoc-cdt.ac.uk
++.ldoceonline.com
 +.ldstatic.com
 +.le-direct.tv
 +.le.ac.uk
@@ -14997,6 +15004,7 @@ login.microsoftonline.com
 +.mendeley.com
 +.mengnan.shop
 +.menhdv.com
++.mensheaven.jp
 +.menshin-channel.com
 +.meoriental.com
 +.meplg.ac.uk
@@ -16540,6 +16548,7 @@ login.microsoftonline.com
 +.newmonst1erbeatsto1re.com
 +.newmonsterbeatsheadphones.com
 +.newphd.ac.uk
++.newpipe.net
 +.newport.ac.uk
 +.newpppp.com
 +.newroutephd.ac.uk
@@ -23299,6 +23308,7 @@ login.microsoftonline.com
 +.usvimosquitoproject.com
 +.usw.ac.uk
 +.utcreading.ac.uk
++.uug22.com
 +.uug23.com
 +.uug25.com
 +.uug26.com
@@ -24158,6 +24168,11 @@ login.microsoftonline.com
 +.vpro.net
 +.vrbgay.com
 +.vrcams.io
++.vrcdn.cloud
++.vrcdn.live
++.vrcdn.video
++.vrchat.cloud
++.vrchat.net
 +.vred-essentials.com
 +.vredessentials.com
 +.vredprofessional.com
@@ -24341,6 +24356,7 @@ login.microsoftonline.com
 +.webhosting.com
 +.webkit.org
 +.webkitgtk.org
++.weblate.org
 +.webmoneyinfo.com
 +.webnovel.com
 +.webobjects.co.uk
@@ -29715,6 +29731,7 @@ login.microsoftonline.com
 +.neo-miracle.com
 +.neoforged.net
 +.neowin.net
++.nephobox.com
 +.netalert.me
 +.netbirds.com
 +.netcolony.com

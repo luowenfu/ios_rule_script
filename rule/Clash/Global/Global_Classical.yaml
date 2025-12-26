@@ -12,6 +12,9 @@
 # UPDATED: 2025-12-22 02:08:03
 # DOMAIN-SUFFIX: 32348
 # TOTAL: 32618
+# UPDATED: 2025-12-26 02:08:07
+# DOMAIN-SUFFIX: 32362
+# TOTAL: 32632
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -157,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,114av.xyz
   - DOMAIN-SUFFIX,114bank.co.jp
+  - DOMAIN-SUFFIX,119474.xyz
   - DOMAIN-SUFFIX,11jav.com
   - DOMAIN-SUFFIX,123-hp.com
   - DOMAIN-SUFFIX,123bin.cc
@@ -5803,6 +5807,7 @@ payload:
   - DOMAIN-SUFFIX,colliderporn.com
   - DOMAIN-SUFFIX,collins.co.uk
   - DOMAIN-SUFFIX,collins.in
+  - DOMAIN-SUFFIX,collinsdictionary.com
   - DOMAIN-SUFFIX,collyers.ac.uk
   - DOMAIN-SUFFIX,colombianas.webcam
   - DOMAIN-SUFFIX,colorfulstage.com
@@ -9607,6 +9612,7 @@ payload:
   - DOMAIN-SUFFIX,futhead.com
   - DOMAIN-SUFFIX,futpromos.com
   - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futuhkapp.com
   - DOMAIN-SUFFIX,futuholdings.com
   - DOMAIN-SUFFIX,futunited.com
   - DOMAIN-SUFFIX,future-media.ac.uk
@@ -13787,6 +13793,7 @@ payload:
   - DOMAIN-SUFFIX,lcuck.ac.uk
   - DOMAIN-SUFFIX,lcwc.ac.uk
   - DOMAIN-SUFFIX,ldoc-cdt.ac.uk
+  - DOMAIN-SUFFIX,ldoceonline.com
   - DOMAIN-SUFFIX,ldstatic.com
   - DOMAIN-SUFFIX,le-direct.tv
   - DOMAIN-SUFFIX,le.ac.uk
@@ -14998,6 +15005,7 @@ payload:
   - DOMAIN-SUFFIX,mendeley.com
   - DOMAIN-SUFFIX,mengnan.shop
   - DOMAIN-SUFFIX,menhdv.com
+  - DOMAIN-SUFFIX,mensheaven.jp
   - DOMAIN-SUFFIX,menshin-channel.com
   - DOMAIN-SUFFIX,meoriental.com
   - DOMAIN-SUFFIX,meplg.ac.uk
@@ -16541,6 +16549,7 @@ payload:
   - DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
   - DOMAIN-SUFFIX,newmonsterbeatsheadphones.com
   - DOMAIN-SUFFIX,newphd.ac.uk
+  - DOMAIN-SUFFIX,newpipe.net
   - DOMAIN-SUFFIX,newport.ac.uk
   - DOMAIN-SUFFIX,newpppp.com
   - DOMAIN-SUFFIX,newroutephd.ac.uk
@@ -23300,6 +23309,7 @@ payload:
   - DOMAIN-SUFFIX,usvimosquitoproject.com
   - DOMAIN-SUFFIX,usw.ac.uk
   - DOMAIN-SUFFIX,utcreading.ac.uk
+  - DOMAIN-SUFFIX,uug22.com
   - DOMAIN-SUFFIX,uug23.com
   - DOMAIN-SUFFIX,uug25.com
   - DOMAIN-SUFFIX,uug26.com
@@ -24159,6 +24169,11 @@ payload:
   - DOMAIN-SUFFIX,vpro.net
   - DOMAIN-SUFFIX,vrbgay.com
   - DOMAIN-SUFFIX,vrcams.io
+  - DOMAIN-SUFFIX,vrcdn.cloud
+  - DOMAIN-SUFFIX,vrcdn.live
+  - DOMAIN-SUFFIX,vrcdn.video
+  - DOMAIN-SUFFIX,vrchat.cloud
+  - DOMAIN-SUFFIX,vrchat.net
   - DOMAIN-SUFFIX,vred-essentials.com
   - DOMAIN-SUFFIX,vredessentials.com
   - DOMAIN-SUFFIX,vredprofessional.com
@@ -24342,6 +24357,7 @@ payload:
   - DOMAIN-SUFFIX,webhosting.com
   - DOMAIN-SUFFIX,webkit.org
   - DOMAIN-SUFFIX,webkitgtk.org
+  - DOMAIN-SUFFIX,weblate.org
   - DOMAIN-SUFFIX,webmoneyinfo.com
   - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN-SUFFIX,webobjects.co.uk
@@ -29716,6 +29732,7 @@ payload:
   - DOMAIN-SUFFIX,neo-miracle.com
   - DOMAIN-SUFFIX,neoforged.net
   - DOMAIN-SUFFIX,neowin.net
+  - DOMAIN-SUFFIX,nephobox.com
   - DOMAIN-SUFFIX,netalert.me
   - DOMAIN-SUFFIX,netbirds.com
   - DOMAIN-SUFFIX,netcolony.com
