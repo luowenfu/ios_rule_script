@@ -15,6 +15,9 @@
 # UPDATED: 2025-12-26 02:08:07
 # DOMAIN-SUFFIX: 32362
 # TOTAL: 32632
+# UPDATED: 2025-12-28 02:07:50
+# DOMAIN-SUFFIX: 32363
+# TOTAL: 32633
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -29260,6 +29263,7 @@ login.microsoftonline.com
 .lotsawahouse.org
 .lotuslight.org.hk
 .lotuslight.org.tw
+.lovart.ai
 .loved.hk
 .lovetvshow.com
 .lpsg.com

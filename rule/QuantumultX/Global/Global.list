@@ -16,6 +16,9 @@
 # UPDATED: 2025-12-26 02:08:26
 # HOST-SUFFIX: 32416
 # TOTAL: 33268
+# UPDATED: 2025-12-28 02:08:09
+# HOST-SUFFIX: 32417
+# TOTAL: 33269
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -29768,6 +29771,7 @@ HOST-SUFFIX,lorenzetti.com.br,Global
 HOST-SUFFIX,lotsawahouse.org,Global
 HOST-SUFFIX,lotuslight.org.hk,Global
 HOST-SUFFIX,lotuslight.org.tw,Global
+HOST-SUFFIX,lovart.ai,Global
 HOST-SUFFIX,loved.hk,Global
 HOST-SUFFIX,lovetvshow.com,Global
 HOST-SUFFIX,lpsg.com,Global

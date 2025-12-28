@@ -18,6 +18,9 @@
 # UPDATED: 2025-12-26 02:08:27
 # HOST-SUFFIX: 7042
 # TOTAL: 7192
+# UPDATED: 2025-12-28 02:08:11
+# HOST-SUFFIX: 7043
+# TOTAL: 7193
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -3733,6 +3736,7 @@ HOST-SUFFIX,lorenzetti.com.br,Proxy
 HOST-SUFFIX,lotsawahouse.org,Proxy
 HOST-SUFFIX,lotuslight.org.hk,Proxy
 HOST-SUFFIX,lotuslight.org.tw,Proxy
+HOST-SUFFIX,lovart.ai,Proxy
 HOST-SUFFIX,loved.hk,Proxy
 HOST-SUFFIX,lovetvshow.com,Proxy
 HOST-SUFFIX,lpsg.com,Proxy

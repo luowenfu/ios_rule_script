@@ -18,6 +18,9 @@
 # UPDATED: 2025-12-26 02:08:51
 # DOMAIN-SUFFIX: 115388
 # TOTAL: 115543
+# UPDATED: 2025-12-28 02:08:33
+# DOMAIN-SUFFIX: 115391
+# TOTAL: 115546
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -24587,6 +24590,7 @@ payload:
   - '+.chinaorff.org'
   - '+.chinaorganicchem.com'
   - '+.chinaorientgroup.com'
+  - '+.chinaott.com'
   - '+.chinaott.net'
   - '+.chinapag.com'
   - '+.chinapandi.com'
@@ -48327,6 +48331,7 @@ payload:
   - '+.hijin.vip'
   - '+.hijoys.com'
   - '+.hik-cloud.com'
+  - '+.hik-express.com'
   - '+.hik-park.com'
   - '+.hikailink.com'
   - '+.hikari-ch.com'
@@ -48336,6 +48341,7 @@ payload:
   - '+.hikerfans.com'
   - '+.hikihj.com'
   - '+.hikinginternational.com'
+  - '+.hikiot.com'
   - '+.hiklife.com'
   - '+.hikmall.com'
   - '+.hikoon.com'

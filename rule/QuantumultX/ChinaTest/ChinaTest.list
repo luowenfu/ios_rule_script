@@ -12,6 +12,8 @@
 # HOST-SUFFIX: 116192
 # UPDATED: 2025-12-26 02:08:46
 # HOST-SUFFIX: 115388
+# UPDATED: 2025-12-28 02:08:30
+# HOST-SUFFIX: 115391
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -20,6 +22,7 @@
 # TOTAL: 116382
 # TOTAL: 116379
 # TOTAL: 115575
+# TOTAL: 115578
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -24588,6 +24591,7 @@ HOST-SUFFIX,chinaorff.com,ChinaTest
 HOST-SUFFIX,chinaorff.org,ChinaTest
 HOST-SUFFIX,chinaorganicchem.com,ChinaTest
 HOST-SUFFIX,chinaorientgroup.com,ChinaTest
+HOST-SUFFIX,chinaott.com,ChinaTest
 HOST-SUFFIX,chinaott.net,ChinaTest
 HOST-SUFFIX,chinapag.com,ChinaTest
 HOST-SUFFIX,chinapandi.com,ChinaTest
@@ -48328,6 +48332,7 @@ HOST-SUFFIX,hijiaoshi.com,ChinaTest
 HOST-SUFFIX,hijin.vip,ChinaTest
 HOST-SUFFIX,hijoys.com,ChinaTest
 HOST-SUFFIX,hik-cloud.com,ChinaTest
+HOST-SUFFIX,hik-express.com,ChinaTest
 HOST-SUFFIX,hik-park.com,ChinaTest
 HOST-SUFFIX,hikailink.com,ChinaTest
 HOST-SUFFIX,hikari-ch.com,ChinaTest
@@ -48337,6 +48342,7 @@ HOST-SUFFIX,hikemobile.com,ChinaTest
 HOST-SUFFIX,hikerfans.com,ChinaTest
 HOST-SUFFIX,hikihj.com,ChinaTest
 HOST-SUFFIX,hikinginternational.com,ChinaTest
+HOST-SUFFIX,hikiot.com,ChinaTest
 HOST-SUFFIX,hiklife.com,ChinaTest
 HOST-SUFFIX,hikmall.com,ChinaTest
 HOST-SUFFIX,hikoon.com,ChinaTest
