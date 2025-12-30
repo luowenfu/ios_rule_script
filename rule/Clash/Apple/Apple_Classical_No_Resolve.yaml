@@ -6,6 +6,7 @@
 # UPDATED: 2025-12-24 02:06:35
 # UPDATED: 2025-12-26 02:06:42
 # UPDATED: 2025-12-28 02:06:25
+# UPDATED: 2025-12-30 02:06:45
 # DOMAIN: 10
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1549
@@ -1203,7 +1204,6 @@ payload:
   - DOMAIN-SUFFIX,applepaysupplies.tv
   - DOMAIN-SUFFIX,applewallet.com
   - DOMAIN-SUFFIX,applewallet.tv
-  - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,appstore.co.id
   - DOMAIN-SUFFIX,appstore.com
   - DOMAIN-SUFFIX,appstore.hk
@@ -1517,6 +1517,8 @@ payload:
   - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-icloud.cn
@@ -1524,7 +1526,6 @@ payload:
   - DOMAIN-SUFFIX,appleicloud.cn
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,apzones.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com

@@ -27,6 +27,9 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2025-12-28 02:09:08
 | DOMAIN | 127  | 
 | TOTAL | 258  | 
+最后更新时间：2025-12-30 02:09:25
+| DOMAIN | 124  | 
+| TOTAL | 255  | 
 ## Clash 
 #### 使用说明
 - PrivateTracker.yaml，请使用 behavior: "classical"。

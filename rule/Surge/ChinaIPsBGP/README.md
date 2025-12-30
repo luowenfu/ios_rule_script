@@ -28,6 +28,9 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2025-12-28 02:09:11
 | IP-CIDR | 3826  | 
 | TOTAL | 3826  | 
+最后更新时间：2025-12-30 02:09:30
+| IP-CIDR | 3829  | 
+| TOTAL | 3829  | 
 ## Surge 
 #### 使用说明
 - ChinaIPsBGP.list，请使用RULE-SET。

@@ -21,6 +21,9 @@
 # UPDATED: 2025-12-28 02:08:11
 # HOST-SUFFIX: 7043
 # TOTAL: 7193
+# UPDATED: 2025-12-30 02:08:28
+# HOST-SUFFIX: 7045
+# TOTAL: 7195
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -303,6 +306,7 @@ HOST-SUFFIX,alicejapan.co.jp,Proxy
 HOST-SUFFIX,aliengu.com,Proxy
 HOST-SUFFIX,alive.bar,Proxy
 HOST-SUFFIX,aljazeera.com,Proxy
+HOST-SUFFIX,aljazeera.net,Proxy
 HOST-SUFFIX,alkasir.com,Proxy
 HOST-SUFFIX,all4mom.org,Proxy
 HOST-SUFFIX,allcoin.com,Proxy
@@ -2342,6 +2346,7 @@ HOST-SUFFIX,gfw.org.ua,Proxy
 HOST-SUFFIX,gfw.press,Proxy
 HOST-SUFFIX,gfw.report,Proxy
 HOST-SUFFIX,gfwatch.org,Proxy
+HOST-SUFFIX,gfwbao.com,Proxy
 HOST-SUFFIX,gfwlist.end,Proxy
 HOST-SUFFIX,gfwlist.start,Proxy
 HOST-SUFFIX,gfx.ms,Proxy

@@ -19,15 +19,18 @@
 # UPDATED: 2025-12-28 02:09:08
 # DOMAIN: 127
 # TOTAL: 258
+# UPDATED: 2025-12-30 02:09:25
+# DOMAIN: 124
+# TOTAL: 255
 payload:
   - DOMAIN,1337.abcvg.info
+  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
   - DOMAIN,admin.52ywp.com
   - DOMAIN,anna.bt.bontal.net
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.bontal.net
-  - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.rer.lol
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,buny.uk
@@ -36,7 +39,6 @@ payload:
   - DOMAIN,cny.fan
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,echostar.ddnsfree.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
@@ -46,14 +48,12 @@ payload:
   - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
-  - DOMAIN,node01.trackerstatus.live
   - DOMAIN,ns575949.ip-51-222-82.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.demonoid.ch
-  - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.cl
   - DOMAIN,open.trackerlist.xyz
@@ -72,7 +72,6 @@ payload:
   - DOMAIN,shubt.net
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
-  - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentclub.online
   - DOMAIN,torrentsmd.com
@@ -86,9 +85,11 @@ payload:
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.1h.is
+  - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.alaskantf.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,tracker.bluefrog.pw
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
@@ -105,9 +106,10 @@ payload:
   - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.foreverpirates.co
-  - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
+  - DOMAIN,tracker.hifimarket.in
+  - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,tracker.internetwarriors.net
   - DOMAIN,tracker.iochimari.moe
   - DOMAIN,tracker.iperson.xyz
@@ -128,6 +130,7 @@ payload:
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
+  - DOMAIN,tracker.rescuecrew7.com
   - DOMAIN,tracker.skillindia.site
   - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.skyts.net
@@ -148,7 +151,6 @@ payload:
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker.zhuqiy.com
-  - DOMAIN,tracker.zupix.online
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker.zhuqiy.dgj055.icu
@@ -165,7 +167,6 @@ payload:
   - DOMAIN,www.all4nothin.net
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,yuki.bt.bontal.net
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,2xfree.org
   - DOMAIN-SUFFIX,52pt.site

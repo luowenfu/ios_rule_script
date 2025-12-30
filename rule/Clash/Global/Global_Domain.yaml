@@ -18,6 +18,9 @@
 # UPDATED: 2025-12-28 02:07:50
 # DOMAIN-SUFFIX: 32363
 # TOTAL: 32633
+# UPDATED: 2025-12-30 02:08:06
+# DOMAIN-SUFFIX: 32367
+# TOTAL: 32637
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -1328,7 +1331,6 @@ payload:
   - '+.alivevm.com'
   - '+.alivevmax.com'
   - '+.alivevue.com'
-  - '+.aljazeera.net'
   - '+.all-sex-links.com'
   - '+.all3dsexpics.com'
   - '+.allcu.ac.uk'
@@ -2145,6 +2147,7 @@ payload:
   - '+.archivx.to'
   - '+.archlinux.org'
   - '+.archlinuxarm.org'
+  - '+.archlinuxcn.org'
   - '+.archway.ac.uk'
   - '+.arcom.ac.uk'
   - '+.arcraiders.com'
@@ -10116,6 +10119,7 @@ payload:
   - '+.gobuyonlinestore.net'
   - '+.gockhuatviet.com'
   - '+.godalming.ac.uk'
+  - '+.godbolt.org'
   - '+.goduckgo.com'
   - '+.goetec.ac.uk'
   - '+.gofile.me'
@@ -19991,6 +19995,7 @@ payload:
   - '+.samsunghealth.com'
   - '+.samsungiotcloud.com'
   - '+.samsungknox.com'
+  - '+.samsungosp.com'
   - '+.samsungqbe.com'
   - '+.samsungrs.com'
   - '+.sandisk.ae'
@@ -26252,6 +26257,7 @@ payload:
   - '+.aliengu.com'
   - '+.alive.bar'
   - '+.aljazeera.com'
+  - '+.aljazeera.net'
   - '+.alkasir.com'
   - '+.all4mom.org'
   - '+.allcoin.com'
@@ -28155,6 +28161,7 @@ payload:
   - '+.gfw.press'
   - '+.gfw.report'
   - '+.gfwatch.org'
+  - '+.gfwbao.com'
   - '+.gfwlist.end'
   - '+.gfwlist.start'
   - '+.gfx.ms'
