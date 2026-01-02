@@ -25,6 +25,9 @@
 # UPDATED: 2026-01-01 02:08:22
 # HOST-SUFFIX: 32423
 # TOTAL: 33275
+# UPDATED: 2026-01-02 02:08:06
+# HOST-SUFFIX: 32426
+# TOTAL: 33278
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -3255,6 +3258,7 @@ HOST-SUFFIX,azureplanetscale.net,Global
 HOST-SUFFIX,azureserviceprofiler.com,Global
 HOST-SUFFIX,azuresmartspaces.net,Global
 HOST-SUFFIX,azurestackvalidation.com,Global
+HOST-SUFFIX,b-cdn.net,Global
 HOST-SUFFIX,b-eroland.net,Global
 HOST-SUFFIX,b-ok.africa,Global
 HOST-SUFFIX,b-ok.asia,Global
@@ -5078,6 +5082,8 @@ HOST-SUFFIX,bumptop.net,Global
 HOST-SUFFIX,bumptop.org,Global
 HOST-SUFFIX,bumptunes.com,Global
 HOST-SUFFIX,bunka.go.jp,Global
+HOST-SUFFIX,bunny.net,Global
+HOST-SUFFIX,bunnycdn.com,Global
 HOST-SUFFIX,bunnylust.com,Global
 HOST-SUFFIX,burningcamel.com,Global
 HOST-SUFFIX,burnley.ac.uk,Global

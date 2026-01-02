@@ -33,6 +33,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-01-01 02:09:22
 | DOMAIN | 123  | 
 | TOTAL | 254  | 
+最后更新时间：2026-01-02 02:09:02
 ## Surge 
 #### 使用说明
 - PrivateTracker.list，请使用RULE-SET。
