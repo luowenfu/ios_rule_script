@@ -9,6 +9,7 @@
 # UPDATED: 2025-12-30 02:06:45
 # UPDATED: 2026-01-01 02:06:36
 # UPDATED: 2026-01-02 02:06:35
+# UPDATED: 2026-01-04 02:06:40
 # HOST: 272
 # HOST-KEYWORD: 7
 # HOST-SUFFIX: 1549
@@ -17,7 +18,6 @@
 # USER-AGENT: 23
 # TOTAL: 1876
 HOST,apps.apple.com,Apple
-HOST,itunes.apple.com,Apple
 HOST,a1.mzstatic.com,Apple
 HOST,a2.mzstatic.com,Apple
 HOST,a3.mzstatic.com,Apple
@@ -260,7 +260,9 @@ HOST,devimages-cdn.apple.com,Apple
 HOST,devstreaming-cdn.apple.com,Apple
 HOST,docs-assets.developer.apple.com,Apple
 HOST,gspe1-ssl.ls.apple.com,Apple
+HOST,hls-svod.itunes.apple.com,Apple
 HOST,hls.itunes.apple.com,Apple
+HOST,itunes.apple.com,Apple
 HOST,js-cdn.music.apple.com,Apple
 HOST,lookup-api.apple.com,Apple
 HOST,mask-api.fe.apple-dns.net,Apple
@@ -284,7 +286,6 @@ HOST,fmfmobile.icloud.com,Apple
 HOST,fmipmobile.icloud.com,Apple
 HOST,statici.icloud.com,Apple
 HOST,amp-api.fitness.apple.com,Apple
-HOST,hls-svod.itunes.apple.com,Apple
 HOST,guzzoni.apple.com,Apple
 HOST,beta.apple.com,Apple
 HOST,www-cdn.icloud.com.akadns.net,Apple
@@ -1794,7 +1795,6 @@ HOST-SUFFIX,ukipad.com,Apple
 HOST-SUFFIX,wwwipodlounge.com,Apple
 HOST-SUFFIX,wwwmacbookair.com,Apple
 HOST-SUFFIX,apple.comscoreresearch.com,Apple
-HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appleenews.com,Apple
 HOST-SUFFIX,applemusic.berlin,Apple
 HOST-SUFFIX,applemusic.co,Apple
@@ -1832,6 +1832,7 @@ HOST-SUFFIX,iphoto.wang,Apple
 HOST-SUFFIX,musickit.net,Apple
 HOST-SUFFIX,wwwapplemusic.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
+HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,digicert.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple

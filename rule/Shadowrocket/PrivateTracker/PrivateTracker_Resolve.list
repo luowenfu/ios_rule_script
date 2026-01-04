@@ -27,10 +27,12 @@ DOMAIN,0123456789nonexistent.com
 # DOMAIN: 123
 # TOTAL: 254
 # UPDATED: 2026-01-02 02:09:02
+# UPDATED: 2026-01-04 02:09:16
+# DOMAIN: 122
+# TOTAL: 253
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
-DOMAIN,admin.52ywp.com
 DOMAIN,anna.bt.bontal.net
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -54,12 +56,14 @@ DOMAIN,ipv6.rer.lol
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
+DOMAIN,node01.trackerstatus.live
 DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
+DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
@@ -77,11 +81,11 @@ DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
+DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -91,9 +95,7 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
-DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
-DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
@@ -115,8 +117,6 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.guguan.dpdns.org
-DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
@@ -139,10 +139,9 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
+DOMAIN,tracker.soshifanclub.com
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
