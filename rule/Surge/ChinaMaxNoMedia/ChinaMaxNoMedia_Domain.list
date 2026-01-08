@@ -54,6 +54,11 @@
 # TOTAL: 127932
 # IP-CIDR6: 4282
 # TOTAL: 127934
+# UPDATED: 2026-01-08 02:11:02
+# DOMAIN-SUFFIX: 115002
+# IP-CIDR: 8268
+# IP-CIDR6: 4292
+# TOTAL: 127947
 .0.zone
 .00.net
 .000.link
@@ -19226,6 +19231,7 @@
 .cfachina.org
 .cfanlost.com
 .cfbond.com
+.cfc108.com
 .cfc365.com
 .cfca-c.org
 .cfccd.com

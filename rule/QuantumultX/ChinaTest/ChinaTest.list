@@ -21,6 +21,8 @@
 # UPDATED: 2026-01-04 02:08:40
 # HOST: 132
 # HOST-SUFFIX: 114392
+# UPDATED: 2026-01-08 02:09:01
+# HOST-SUFFIX: 114393
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -33,6 +35,7 @@
 # TOTAL: 115242
 # TOTAL: 114930
 # TOTAL: 114580
+# TOTAL: 114581
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -22628,6 +22631,7 @@ HOST-SUFFIX,cf69.com,ChinaTest
 HOST-SUFFIX,cfachina.org,ChinaTest
 HOST-SUFFIX,cfanlost.com,ChinaTest
 HOST-SUFFIX,cfbond.com,ChinaTest
+HOST-SUFFIX,cfc108.com,ChinaTest
 HOST-SUFFIX,cfc365.com,ChinaTest
 HOST-SUFFIX,cfca-c.org,ChinaTest
 HOST-SUFFIX,cfccd.com,ChinaTest

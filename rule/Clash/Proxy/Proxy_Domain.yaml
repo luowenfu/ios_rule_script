@@ -26,6 +26,9 @@
 # UPDATED: 2026-01-04 02:08:18
 # DOMAIN-SUFFIX: 6578
 # TOTAL: 6710
+# UPDATED: 2026-01-08 02:08:42
+# DOMAIN-SUFFIX: 6583
+# TOTAL: 6715
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -252,6 +255,7 @@ payload:
   - '+.ai-kan.net'
   - '+.ai-wen.net'
   - '+.ai.dev'
+  - '+.ai.studio'
   - '+.aiosearch.com'
   - '+.aiph.net'
   - '+.airasia.com'
@@ -1386,6 +1390,7 @@ payload:
   - '+.dayabook.com'
   - '+.daylife.com'
   - '+.dayone.me'
+  - '+.dazn.com'
   - '+.db.tt'
   - '+.dbc.hk'
   - '+.dbgjd.com'
@@ -4092,6 +4097,8 @@ payload:
   - '+.onthehunt.com'
   - '+.ontrac.com'
   - '+.oojj.de'
+  - '+.ooni.io'
+  - '+.ooni.org'
   - '+.oopsforum.com'
   - '+.ooyala.com'
   - '+.open.com.hk'
@@ -6331,6 +6338,7 @@ payload:
   - '+.xbookcn.com'
   - '+.xbtce.com'
   - '+.xcafe.in'
+  - '+.xcancel.com'
   - '+.xcity.jp'
   - '+.xclient.info'
   - '+.xcritic.com'

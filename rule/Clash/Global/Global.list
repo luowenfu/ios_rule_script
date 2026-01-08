@@ -30,6 +30,9 @@
 # UPDATED: 2026-01-04 02:07:57
 # DOMAIN-SUFFIX: 32517
 # TOTAL: 32784
+# UPDATED: 2026-01-08 02:08:22
+# DOMAIN-SUFFIX: 32532
+# TOTAL: 32799
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -6488,7 +6491,6 @@ DOMAIN-SUFFIX,daylenerio.com
 DOMAIN-SUFFIX,daytonbmw.com
 DOMAIN-SUFFIX,daytontrucktires.com
 DOMAIN-SUFFIX,dazn-api.com
-DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,daznfeeds.com
 DOMAIN-SUFFIX,daznplayer.com
@@ -16793,6 +16795,15 @@ DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,ngodupdongchung.com
+DOMAIN-SUFFIX,ngrok-free.app
+DOMAIN-SUFFIX,ngrok-free.dev
+DOMAIN-SUFFIX,ngrok-free.pizza
+DOMAIN-SUFFIX,ngrok.app
+DOMAIN-SUFFIX,ngrok.com
+DOMAIN-SUFFIX,ngrok.dev
+DOMAIN-SUFFIX,ngrok.io
+DOMAIN-SUFFIX,ngrok.pizza
+DOMAIN-SUFFIX,ngrok.pro
 DOMAIN-SUFFIX,ngs.ac.uk
 DOMAIN-SUFFIX,ngwnet.ac.uk
 DOMAIN-SUFFIX,nhc.ac.uk
@@ -17668,7 +17679,6 @@ DOMAIN-SUFFIX,ontrack.ac.uk
 DOMAIN-SUFFIX,onxxxtube.com
 DOMAIN-SUFFIX,onxxxvideo.com
 DOMAIN-SUFFIX,oocdtp.ac.uk
-DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,ootbstudio.co.kr
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,op7979.com
@@ -18367,6 +18377,8 @@ DOMAIN-SUFFIX,pinduck.com
 DOMAIN-SUFFIX,pinflix.com
 DOMAIN-SUFFIX,ping.sx
 DOMAIN-SUFFIX,pingguotv.xyz
+DOMAIN-SUFFIX,pinggy.io
+DOMAIN-SUFFIX,pinggy.link
 DOMAIN-SUFFIX,pingxiangpuer.com
 DOMAIN-SUFFIX,pinkcore.com
 DOMAIN-SUFFIX,pinkcore.net
@@ -20039,6 +20051,7 @@ DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,rutc.ac.uk
 DOMAIN-SUFFIX,rutherford.ac.uk
 DOMAIN-SUFFIX,rutlandcollege.ac.uk
+DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
@@ -26363,6 +26376,7 @@ DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
@@ -27473,6 +27487,7 @@ DOMAIN-SUFFIX,dawangidc.com
 DOMAIN-SUFFIX,dayabook.com
 DOMAIN-SUFFIX,daylife.com
 DOMAIN-SUFFIX,dayone.me
+DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,dbc.hk
 DOMAIN-SUFFIX,dbgjd.com
@@ -30160,6 +30175,8 @@ DOMAIN-SUFFIX,onmypc.us
 DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oojj.de
+DOMAIN-SUFFIX,ooni.io
+DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,open.com.hk
@@ -32380,6 +32397,7 @@ DOMAIN-SUFFIX,xbabe.com
 DOMAIN-SUFFIX,xbookcn.com
 DOMAIN-SUFFIX,xbtce.com
 DOMAIN-SUFFIX,xcafe.in
+DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xcity.jp
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xcritic.com

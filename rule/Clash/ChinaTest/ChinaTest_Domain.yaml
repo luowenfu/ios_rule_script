@@ -31,6 +31,9 @@
 # DOMAIN: 132
 # DOMAIN-SUFFIX: 114392
 # TOTAL: 114548
+# UPDATED: 2026-01-08 02:09:06
+# DOMAIN-SUFFIX: 114393
+# TOTAL: 114549
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -22627,6 +22630,7 @@ payload:
   - '+.cfachina.org'
   - '+.cfanlost.com'
   - '+.cfbond.com'
+  - '+.cfc108.com'
   - '+.cfc365.com'
   - '+.cfca-c.org'
   - '+.cfccd.com'
