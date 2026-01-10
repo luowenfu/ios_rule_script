@@ -34,6 +34,9 @@
 # UPDATED: 2026-01-08 02:09:06
 # DOMAIN-SUFFIX: 114393
 # TOTAL: 114549
+# UPDATED: 2026-01-10 02:08:49
+# DOMAIN-SUFFIX: 114395
+# TOTAL: 114551
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -37442,6 +37445,7 @@ xn--flw351e.com
 +.fnkvision.com
 +.fnmobi.com
 +.fnnas.com
++.fnnas.net
 +.fnnsh.com
 +.fnnspa.com
 +.fnos.net
@@ -90279,6 +90283,7 @@ xn--flw351e.com
 +.tapai.com
 +.tapaijiu.com
 +.tapapis.com
++.tapapks.com
 +.tapas.net
 +.tapbooster.net
 +.tapdata.net

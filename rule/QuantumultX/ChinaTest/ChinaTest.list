@@ -23,6 +23,8 @@
 # HOST-SUFFIX: 114392
 # UPDATED: 2026-01-08 02:09:01
 # HOST-SUFFIX: 114393
+# UPDATED: 2026-01-10 02:08:45
+# HOST-SUFFIX: 114395
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -36,6 +38,7 @@
 # TOTAL: 114930
 # TOTAL: 114580
 # TOTAL: 114581
+# TOTAL: 114583
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -37444,6 +37447,7 @@ HOST-SUFFIX,fnkslift.com,ChinaTest
 HOST-SUFFIX,fnkvision.com,ChinaTest
 HOST-SUFFIX,fnmobi.com,ChinaTest
 HOST-SUFFIX,fnnas.com,ChinaTest
+HOST-SUFFIX,fnnas.net,ChinaTest
 HOST-SUFFIX,fnnsh.com,ChinaTest
 HOST-SUFFIX,fnnspa.com,ChinaTest
 HOST-SUFFIX,fnos.net,ChinaTest
@@ -90281,6 +90285,7 @@ HOST-SUFFIX,tapafun.com,ChinaTest
 HOST-SUFFIX,tapai.com,ChinaTest
 HOST-SUFFIX,tapaijiu.com,ChinaTest
 HOST-SUFFIX,tapapis.com,ChinaTest
+HOST-SUFFIX,tapapks.com,ChinaTest
 HOST-SUFFIX,tapas.net,ChinaTest
 HOST-SUFFIX,tapbooster.net,ChinaTest
 HOST-SUFFIX,tapdata.net,ChinaTest

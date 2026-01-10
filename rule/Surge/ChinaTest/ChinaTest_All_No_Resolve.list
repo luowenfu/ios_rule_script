@@ -35,6 +35,9 @@
 # UPDATED: 2026-01-08 02:09:01
 # DOMAIN-SUFFIX: 114393
 # TOTAL: 114580
+# UPDATED: 2026-01-10 02:08:44
+# DOMAIN-SUFFIX: 114395
+# TOTAL: 114582
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -37443,6 +37446,7 @@ DOMAIN-SUFFIX,fnkslift.com
 DOMAIN-SUFFIX,fnkvision.com
 DOMAIN-SUFFIX,fnmobi.com
 DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnnsh.com
 DOMAIN-SUFFIX,fnnspa.com
 DOMAIN-SUFFIX,fnos.net
@@ -90280,6 +90284,7 @@ DOMAIN-SUFFIX,tapafun.com
 DOMAIN-SUFFIX,tapai.com
 DOMAIN-SUFFIX,tapaijiu.com
 DOMAIN-SUFFIX,tapapis.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapas.net
 DOMAIN-SUFFIX,tapbooster.net
 DOMAIN-SUFFIX,tapdata.net

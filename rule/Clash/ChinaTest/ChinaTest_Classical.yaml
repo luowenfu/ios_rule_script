@@ -34,6 +34,9 @@
 # UPDATED: 2026-01-08 02:09:05
 # DOMAIN-SUFFIX: 114393
 # TOTAL: 114549
+# UPDATED: 2026-01-10 02:08:49
+# DOMAIN-SUFFIX: 114395
+# TOTAL: 114551
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -37443,6 +37446,7 @@ payload:
   - DOMAIN-SUFFIX,fnkvision.com
   - DOMAIN-SUFFIX,fnmobi.com
   - DOMAIN-SUFFIX,fnnas.com
+  - DOMAIN-SUFFIX,fnnas.net
   - DOMAIN-SUFFIX,fnnsh.com
   - DOMAIN-SUFFIX,fnnspa.com
   - DOMAIN-SUFFIX,fnos.net
@@ -90280,6 +90284,7 @@ payload:
   - DOMAIN-SUFFIX,tapai.com
   - DOMAIN-SUFFIX,tapaijiu.com
   - DOMAIN-SUFFIX,tapapis.com
+  - DOMAIN-SUFFIX,tapapks.com
   - DOMAIN-SUFFIX,tapas.net
   - DOMAIN-SUFFIX,tapbooster.net
   - DOMAIN-SUFFIX,tapdata.net
