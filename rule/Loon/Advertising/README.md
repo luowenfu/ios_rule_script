@@ -54,6 +54,10 @@
 | TOTAL | 212549  | 
 | DOMAIN-SUFFIX | 195884  | 
 | TOTAL | 213127  | 
+最后更新时间：2026-01-12 02:04:37
+| DOMAIN | 16464  | 
+| DOMAIN-SUFFIX | 196471  | 
+| TOTAL | 213716  | 
 ## Loon 
 #### 使用说明
 - URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置Advertising_MITM.plugin，仅供参考。

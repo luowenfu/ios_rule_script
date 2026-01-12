@@ -2,8 +2,9 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2025-12-20 02:06:14
+# UPDATED: 2026-01-12 02:06:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 13142
+# DOMAIN: 13143
 # DOMAIN-KEYWORD: 280
 # DOMAIN-SUFFIX: 226600
 # IP-CIDR: 508
@@ -43,6 +44,8 @@
 # UPDATED: 2026-01-10 02:06:30
 # DOMAIN-SUFFIX: 232348
 # TOTAL: 246295
+# DOMAIN-SUFFIX: 232967
+# TOTAL: 246915
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-rtb.gravite.net
 DOMAIN-KEYWORD,-s2s.sensic.net
