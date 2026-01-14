@@ -41,6 +41,7 @@
 # UPDATED: 2026-01-12 02:09:02
 # DOMAIN: 126
 # TOTAL: 257
+# UPDATED: 2026-01-14 02:10:17
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -49,23 +50,25 @@ payload:
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.okmp3.ru
+  - DOMAIN,bt.poletracker.org
   - DOMAIN,bt.rer.lol
+  - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,burmese.app
   - DOMAIN,bvarf.tracker.sh
   - DOMAIN,cny.fan
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,echostar.ddnsfree.com
+  - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,ibksturm.synology.me
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,node02.torrentonline.cc
   - DOMAIN,ns575949.ip-51-222-82.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
@@ -75,6 +78,7 @@ payload:
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.cl
+  - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.io
   - DOMAIN,opentracker.xyz
@@ -84,26 +88,30 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,run.publictracker.xyz
+  - DOMAIN,seeders-paradise.org
   - DOMAIN,shahidrazi.online
+  - DOMAIN,shubt.net
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
+  - DOMAIN,torrent.hificode.in
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentclub.online
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abiir.top
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.highstar.shop
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
+  - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.1h.is
-  - DOMAIN,tracker.23794.top
-  - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bluefrog.pw
   - DOMAIN,tracker.breizh.pm
+  - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bug38.com
   - DOMAIN,tracker.bz
@@ -143,10 +151,10 @@ payload:
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
+  - DOMAIN,tracker.sbsub.com
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.t-1.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
@@ -169,11 +177,13 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker3.t-1.org
   - DOMAIN,tracker4.itzmx.com
+  - DOMAIN,tracker810.xyz
   - DOMAIN,trackr.appolon.dev
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,v74853.hosted-by-vdsina.com
   - DOMAIN,www.all4nothin.net
+  - DOMAIN,www.genesis-sp.org
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.wareztorrent.com
   - DOMAIN-SUFFIX,1ptba.com

@@ -24,6 +24,8 @@
 # DOMAIN-SUFFIX: 32532
 # UPDATED: 2026-01-10 02:08:05
 # DOMAIN-SUFFIX: 32557
+# UPDATED: 2026-01-14 02:09:01
+# DOMAIN-SUFFIX: 32581
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -37,6 +39,7 @@
 # TOTAL: 32830
 # TOTAL: 32845
 # TOTAL: 32870
+# TOTAL: 32894
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -5240,6 +5243,7 @@
 .brotli.org
 .brourou.com
 .browser.kagi.com
+.browser.run
 .brox-coll.ac.uk
 .broxtowe.ac.uk
 .brucewang.net
@@ -6175,6 +6179,7 @@
 .cfas.ac.uk
 .cfblob.com
 .cfd-tv.com
+.cfdata.org
 .cfdesign.com
 .cfhks.org.hk
 .cfl.re
@@ -6740,26 +6745,34 @@
 .cloudflare-gateway.com
 .cloudflare-ipfs.com
 .cloudflare-quic.com
+.cloudflare-terms-of-service-abuse.com
 .cloudflare.com
+.cloudflare.dev
 .cloudflare.net
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareapps.com
 .cloudflarebolt.com
+.cloudflarebrowser.com
+.cloudflarechallenge.com
 .cloudflareclient.com
+.cloudflarecp.com
 .cloudflareinsights.com
 .cloudflareok.com
 .cloudflarepartners.com
 .cloudflareportal.com
 .cloudflarepreview.com
 .cloudflareregistrar.com
+.cloudflareresearch.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com
 .cloudflarestorage.com
 .cloudflarestream.com
+.cloudflaresupport.com
 .cloudflaretest.com
 .cloudflarewarp.com
+.cloudflareworkers.com
 .cloudfront.com
 .cloudfront.net
 .cloudfunctions.net
@@ -9605,6 +9618,7 @@
 .enbit.ac.uk
 .encoretvb.com
 .encrypt.me
+.encryptedsni.com
 .encuentroscasualesoecuador.com
 .encyclopedia.com
 .enema-porn.com
@@ -9932,6 +9946,7 @@
 .espn.net
 .espncdn.com
 .espnqa.com
+.esports.gg
 .esposasymaridos.com
 .esrc.ac.uk
 .esrcfestival.ac.uk
@@ -11727,10 +11742,12 @@
 .game-platform.net
 .game-repack.site
 .game735.com
+.gameapps.hk
 .gamebase.com.tw
 .gamebeforethegame.com
 .gamebiz.jp
 .gamebusiness.jp
+.gamefocus.co.kr
 .gamejolt.com
 .gameloft.com
 .gamemeca.com
@@ -14710,6 +14727,7 @@
 .ig.me
 .igaychat.com
 .igayporn.tv
+.igcc.jp
 .igcd.net
 .igcdn.com
 .iger.ac.uk
@@ -15079,6 +15097,7 @@
 .inoreader.com
 .inote.tw
 .inporn.com
+.inquirer.net
 .inquisitionspostmortem.ac.uk
 .insder.co
 .insecam.org
@@ -17874,6 +17893,7 @@
 .mahajantech.com
 .mahjongsoul.com
 .mahsc.ac.uk
+.maidonanews.jp
 .maiio.net
 .mail-archive.com
 .mail.com
@@ -19196,6 +19216,7 @@
 .modrinth.com
 .modular.im
 .moeaic.gov.tw
+.moedigi.com
 .moeero-library.com
 .moeerolibrary.com
 .moefuns.co
@@ -19798,6 +19819,7 @@
 .mymom.info
 .mymusclevideo.com
 .mymusic.net.tw
+.mynavi.jp
 .mynescol.ac.uk
 .mynetav.net
 .mynetav.org
@@ -21602,6 +21624,7 @@
 .openapiservice.com
 .openart.ai
 .openbase.com
+.openbook.org.tw
 .opencas.io
 .opencollective.com
 .opencreate.org
@@ -24157,6 +24180,7 @@
 .repe21.com
 .repo.new
 .repositorynet.ac.uk
+.repotama.com
 .repsils.no
 .repsneakermall.com
 .repswing.com
@@ -26385,6 +26409,7 @@
 .sqhwesternconsortium.ac.uk
 .sqlite.org
 .sqlserveronlinux.com
+.sqool.net
 .squ1.com
 .squadbusters.com
 .squarecapital.com
@@ -27234,6 +27259,7 @@
 .tamiaode.tk
 .tamilsexvideos.cc
 .tampabay.com
+.tampermonkey.net
 .tamtam.chat
 .tamworth.ac.uk
 .tamworthandlichfield.ac.uk
@@ -28185,6 +28211,7 @@
 .toxin-up.sbs
 .toxinzoo.sbs
 .toy-cadcam.com
+.toy-people.com
 .toycadcam.com
 .toyobank.co.jp
 .toypark.in

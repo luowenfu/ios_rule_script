@@ -57,6 +57,10 @@
 | DOMAIN | 16464  | 
 | DOMAIN-SUFFIX | 196471  | 
 | TOTAL | 213716  | 
+最后更新时间：2026-01-14 02:05:53
+| DOMAIN | 16469  | 
+| DOMAIN-SUFFIX | 197040  | 
+| TOTAL | 214290  | 
 ## Shadowrocket 
 #### 使用说明
 - Advertising.list，请使用RULE-SET。
