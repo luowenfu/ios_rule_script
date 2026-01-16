@@ -44,6 +44,8 @@ HOST,0d.kebhana.mx,PrivateTracker
 # HOST: 126
 # TOTAL: 257
 # UPDATED: 2026-01-14 02:10:17
+# UPDATED: 2026-01-16 02:13:12
+# IP-CIDR: 3
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,PrivateTracker
@@ -51,9 +53,7 @@ HOST,admin.52ywp.com,PrivateTracker
 HOST,bandito.byterunner.io,PrivateTracker
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,PrivateTracker
 HOST,bt.okmp3.ru,PrivateTracker
-HOST,bt.poletracker.org,PrivateTracker
 HOST,bt.rer.lol,PrivateTracker
-HOST,bt1.xxxxbt.cc,PrivateTracker
 HOST,burmese.app,PrivateTracker
 HOST,bvarf.tracker.sh,PrivateTracker
 HOST,cny.fan,PrivateTracker
@@ -69,7 +69,7 @@ HOST,ipv6.rer.lol,PrivateTracker
 HOST,leet-tracker.moe,PrivateTracker
 HOST,lucke.fenesisu.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
-HOST,node02.torrentonline.cc,PrivateTracker
+HOST,node01.trackerstatus.live,PrivateTracker
 HOST,ns575949.ip-51-222-82.net,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,open-tracker.demonoid.ch,PrivateTracker
@@ -79,7 +79,6 @@ HOST,open.demonoid.ch,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.cl,PrivateTracker
-HOST,open.trackerlist.xyz,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,opentracker.xyz,PrivateTracker
@@ -89,12 +88,9 @@ HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
 HOST,retracker01-msk-virt.corbina.net,PrivateTracker
 HOST,run.publictracker.xyz,PrivateTracker
-HOST,seeders-paradise.org,PrivateTracker
 HOST,shahidrazi.online,PrivateTracker
-HOST,shubt.net,PrivateTracker
 HOST,t.213891.xyz,PrivateTracker
 HOST,t.overflow.biz,PrivateTracker
-HOST,torrent.hificode.in,PrivateTracker
 HOST,torrent.tracker.durukanbal.com,PrivateTracker
 HOST,torrentclub.online,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
@@ -107,12 +103,12 @@ HOST,tr.zukizuki.org,PrivateTracker
 HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,tracker-de-2.cutie.dating,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
-HOST,tracker.0x7c0.com,PrivateTracker
+HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
 HOST,tracker.1h.is,PrivateTracker
+HOST,tracker.23794.top,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bluefrog.pw,PrivateTracker
 HOST,tracker.breizh.pm,PrivateTracker
-HOST,tracker.bt-hash.com,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
 HOST,tracker.bug38.com,PrivateTracker
 HOST,tracker.bz,PrivateTracker
@@ -120,8 +116,6 @@ HOST,tracker.cangku.moe,PrivateTracker
 HOST,tracker.cloudbase.store,PrivateTracker
 HOST,tracker.corpscorp.online,PrivateTracker
 HOST,tracker.cutie.dating,PrivateTracker
-HOST,tracker.cyberia.is,PrivateTracker
-HOST,tracker.darkness.services,PrivateTracker
 HOST,tracker.dhitechnical.com,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
@@ -152,7 +146,6 @@ HOST,tracker.plx.im,PrivateTracker
 HOST,tracker.pmman.tech,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
-HOST,tracker.sbsub.com,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.t-1.org,PrivateTracker
@@ -178,13 +171,11 @@ HOST,tracker2.itzmx.com,PrivateTracker
 HOST,tracker3.itzmx.com,PrivateTracker
 HOST,tracker3.t-1.org,PrivateTracker
 HOST,tracker4.itzmx.com,PrivateTracker
-HOST,tracker810.xyz,PrivateTracker
 HOST,trackr.appolon.dev,PrivateTracker
 HOST,udp.tracker.projectk.org,PrivateTracker
 HOST,utracker.ghostchu-services.top,PrivateTracker
-HOST,v74853.hosted-by-vdsina.com,PrivateTracker
+HOST,wepzone.net,PrivateTracker
 HOST,www.all4nothin.net,PrivateTracker
-HOST,www.genesis-sp.org,PrivateTracker
 HOST,www.torrent.eu.org,PrivateTracker
 HOST,www.wareztorrent.com,PrivateTracker
 HOST-SUFFIX,1ptba.com,PrivateTracker
@@ -317,4 +308,3 @@ HOST-KEYWORD,torrent,PrivateTracker
 IP-CIDR,207.241.226.111/32,PrivateTracker
 IP-CIDR,207.241.231.226/32,PrivateTracker
 IP-CIDR,52.58.128.163/32,PrivateTracker
-IP-CIDR,89.110.76.229/32,PrivateTracker

@@ -56,6 +56,10 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 33463  | 
 | HOST-SUFFIX | 32635  | 
 | TOTAL | 33487  | 
+最后更新时间：2026-01-16 02:12:13
+| HOST | 661  | 
+| HOST-SUFFIX | 32645  | 
+| TOTAL | 33504  | 
 ## QuantumultX 
 #### 配置建议
 - Global.list 单独使用。

@@ -40,6 +40,10 @@
 # UPDATED: 2026-01-14 02:09:22
 # HOST-SUFFIX: 32635
 # TOTAL: 33487
+# UPDATED: 2026-01-16 02:12:13
+# HOST: 661
+# HOST-SUFFIX: 32645
+# TOTAL: 33504
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -82,6 +86,8 @@ HOST,amp.akamaized.net,Global
 HOST,android.googlesource.com,Global
 HOST,angle.com.tw,Global
 HOST,anime-rule34-world.b-cdn.net,Global
+HOST,antigravity-pa.googleapis.com,Global
+HOST,antigravity.googleapis.com,Global
 HOST,aod-pod-uk-live.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,api.viu.now.com,Global
@@ -139,6 +145,8 @@ HOST,ciscolivehls-i.akamaihd.net,Global
 HOST,client-teamviewer-com.trafficmanager.net,Global
 HOST,clients1.google.com,Global
 HOST,cloud-cdn-digitalocean-com.global.ssl.fastly.net,Global
+HOST,cloudaicompanion.googleapis.com,Global
+HOST,cloudcode-pa.googleapis.com,Global
 HOST,cloudsync-prod.s3.amazonaws.com,Global
 HOST,clubhouse.pubnubapi.com,Global
 HOST,community.oneplus.com,Global
@@ -178,6 +186,7 @@ HOST,d3r7nsslvs6aaf.cloudfront.net,Global
 HOST,d3vd9lfkzbru3h.cloudfront.net,Global
 HOST,d6d4ismr40iw.cloudfront.net,Global
 HOST,d6tizftlrpuof.cloudfront.net,Global
+HOST,daily-cloudcode-pa.googleapis.com,Global
 HOST,databank.worldbank.org,Global
 HOST,database.asahi.com,Global
 HOST,datarouter.apps.netherrealm.com,Global
@@ -311,6 +320,8 @@ HOST,news-edge.apple.com,Global
 HOST,news-events.apple.com,Global
 HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,Global
 HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,Global
+HOST,notebooklm-pa.googleapis.com,Global
+HOST,notebooklm.googleapis.com,Global
 HOST,notify.ppy.sh,Global
 HOST,ntdofifreepc-tgc.cdn.hinet.net,Global
 HOST,ntdfreemobile-tgc.cdn.hinet.net,Global
@@ -7395,6 +7406,7 @@ HOST-SUFFIX,digitwin.ac.uk,Global
 HOST-SUFFIX,dilcdn.com,Global
 HOST-SUFFIX,dilstoncollege.ac.uk,Global
 HOST-SUFFIX,dingchin.com.tw,Global
+HOST-SUFFIX,dinopoloclub.com,Global
 HOST-SUFFIX,dinotube.com,Global
 HOST-SUFFIX,dippam.ac.uk,Global
 HOST-SUFFIX,dirac.ac.uk,Global
@@ -15978,6 +15990,7 @@ HOST-SUFFIX,mobilepornmovies.com,Global
 HOST-SUFFIX,mobileview.page,Global
 HOST-SUFFIX,mobilevrxxx.com,Global
 HOST-SUFFIX,mobilitymoodplace.ac.uk,Global
+HOST-SUFFIX,mobimon.com.tw,Global
 HOST-SUFFIX,mobmyanmar.com,Global
 HOST-SUFFIX,mochajs.org,Global
 HOST-SUFFIX,mocloudplus.com,Global
@@ -17223,6 +17236,9 @@ HOST-SUFFIX,nikey.com,Global
 HOST-SUFFIX,nikezoom.com,Global
 HOST-SUFFIX,nikkan-gendai.com,Global
 HOST-SUFFIX,nikkansports.com,Global
+HOST-SUFFIX,nikke-de.com,Global
+HOST-SUFFIX,nikke-fr.com,Global
+HOST-SUFFIX,nikke-sea.com,Global
 HOST-SUFFIX,nikkei-cnbc.co.jp,Global
 HOST-SUFFIX,nikkei.co.jp,Global
 HOST-SUFFIX,nikkei.jp,Global
@@ -17415,6 +17431,7 @@ HOST-SUFFIX,nowe.com,Global
 HOST-SUFFIX,nowe.hk,Global
 HOST-SUFFIX,nowjav.com,Global
 HOST-SUFFIX,nox.ac.uk,Global
+HOST-SUFFIX,noxygames.com,Global
 HOST-SUFFIX,nozomi.la,Global
 HOST-SUFFIX,npcrdc.ac.uk,Global
 HOST-SUFFIX,nphcardiac-research.ac.uk,Global
@@ -19671,6 +19688,8 @@ HOST-SUFFIX,ravensbourne.ac.uk,Global
 HOST-SUFFIX,ravensbourneuniversitylondon.ac.uk,Global
 HOST-SUFFIX,ravm.tv,Global
 HOST-SUFFIX,raxcdn.com,Global
+HOST-SUFFIX,rayark.download,Global
+HOST-SUFFIX,rayark.net,Global
 HOST-SUFFIX,razer.com,Global
 HOST-SUFFIX,razerofficial.com,Global
 HOST-SUFFIX,razersupport.com,Global
@@ -21149,6 +21168,8 @@ HOST-SUFFIX,signalr.net,Global
 HOST-SUFFIX,signalusers.org,Global
 HOST-SUFFIX,sigops.org,Global
 HOST-SUFFIX,sigopt.com,Global
+HOST-SUFFIX,sih-db.com,Global
+HOST-SUFFIX,sih.app,Global
 HOST-SUFFIX,sihe.ac.uk,Global
 HOST-SUFFIX,sikh-uni.ac.uk,Global
 HOST-SUFFIX,sikiswap.com,Global

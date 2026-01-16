@@ -53,6 +53,10 @@ ChinaMax排除相关IP规则版本
 | TOTAL | 115439  | 
 | DOMAIN-SUFFIX | 115268  | 
 | TOTAL | 115591  | 
+最后更新时间：2026-01-16 02:14:09
+| DOMAIN | 303  | 
+| DOMAIN-SUFFIX | 115150  | 
+| TOTAL | 115480  | 
 ## Clash 
 #### 使用说明
 - ChinaMaxNoIP.yaml，请使用 behavior: "classical"。
