@@ -64,6 +64,10 @@
 | TOTAL | 214276  | 
 | DOMAIN-SUFFIX | 197522  | 
 | TOTAL | 214758  | 
+最后更新时间：2026-01-18 02:04:25
+| DOMAIN | 16467  | 
+| DOMAIN-SUFFIX | 198106  | 
+| TOTAL | 215340  | 
 ## Clash 
 #### 使用说明
 - Advertising.yaml，请使用 behavior: "classical"。
