@@ -11,6 +11,24 @@
 # UPDATED: 2025-12-22 02:08:23
 # DOMAIN-SUFFIX: 6562
 # TOTAL: 6694
+# UPDATED: 2025-12-24 02:08:18
+# DOMAIN-SUFFIX: 6563
+# TOTAL: 6695
+# UPDATED: 2025-12-26 02:08:27
+# DOMAIN-SUFFIX: 6564
+# TOTAL: 6696
+# UPDATED: 2025-12-28 02:08:10
+# DOMAIN-SUFFIX: 6565
+# TOTAL: 6697
+# UPDATED: 2025-12-30 02:08:27
+# DOMAIN-SUFFIX: 6567
+# TOTAL: 6699
+# UPDATED: 2026-01-04 02:08:18
+# DOMAIN-SUFFIX: 6578
+# TOTAL: 6710
+# UPDATED: 2026-01-08 02:08:42
+# DOMAIN-SUFFIX: 6583
+# TOTAL: 6715
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -236,6 +254,7 @@ voice.telephony.goog
 .ai-kan.net
 .ai-wen.net
 .ai.dev
+.ai.studio
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -275,6 +294,7 @@ voice.telephony.goog
 .aliengu.com
 .alive.bar
 .aljazeera.com
+.aljazeera.net
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -1369,6 +1389,7 @@ voice.telephony.goog
 .dayabook.com
 .daylife.com
 .dayone.me
+.dazn.com
 .db.tt
 .dbc.hk
 .dbgjd.com
@@ -2208,6 +2229,7 @@ voice.telephony.goog
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gfwlist.end
 .gfwlist.start
 .gfx.ms
@@ -3323,6 +3345,7 @@ voice.telephony.goog
 .lotsawahouse.org
 .lotuslight.org.hk
 .lotuslight.org.tw
+.lovart.ai
 .loved.hk
 .lovetvshow.com
 .lpsg.com
@@ -3797,6 +3820,7 @@ voice.telephony.goog
 .neo-miracle.com
 .neoforged.net
 .neowin.net
+.nephobox.com
 .netalert.me
 .netbirds.com
 .netcolony.com
@@ -4072,6 +4096,8 @@ voice.telephony.goog
 .onthehunt.com
 .ontrac.com
 .oojj.de
+.ooni.io
+.ooni.org
 .oopsforum.com
 .ooyala.com
 .open.com.hk
@@ -4202,6 +4228,7 @@ voice.telephony.goog
 .pdetails.com
 .pdfexpert.com
 .pdproxy.com
+.pdst.fm
 .peace.ca
 .peacefire.org
 .peacehall.com
@@ -4270,14 +4297,23 @@ voice.telephony.goog
 .pinoy-n.com
 .pinterest.at
 .pinterest.ca
+.pinterest.cl
 .pinterest.co.kr
 .pinterest.co.uk
 .pinterest.com
+.pinterest.com.au
+.pinterest.com.mx
 .pinterest.de
 .pinterest.dk
+.pinterest.es
 .pinterest.fr
+.pinterest.ie
+.pinterest.it
 .pinterest.jp
 .pinterest.nl
+.pinterest.nz
+.pinterest.ph
+.pinterest.pt
 .pinterest.se
 .pipii.tv
 .piposay.com
@@ -5067,6 +5103,7 @@ voice.telephony.goog
 .stat.gov.tw
 .state.gov
 .static-economist.com
+.static.pocketcasts.com
 .statically.io
 .staticflickr.com
 .statueofdemocracy.org
@@ -5820,6 +5857,7 @@ voice.telephony.goog
 .untraceable.us
 .unwire.hk
 .uocn.org
+.up.audio
 .upbit.com
 .updatestar.com
 .upghsbc.com
@@ -6299,6 +6337,7 @@ voice.telephony.goog
 .xbookcn.com
 .xbtce.com
 .xcafe.in
+.xcancel.com
 .xcity.jp
 .xclient.info
 .xcritic.com

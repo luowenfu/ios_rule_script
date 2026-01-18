@@ -16,17 +16,49 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 ## 规则统计
 最后更新时间：2025-12-20 02:07:59
 最后更新时间：2025-12-22 02:08:04
+最后更新时间：2025-12-26 02:08:07
+最后更新时间：2025-12-28 02:07:50
+最后更新时间：2025-12-30 02:08:07
+最后更新时间：2026-01-01 02:08:03
+最后更新时间：2026-01-02 02:07:48
+最后更新时间：2026-01-04 02:07:58
+最后更新时间：2026-01-08 02:08:22
+最后更新时间：2026-01-10 02:08:07
+最后更新时间：2026-01-14 02:09:03
+最后更新时间：2026-01-16 02:11:54
+最后更新时间：2026-01-18 02:07:27
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 117  | 
+| DOMAIN | 114  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
+| DOMAIN-SUFFIX | 32372  | 
 | IP-CIDR | 116  | 
 | USER-AGENT | 46  | 
 | TOTAL | 32655  | 
 | DOMAIN-SUFFIX | 32348  | 
 | TOTAL | 32663  | 
+| DOMAIN-SUFFIX | 32362  | 
+| TOTAL | 32677  | 
+| DOMAIN-SUFFIX | 32363  | 
+| TOTAL | 32678  | 
+| DOMAIN-SUFFIX | 32367  | 
+| TOTAL | 32682  | 
+| DOMAIN-SUFFIX | 32369  | 
+| TOTAL | 32684  | 
+| DOMAIN-SUFFIX | 32517  | 
+| TOTAL | 32829  | 
+| DOMAIN-SUFFIX | 32532  | 
+| TOTAL | 32844  | 
+| DOMAIN-SUFFIX | 32557  | 
+| TOTAL | 32869  | 
+| DOMAIN-SUFFIX | 32581  | 
+| TOTAL | 32893  | 
+| DOMAIN-SUFFIX | 32591  | 
+| TOTAL | 32903  | 
+| DOMAIN-SUFFIX | 32598  | 
+| TOTAL | 32910  | 
 ## Shadowrocket 
 #### 使用说明
 - Global.list，请使用RULE-SET。

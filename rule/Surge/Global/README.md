@@ -16,19 +16,51 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 ## 规则统计
 最后更新时间：2025-12-20 02:07:57
 最后更新时间：2025-12-22 02:08:02
+最后更新时间：2025-12-26 02:08:06
+最后更新时间：2025-12-28 02:07:49
+最后更新时间：2025-12-30 02:08:05
+最后更新时间：2026-01-01 02:08:01
+最后更新时间：2026-01-02 02:07:46
+最后更新时间：2026-01-04 02:07:56
+最后更新时间：2026-01-08 02:08:21
+最后更新时间：2026-01-10 02:08:05
+最后更新时间：2026-01-14 02:09:01
+最后更新时间：2026-01-16 02:11:52
+最后更新时间：2026-01-18 02:07:26
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 117  | 
+| DOMAIN | 114  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32348  | 
+| DOMAIN-SUFFIX | 32362  | 
+| DOMAIN-SUFFIX | 32363  | 
+| DOMAIN-SUFFIX | 32367  | 
+| DOMAIN-SUFFIX | 32369  | 
+| DOMAIN-SUFFIX | 32372  | 
+| DOMAIN-SUFFIX | 32517  | 
+| DOMAIN-SUFFIX | 32532  | 
+| DOMAIN-SUFFIX | 32557  | 
+| DOMAIN-SUFFIX | 32581  | 
+| DOMAIN-SUFFIX | 32591  | 
+| DOMAIN-SUFFIX | 32598  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
 | USER-AGENT | 46  | 
 | TOTAL | 32656  | 
 | TOTAL | 32664  | 
+| TOTAL | 32678  | 
+| TOTAL | 32679  | 
+| TOTAL | 32683  | 
+| TOTAL | 32685  | 
+| TOTAL | 32830  | 
+| TOTAL | 32845  | 
+| TOTAL | 32870  | 
+| TOTAL | 32894  | 
+| TOTAL | 32904  | 
+| TOTAL | 32911  | 
 ## Surge 
 #### 使用说明
 - Global.list，请使用RULE-SET。

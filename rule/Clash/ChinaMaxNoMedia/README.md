@@ -8,6 +8,16 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 ## 规则统计
 最后更新时间：2025-12-20 02:11:00
 最后更新时间：2025-12-22 02:11:01
+最后更新时间：2025-12-24 02:10:58
+最后更新时间：2025-12-28 02:10:51
+最后更新时间：2025-12-30 02:11:07
+最后更新时间：2026-01-01 02:11:01
+最后更新时间：2026-01-02 02:10:29
+最后更新时间：2026-01-06 02:10:37
+最后更新时间：2026-01-08 02:11:08
+最后更新时间：2026-01-10 02:10:47
+最后更新时间：2026-01-12 02:10:29
+最后更新时间：2026-01-14 02:11:45
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -24,6 +34,62 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8259  | 
 | IP-CIDR6 | 12300  | 
 | TOTAL | 137444  | 
+| DOMAIN-SUFFIX | 116567  | 
+| IP-CIDR6 | 12305  | 
+| TOTAL | 137447  | 
+最后更新时间：2025-12-26 02:11:10
+| DOMAIN | 293  | 
+| DOMAIN-SUFFIX | 115883  | 
+| IP-CIDR | 8256  | 
+| IP-CIDR6 | 12311  | 
+| TOTAL | 136769  | 
+| DOMAIN-SUFFIX | 115886  | 
+| IP-CIDR | 8321  | 
+| IP-CIDR6 | 12366  | 
+| TOTAL | 136892  | 
+| DOMAIN-SUFFIX | 115589  | 
+| IP-CIDR | 8253  | 
+| IP-CIDR6 | 12368  | 
+| TOTAL | 136529  | 
+| DOMAIN-SUFFIX | 115318  | 
+| IP-CIDR6 | 12365  | 
+| TOTAL | 136261  | 
+| IP-CIDR | 8270  | 
+| IP-CIDR6 | 4269  | 
+| TOTAL | 128176  | 
+最后更新时间：2026-01-04 02:10:51
+| DOMAIN | 296  | 
+| DOMAIN-SUFFIX | 115001  | 
+| IP-CIDR | 8266  | 
+| IP-CIDR6 | 4280  | 
+| TOTAL | 127869  | 
+| IP-CIDR6 | 4282  | 
+| TOTAL | 127871  | 
+| DOMAIN-SUFFIX | 115002  | 
+| IP-CIDR | 8268  | 
+| IP-CIDR6 | 4292  | 
+| TOTAL | 127884  | 
+| DOMAIN-SUFFIX | 115004  | 
+| IP-CIDR | 8271  | 
+| IP-CIDR6 | 4286  | 
+| TOTAL | 127883  | 
+| DOMAIN-SUFFIX | 115007  | 
+| IP-CIDR | 8274  | 
+| IP-CIDR6 | 4289  | 
+| TOTAL | 127892  | 
+| DOMAIN-SUFFIX | 115159  | 
+| IP-CIDR6 | 4287  | 
+| TOTAL | 128038  | 
+最后更新时间：2026-01-16 02:14:43
+| DOMAIN | 303  | 
+| DOMAIN-SUFFIX | 115041  | 
+| IP-CIDR | 8261  | 
+| TOTAL | 127923  | 
+最后更新时间：2026-01-18 02:10:01
+| DOMAIN | 306  | 
+| DOMAIN-SUFFIX | 114771  | 
+| IP-CIDR | 8264  | 
+| TOTAL | 127649  | 
 ## Clash 
 #### 使用说明
 - ChinaMaxNoMedia.yaml，请使用 behavior: "classical"。

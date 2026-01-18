@@ -8,6 +8,16 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 ## 规则统计
 最后更新时间：2025-12-20 02:11:02
 最后更新时间：2025-12-22 02:11:03
+最后更新时间：2025-12-24 02:11:01
+最后更新时间：2025-12-28 02:10:53
+最后更新时间：2025-12-30 02:11:10
+最后更新时间：2026-01-01 02:11:04
+最后更新时间：2026-01-02 02:10:32
+最后更新时间：2026-01-06 02:10:40
+最后更新时间：2026-01-08 02:11:11
+最后更新时间：2026-01-10 02:10:50
+最后更新时间：2026-01-12 02:10:32
+最后更新时间：2026-01-14 02:11:47
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -22,6 +32,52 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 116568  | 
 | IP-CIDR | 20559  | 
 | TOTAL | 137495  | 
+| DOMAIN-SUFFIX | 116567  | 
+| IP-CIDR | 20563  | 
+| TOTAL | 137498  | 
+最后更新时间：2025-12-26 02:11:12
+| DOMAIN | 293  | 
+| DOMAIN-SUFFIX | 115883  | 
+| IP-CIDR | 20567  | 
+| TOTAL | 136820  | 
+| DOMAIN-SUFFIX | 115886  | 
+| IP-CIDR | 20687  | 
+| TOTAL | 136943  | 
+| DOMAIN-SUFFIX | 115589  | 
+| IP-CIDR | 20621  | 
+| TOTAL | 136580  | 
+| DOMAIN-SUFFIX | 115318  | 
+| IP-CIDR | 20624  | 
+| TOTAL | 136312  | 
+| IP-CIDR | 12539  | 
+| TOTAL | 128227  | 
+最后更新时间：2026-01-04 02:10:53
+| DOMAIN | 296  | 
+| DOMAIN-SUFFIX | 115001  | 
+| IP-CIDR | 12546  | 
+| TOTAL | 127920  | 
+| IP-CIDR | 12548  | 
+| TOTAL | 127922  | 
+| DOMAIN-SUFFIX | 115002  | 
+| IP-CIDR | 12560  | 
+| TOTAL | 127935  | 
+| DOMAIN-SUFFIX | 115004  | 
+| IP-CIDR | 12557  | 
+| TOTAL | 127934  | 
+| DOMAIN-SUFFIX | 115007  | 
+| IP-CIDR | 12563  | 
+| TOTAL | 127943  | 
+| DOMAIN-SUFFIX | 115159  | 
+| TOTAL | 128089  | 
+最后更新时间：2026-01-16 02:14:46
+| DOMAIN | 303  | 
+| DOMAIN-SUFFIX | 115041  | 
+| IP-CIDR | 12553  | 
+| TOTAL | 127974  | 
+最后更新时间：2026-01-18 02:10:03
+| DOMAIN | 306  | 
+| DOMAIN-SUFFIX | 114771  | 
+| TOTAL | 127700  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMaxNoMedia.list，请使用RULE-SET。

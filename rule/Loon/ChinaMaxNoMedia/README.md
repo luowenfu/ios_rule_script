@@ -8,6 +8,16 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 ## 规则统计
 最后更新时间：2025-12-20 02:10:58
 最后更新时间：2025-12-22 02:10:59
+最后更新时间：2025-12-24 02:10:56
+最后更新时间：2025-12-28 02:10:49
+最后更新时间：2025-12-30 02:11:05
+最后更新时间：2026-01-01 02:11:00
+最后更新时间：2026-01-02 02:10:28
+最后更新时间：2026-01-06 02:10:35
+最后更新时间：2026-01-08 02:11:07
+最后更新时间：2026-01-10 02:10:45
+最后更新时间：2026-01-12 02:10:28
+最后更新时间：2026-01-14 02:11:43
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -24,6 +34,62 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8259  | 
 | IP-CIDR6 | 12300  | 
 | TOTAL | 137495  | 
+| DOMAIN-SUFFIX | 116567  | 
+| IP-CIDR6 | 12305  | 
+| TOTAL | 137498  | 
+最后更新时间：2025-12-26 02:11:08
+| DOMAIN | 293  | 
+| DOMAIN-SUFFIX | 115883  | 
+| IP-CIDR | 8256  | 
+| IP-CIDR6 | 12311  | 
+| TOTAL | 136820  | 
+| DOMAIN-SUFFIX | 115886  | 
+| IP-CIDR | 8321  | 
+| IP-CIDR6 | 12366  | 
+| TOTAL | 136943  | 
+| DOMAIN-SUFFIX | 115589  | 
+| IP-CIDR | 8253  | 
+| IP-CIDR6 | 12368  | 
+| TOTAL | 136580  | 
+| DOMAIN-SUFFIX | 115318  | 
+| IP-CIDR6 | 12365  | 
+| TOTAL | 136312  | 
+| IP-CIDR | 8270  | 
+| IP-CIDR6 | 4269  | 
+| TOTAL | 128227  | 
+最后更新时间：2026-01-04 02:10:49
+| DOMAIN | 296  | 
+| DOMAIN-SUFFIX | 115001  | 
+| IP-CIDR | 8266  | 
+| IP-CIDR6 | 4280  | 
+| TOTAL | 127920  | 
+| IP-CIDR6 | 4282  | 
+| TOTAL | 127922  | 
+| DOMAIN-SUFFIX | 115002  | 
+| IP-CIDR | 8268  | 
+| IP-CIDR6 | 4292  | 
+| TOTAL | 127935  | 
+| DOMAIN-SUFFIX | 115004  | 
+| IP-CIDR | 8271  | 
+| IP-CIDR6 | 4286  | 
+| TOTAL | 127934  | 
+| DOMAIN-SUFFIX | 115007  | 
+| IP-CIDR | 8274  | 
+| IP-CIDR6 | 4289  | 
+| TOTAL | 127943  | 
+| DOMAIN-SUFFIX | 115159  | 
+| IP-CIDR6 | 4287  | 
+| TOTAL | 128089  | 
+最后更新时间：2026-01-16 02:14:41
+| DOMAIN | 303  | 
+| DOMAIN-SUFFIX | 115041  | 
+| IP-CIDR | 8261  | 
+| TOTAL | 127974  | 
+最后更新时间：2026-01-18 02:09:59
+| DOMAIN | 306  | 
+| DOMAIN-SUFFIX | 114771  | 
+| IP-CIDR | 8264  | 
+| TOTAL | 127700  | 
 ## Loon 
 #### 文件区别
 - ChinaMaxNoMedia_Resolve.list与ChinaMaxNoMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
