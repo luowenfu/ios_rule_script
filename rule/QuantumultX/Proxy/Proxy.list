@@ -30,6 +30,9 @@
 # UPDATED: 2026-01-08 02:08:42
 # HOST-SUFFIX: 7061
 # TOTAL: 7211
+# UPDATED: 2026-01-20 02:08:19
+# HOST-SUFFIX: 7066
+# TOTAL: 7216
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -385,7 +388,10 @@ HOST-SUFFIX,angularjs.org,Proxy
 HOST-SUFFIX,animecrazy.net,Proxy
 HOST-SUFFIX,animeshippuuden.com,Proxy
 HOST-SUFFIX,aniscartujo.com,Proxy
+HOST-SUFFIX,annas-archive.in,Proxy
+HOST-SUFFIX,annas-archive.li,Proxy
 HOST-SUFFIX,annas-archive.org,Proxy
+HOST-SUFFIX,annas-archive.pm,Proxy
 HOST-SUFFIX,annas-archive.se,Proxy
 HOST-SUFFIX,annatam.com,Proxy
 HOST-SUFFIX,anobii.com,Proxy
@@ -4170,6 +4176,7 @@ HOST-SUFFIX,myspacecdn.com,Proxy
 HOST-SUFFIX,mytalkbox.com,Proxy
 HOST-SUFFIX,myteamspeak.com,Proxy
 HOST-SUFFIX,mytizi.com,Proxy
+HOST-SUFFIX,mytvsuper.com,Proxy
 HOST-SUFFIX,mywife.cc,Proxy
 HOST-SUFFIX,mywww.biz,Proxy
 HOST-SUFFIX,myz.info,Proxy
@@ -6138,6 +6145,7 @@ HOST-SUFFIX,tuzaijidi.com,Proxy
 HOST-SUFFIX,tv.com,Proxy
 HOST-SUFFIX,tvants.com,Proxy
 HOST-SUFFIX,tvb.com,Proxy
+HOST-SUFFIX,tvbanywhere.com,Proxy
 HOST-SUFFIX,tvboxnow.com,Proxy
 HOST-SUFFIX,tvbs.com.tw,Proxy
 HOST-SUFFIX,tvider.com,Proxy

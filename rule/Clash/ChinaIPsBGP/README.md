@@ -45,6 +45,9 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 3839  | 
 | TOTAL | 3839  | 
 最后更新时间：2026-01-16 02:13:15
+最后更新时间：2026-01-20 02:09:17
+| IP-CIDR | 3831  | 
+| TOTAL | 3831  | 
 ## Clash 
 #### 使用说明
 - ChinaIPsBGP_Classical.yaml，请使用 behavior: "classical"。
