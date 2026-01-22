@@ -32,6 +32,9 @@
 # UPDATED: 2026-01-20 02:08:18
 # DOMAIN-SUFFIX: 6588
 # TOTAL: 6720
+# UPDATED: 2026-01-22 02:17:22
+# DOMAIN-SUFFIX: 6590
+# TOTAL: 6722
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -6167,6 +6170,7 @@ voice.telephony.goog
 +.wefightcensorship.org
 +.wefong.com
 +.weiboleak.com
++.weights.com
 +.weihuo.org
 +.weijingsheng.org
 +.weiming.info
@@ -6505,6 +6509,7 @@ voice.telephony.goog
 +.youjizz.com
 +.youlucky.com
 +.youmaker.com
++.youmind.com
 +.youngspiration.hk
 +.youpai.org
 +.your-freedom.net

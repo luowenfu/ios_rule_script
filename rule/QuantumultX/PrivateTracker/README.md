@@ -55,6 +55,9 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 3  | 
 最后更新时间：2026-01-18 02:08:38
 | TOTAL | 264  | 
+最后更新时间：2026-01-22 02:18:17
+| HOST | 131  | 
+| TOTAL | 261  | 
 ## QuantumultX 
 #### 配置建议
 - PrivateTracker.list 单独使用。
