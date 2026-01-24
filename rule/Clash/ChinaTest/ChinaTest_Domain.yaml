@@ -55,6 +55,9 @@
 # UPDATED: 2026-01-22 02:17:45
 # DOMAIN-SUFFIX: 113872
 # TOTAL: 114028
+# UPDATED: 2026-01-24 02:09:11
+# DOMAIN-SUFFIX: 113875
+# TOTAL: 114031
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -16673,6 +16676,7 @@ payload:
   - '+.baimda.com'
   - '+.baimei.com'
   - '+.baimeidashu.com'
+  - '+.baimiao.tech'
   - '+.baimiaoapp.com'
   - '+.baimin.com'
   - '+.baina.com'
@@ -79348,6 +79352,7 @@ payload:
   - '+.redmart.com'
   - '+.redmou.com'
   - '+.rednetdns.com'
+  - '+.rednotecdn.com'
   - '+.redocn.com'
   - '+.redodopower.com'
   - '+.redoop.com'
@@ -83842,6 +83847,7 @@ payload:
   - '+.shineoptics.com'
   - '+.shineray-motors.com'
   - '+.shinerayad.com'
+  - '+.shinescan.tech'
   - '+.shinetsu.shop'
   - '+.shineu.com'
   - '+.shineway.com'

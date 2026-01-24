@@ -37,6 +37,8 @@
 # HOST-SUFFIX: 114127
 # UPDATED: 2026-01-22 02:17:41
 # HOST-SUFFIX: 113872
+# UPDATED: 2026-01-24 02:09:07
+# HOST-SUFFIX: 113875
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -57,6 +59,7 @@
 # TOTAL: 114306
 # TOTAL: 114315
 # TOTAL: 114060
+# TOTAL: 114063
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -16674,6 +16677,7 @@ HOST-SUFFIX,baimatech.com,ChinaTest
 HOST-SUFFIX,baimda.com,ChinaTest
 HOST-SUFFIX,baimei.com,ChinaTest
 HOST-SUFFIX,baimeidashu.com,ChinaTest
+HOST-SUFFIX,baimiao.tech,ChinaTest
 HOST-SUFFIX,baimiaoapp.com,ChinaTest
 HOST-SUFFIX,baimin.com,ChinaTest
 HOST-SUFFIX,baina.com,ChinaTest
@@ -79349,6 +79353,7 @@ HOST-SUFFIX,redmagic.com,ChinaTest
 HOST-SUFFIX,redmart.com,ChinaTest
 HOST-SUFFIX,redmou.com,ChinaTest
 HOST-SUFFIX,rednetdns.com,ChinaTest
+HOST-SUFFIX,rednotecdn.com,ChinaTest
 HOST-SUFFIX,redocn.com,ChinaTest
 HOST-SUFFIX,redodopower.com,ChinaTest
 HOST-SUFFIX,redoop.com,ChinaTest
@@ -83843,6 +83848,7 @@ HOST-SUFFIX,shinelon.com,ChinaTest
 HOST-SUFFIX,shineoptics.com,ChinaTest
 HOST-SUFFIX,shineray-motors.com,ChinaTest
 HOST-SUFFIX,shinerayad.com,ChinaTest
+HOST-SUFFIX,shinescan.tech,ChinaTest
 HOST-SUFFIX,shinetsu.shop,ChinaTest
 HOST-SUFFIX,shineu.com,ChinaTest
 HOST-SUFFIX,shineway.com,ChinaTest

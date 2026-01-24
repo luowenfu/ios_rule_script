@@ -21,6 +21,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-01-18 02:08:10
 最后更新时间：2026-01-20 02:08:44
 最后更新时间：2026-01-22 02:17:47
+最后更新时间：2026-01-24 02:09:14
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -63,6 +64,8 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 114314  | 
 | DOMAIN-SUFFIX | 113872  | 
 | TOTAL | 114059  | 
+| DOMAIN-SUFFIX | 113875  | 
+| TOTAL | 114062  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaTest.list，请使用RULE-SET。

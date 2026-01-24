@@ -14,6 +14,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 160  | 
 最后更新时间：2026-01-20 02:09:14
 | DOMAIN | 123  | 
+最后更新时间：2026-01-24 02:09:44
+| DOMAIN | 120  | 
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 

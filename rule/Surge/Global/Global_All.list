@@ -35,6 +35,7 @@
 # DOMAIN-SUFFIX: 32604
 # UPDATED: 2026-01-22 02:17:01
 # DOMAIN-SUFFIX: 32576
+# UPDATED: 2026-01-24 02:08:27
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -53,6 +54,7 @@
 # TOTAL: 32911
 # TOTAL: 32918
 # TOTAL: 32892
+# TOTAL: 32897
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8111,6 +8113,8 @@ DOMAIN-SUFFIX,enbit.ac.uk
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,encryptedsni.com
 DOMAIN-SUFFIX,encuentroscasualesoecuador.com
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enema-porn.com
 DOMAIN-SUFFIX,enema-videos.com
 DOMAIN-SUFFIX,enemabasics.com
@@ -9966,6 +9970,7 @@ DOMAIN-SUFFIX,genshinh.com
 DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,geodesummit.com
+DOMAIN-SUFFIX,geogebra.org
 DOMAIN-SUFFIX,geohazard.ac.uk
 DOMAIN-SUFFIX,geolytics.com
 DOMAIN-SUFFIX,geoport.com
@@ -17593,6 +17598,7 @@ DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,olabloga.pl
 DOMAIN-SUFFIX,oldbury.ac.uk
 DOMAIN-SUFFIX,older-women-movies.com
@@ -24752,6 +24758,7 @@ DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,wikawika.xyz
+DOMAIN-SUFFIX,wiki.gg
 DOMAIN-SUFFIX,wikia.nocookie.net
 DOMAIN-SUFFIX,wikia.org
 DOMAIN-SUFFIX,wikidot.com
