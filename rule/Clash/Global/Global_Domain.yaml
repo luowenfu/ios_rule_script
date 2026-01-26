@@ -54,6 +54,9 @@
 # TOTAL: 32846
 # UPDATED: 2026-01-24 02:08:28
 # TOTAL: 32851
+# UPDATED: 2026-01-26 02:07:55
+# DOMAIN-SUFFIX: 32582
+# TOTAL: 32852
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -3602,6 +3605,7 @@ payload:
   - '+.binance.vision'
   - '+.binanceapi.com'
   - '+.binancecnt.com'
+  - '+.binanceru.net'
   - '+.binancezh.be'
   - '+.binancezh.biz'
   - '+.binancezh.co'

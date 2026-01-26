@@ -56,6 +56,9 @@
 # TOTAL: 33490
 # UPDATED: 2026-01-24 02:08:47
 # TOTAL: 33495
+# UPDATED: 2026-01-26 02:08:14
+# HOST-SUFFIX: 32636
+# TOTAL: 33496
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -4136,6 +4139,7 @@ HOST-SUFFIX,binance.net,Global
 HOST-SUFFIX,binance.vision,Global
 HOST-SUFFIX,binanceapi.com,Global
 HOST-SUFFIX,binancecnt.com,Global
+HOST-SUFFIX,binanceru.net,Global
 HOST-SUFFIX,binancezh.be,Global
 HOST-SUFFIX,binancezh.biz,Global
 HOST-SUFFIX,binancezh.co,Global

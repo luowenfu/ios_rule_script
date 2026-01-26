@@ -54,6 +54,9 @@
 # TOTAL: 32846
 # UPDATED: 2026-01-24 02:08:28
 # TOTAL: 32851
+# UPDATED: 2026-01-26 02:07:55
+# DOMAIN-SUFFIX: 32582
+# TOTAL: 32852
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -3601,6 +3604,7 @@ DOMAIN-SUFFIX,binance.net
 DOMAIN-SUFFIX,binance.vision
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,binancezh.be
 DOMAIN-SUFFIX,binancezh.biz
 DOMAIN-SUFFIX,binancezh.co
