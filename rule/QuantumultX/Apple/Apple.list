@@ -21,6 +21,7 @@
 # UPDATED: 2026-01-22 02:15:47
 # UPDATED: 2026-01-24 02:07:13
 # UPDATED: 2026-01-26 02:06:41
+# UPDATED: 2026-01-28 02:08:35
 # HOST: 272
 # HOST-KEYWORD: 7
 # HOST-SUFFIX: 1549
@@ -260,6 +261,7 @@ HOST,audio-ssl.itunes.apple.com,Apple
 HOST,audio.itunes.apple.com,Apple
 HOST,mvod.itunes.apple.com,Apple
 HOST,streamingaudio.itunes.apple.com,Apple
+HOST,gspe1-ssl.ls.apple.com,Apple
 HOST,news-client-search.apple.com,Apple
 HOST,api-glb-sea.smoot.apple.com,Apple
 HOST,apple.comscoreresearch.com,Apple
@@ -270,8 +272,6 @@ HOST,developer.apple.com,Apple
 HOST,devimages-cdn.apple.com,Apple
 HOST,devstreaming-cdn.apple.com,Apple
 HOST,docs-assets.developer.apple.com,Apple
-HOST,gspe1-ssl.ls.apple.com,Apple
-HOST,hls-svod.itunes.apple.com,Apple
 HOST,hls.itunes.apple.com,Apple
 HOST,itunes.apple.com,Apple
 HOST,js-cdn.music.apple.com,Apple
@@ -297,6 +297,7 @@ HOST,fmfmobile.icloud.com,Apple
 HOST,fmipmobile.icloud.com,Apple
 HOST,statici.icloud.com,Apple
 HOST,amp-api.fitness.apple.com,Apple
+HOST,hls-svod.itunes.apple.com,Apple
 HOST,guzzoni.apple.com,Apple
 HOST,beta.apple.com,Apple
 HOST,www-cdn.icloud.com.akadns.net,Apple

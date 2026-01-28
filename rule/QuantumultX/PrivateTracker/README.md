@@ -16,6 +16,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 123  | 
 最后更新时间：2026-01-24 02:09:44
 | HOST | 120  | 
+最后更新时间：2026-01-28 02:11:04
+| HOST | 129  | 
 | HOST-KEYWORD | 4  | 
 | HOST-SUFFIX | 123  | 
 | IP-CIDR | 4  | 

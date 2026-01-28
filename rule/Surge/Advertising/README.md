@@ -28,11 +28,12 @@
 最后更新时间：2026-01-22 02:13:35
 最后更新时间：2026-01-24 02:05:00
 最后更新时间：2026-01-26 02:04:28
+最后更新时间：2026-01-28 02:06:20
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | AND | 1  | 
-| DOMAIN | 16465  | 
+| DOMAIN | 16464  | 
 | DOMAIN-KEYWORD | 278  | 
 | DOMAIN-SUFFIX | 190119  | 
 | IP-CIDR | 486  | 
@@ -63,7 +64,6 @@
 | TOTAL | 212550  | 
 | DOMAIN-SUFFIX | 195884  | 
 | TOTAL | 213128  | 
-| DOMAIN | 16464  | 
 | DOMAIN-SUFFIX | 196471  | 
 | TOTAL | 213717  | 
 | DOMAIN | 16469  | 
@@ -82,6 +82,8 @@
 | TOTAL | 227354  | 
 | DOMAIN-SUFFIX | 210701  | 
 | TOTAL | 227948  | 
+| DOMAIN-SUFFIX | 212093  | 
+| TOTAL | 229339  | 
 ## Surge 
 #### 使用说明
 - Advertising.list，请使用RULE-SET。
