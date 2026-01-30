@@ -36,6 +36,9 @@
 # UPDATED: 2026-01-22 02:17:22
 # HOST-SUFFIX: 7068
 # TOTAL: 7218
+# UPDATED: 2026-01-30 02:13:50
+# HOST-SUFFIX: 7070
+# TOTAL: 7220
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -122,6 +125,7 @@ HOST-SUFFIX,24smile.org,Proxy
 HOST-SUFFIX,25u.com,Proxy
 HOST-SUFFIX,2du5.com,Proxy
 HOST-SUFFIX,2lipstube.com,Proxy
+HOST-SUFFIX,2mdn.net,Proxy
 HOST-SUFFIX,2shared.com,Proxy
 HOST-SUFFIX,2waky.com,Proxy
 HOST-SUFFIX,3-a.net,Proxy
@@ -566,6 +570,7 @@ HOST-SUFFIX,baby-kingdom.com,Proxy
 HOST-SUFFIX,babylonbee.com,Proxy
 HOST-SUFFIX,babynet.com.hk,Proxy
 HOST-SUFFIX,backchina.com,Proxy
+HOST-SUFFIX,backend-v2.crixet.com,Proxy
 HOST-SUFFIX,backpackers.com.tw,Proxy
 HOST-SUFFIX,backtotiananmen.com,Proxy
 HOST-SUFFIX,bad.news,Proxy

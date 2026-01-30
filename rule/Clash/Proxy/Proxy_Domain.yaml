@@ -35,6 +35,9 @@
 # UPDATED: 2026-01-22 02:17:22
 # DOMAIN-SUFFIX: 6590
 # TOTAL: 6722
+# UPDATED: 2026-01-30 02:13:49
+# DOMAIN-SUFFIX: 6592
+# TOTAL: 6724
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -111,6 +114,7 @@ payload:
   - '+.25u.com'
   - '+.2du5.com'
   - '+.2lipstube.com'
+  - '+.2mdn.net'
   - '+.2shared.com'
   - '+.2waky.com'
   - '+.3-a.net'
@@ -543,6 +547,7 @@ payload:
   - '+.babylonbee.com'
   - '+.babynet.com.hk'
   - '+.backchina.com'
+  - '+.backend-v2.crixet.com'
   - '+.backpackers.com.tw'
   - '+.backtotiananmen.com'
   - '+.bad.news'

@@ -32,10 +32,11 @@
 最后更新时间：2026-01-24 02:06:50
 最后更新时间：2026-01-26 02:06:19
 最后更新时间：2026-01-28 02:08:13
+最后更新时间：2026-01-30 02:11:53
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 13145  | 
+| DOMAIN | 13168  | 
 | DOMAIN-KEYWORD | 280  | 
 | DOMAIN-SUFFIX | 226600  | 
 | IP-CIDR | 508  | 
@@ -81,6 +82,8 @@
 | TOTAL | 261068  | 
 | DOMAIN-SUFFIX | 248593  | 
 | TOTAL | 262529  | 
+| DOMAIN-SUFFIX | 248287  | 
+| TOTAL | 262246  | 
 ## Clash 
 #### 使用说明
 - AdvertisingTest.yaml，请使用 behavior: "classical"。
