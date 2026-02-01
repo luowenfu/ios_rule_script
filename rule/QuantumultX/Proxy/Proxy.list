@@ -39,6 +39,9 @@
 # UPDATED: 2026-01-30 02:13:50
 # HOST-SUFFIX: 7070
 # TOTAL: 7220
+# UPDATED: 2026-02-01 02:08:43
+# HOST-SUFFIX: 7072
+# TOTAL: 7222
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -125,7 +128,6 @@ HOST-SUFFIX,24smile.org,Proxy
 HOST-SUFFIX,25u.com,Proxy
 HOST-SUFFIX,2du5.com,Proxy
 HOST-SUFFIX,2lipstube.com,Proxy
-HOST-SUFFIX,2mdn.net,Proxy
 HOST-SUFFIX,2shared.com,Proxy
 HOST-SUFFIX,2waky.com,Proxy
 HOST-SUFFIX,3-a.net,Proxy
@@ -2188,6 +2190,7 @@ HOST-SUFFIX,freerk.com,Proxy
 HOST-SUFFIX,freess.org,Proxy
 HOST-SUFFIX,freessh.us,Proxy
 HOST-SUFFIX,freetcp.com,Proxy
+HOST-SUFFIX,freeterabox.com,Proxy
 HOST-SUFFIX,freetibet.net,Proxy
 HOST-SUFFIX,freetibet.org,Proxy
 HOST-SUFFIX,freetibetanheroes.org,Proxy
@@ -5335,6 +5338,7 @@ HOST-SUFFIX,sijihuisuo.com,Proxy
 HOST-SUFFIX,silkbook.com,Proxy
 HOST-SUFFIX,silvergatebank.com,Proxy
 HOST-SUFFIX,simbolostwitter.com,Proxy
+HOST-SUFFIX,simianx.ai,Proxy
 HOST-SUFFIX,simp.ly,Proxy
 HOST-SUFFIX,simplecd.me,Proxy
 HOST-SUFFIX,simplecd.org,Proxy
@@ -6966,6 +6970,7 @@ HOST-SUFFIX,yesasia.com,Proxy
 HOST-SUFFIX,yesasia.com.hk,Proxy
 HOST-SUFFIX,yespornplease.com,Proxy
 HOST-SUFFIX,yeyeclub.com,Proxy
+HOST-SUFFIX,yfsp.tv,Proxy
 HOST-SUFFIX,ygto.com,Proxy
 HOST-SUFFIX,yhcw.net,Proxy
 HOST-SUFFIX,yibada.com,Proxy

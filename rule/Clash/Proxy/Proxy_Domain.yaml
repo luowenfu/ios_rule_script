@@ -38,6 +38,9 @@
 # UPDATED: 2026-01-30 02:13:49
 # DOMAIN-SUFFIX: 6592
 # TOTAL: 6724
+# UPDATED: 2026-02-01 02:08:43
+# DOMAIN-SUFFIX: 6594
+# TOTAL: 6726
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -114,7 +117,6 @@ payload:
   - '+.25u.com'
   - '+.2du5.com'
   - '+.2lipstube.com'
-  - '+.2mdn.net'
   - '+.2shared.com'
   - '+.2waky.com'
   - '+.3-a.net'
@@ -2065,6 +2067,7 @@ payload:
   - '+.freess.org'
   - '+.freessh.us'
   - '+.freetcp.com'
+  - '+.freeterabox.com'
   - '+.freetibet.net'
   - '+.freetibet.org'
   - '+.freetibetanheroes.org'
@@ -4898,6 +4901,7 @@ payload:
   - '+.sijihuisuo.com'
   - '+.silkbook.com'
   - '+.silvergatebank.com'
+  - '+.simianx.ai'
   - '+.simp.ly'
   - '+.simplecd.me'
   - '+.simplecd.org'
@@ -6488,6 +6492,7 @@ payload:
   - '+.yesasia.com'
   - '+.yesasia.com.hk'
   - '+.yeyeclub.com'
+  - '+.yfsp.tv'
   - '+.ygto.com'
   - '+.yhcw.net'
   - '+.yibada.com'
