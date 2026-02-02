@@ -42,6 +42,9 @@
 # UPDATED: 2026-02-01 02:08:43
 # HOST-SUFFIX: 7072
 # TOTAL: 7222
+# UPDATED: 2026-02-02 02:09:56
+# HOST-SUFFIX: 7075
+# TOTAL: 7225
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -617,6 +620,7 @@ HOST-SUFFIX,bbc.co,Proxy
 HOST-SUFFIX,bbc.co.uk,Proxy
 HOST-SUFFIX,bbc.com,Proxy
 HOST-SUFFIX,bbc.in,Proxy
+HOST-SUFFIX,bbc.pdn.tritondigital.com,Proxy
 HOST-SUFFIX,bbcchinese.com,Proxy
 HOST-SUFFIX,bbchat.tv,Proxy
 HOST-SUFFIX,bbci.co.uk,Proxy
@@ -1507,6 +1511,7 @@ HOST-SUFFIX,dbc.hk,Proxy
 HOST-SUFFIX,dbgjd.com,Proxy
 HOST-SUFFIX,dcard.tw,Proxy
 HOST-SUFFIX,dcmilitary.com,Proxy
+HOST-SUFFIX,dcs-spotify.megaphone.fm,Proxy
 HOST-SUFFIX,ddc.com.tw,Proxy
 HOST-SUFFIX,ddex.io,Proxy
 HOST-SUFFIX,ddhw.info,Proxy
@@ -2890,6 +2895,7 @@ HOST-SUFFIX,helloqueer.com,Proxy
 HOST-SUFFIX,helloss.pw,Proxy
 HOST-SUFFIX,hellotxt.com,Proxy
 HOST-SUFFIX,hellouk.org,Proxy
+HOST-SUFFIX,help.byspotify.com,Proxy
 HOST-SUFFIX,helpeachpeople.com,Proxy
 HOST-SUFFIX,helplinfen.com,Proxy
 HOST-SUFFIX,helpshift.com,Proxy

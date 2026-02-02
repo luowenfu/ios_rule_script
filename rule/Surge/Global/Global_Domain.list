@@ -3,6 +3,8 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2025-12-20 02:07:57
 # DOMAIN: 117
+# UPDATED: 2026-02-02 02:09:34
+# DOMAIN: 116
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 32340
 # UPDATED: 2025-12-22 02:08:02
@@ -39,7 +41,6 @@
 # UPDATED: 2026-01-26 02:07:54
 # DOMAIN-SUFFIX: 32582
 # UPDATED: 2026-01-30 02:13:28
-# DOMAIN: 116
 # UPDATED: 2026-02-01 02:08:22
 # DOMAIN-SUFFIX: 32606
 # IP-CIDR: 112
@@ -3402,6 +3403,7 @@
 .bbc.in
 .bbc.mp-pxcdn.com
 .bbc.net.uk
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -17602,6 +17604,7 @@
 .lou.ac.uk
 .loucoll.ac.uk
 .loughborough.ac.uk
+.louisvuitton.com
 .lovart.ai
 .love-sextoys.co.uk
 .love4porn.com
@@ -22518,8 +22521,6 @@
 .piirus.ac.uk
 .pikabu.monster
 .pikpak.io
-.pikpak.me
-.pikpakdrive.com
 .pilgrimageandcathedrals.ac.uk
 .pilgrimagestudies.ac.uk
 .pillbeatsblackfridaysale.com

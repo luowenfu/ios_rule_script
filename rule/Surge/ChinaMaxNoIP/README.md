@@ -80,6 +80,10 @@ ChinaMax排除相关IP规则版本
 | TOTAL | 116078  | 
 | DOMAIN-SUFFIX | 115680  | 
 | TOTAL | 116076  | 
+最后更新时间：2026-02-02 02:11:41
+| DOMAIN | 307  | 
+| DOMAIN-SUFFIX | 115726  | 
+| TOTAL | 116123  | 
 ## Surge 
 #### 使用说明
 - ChinaMaxNoIP.list，请使用RULE-SET。

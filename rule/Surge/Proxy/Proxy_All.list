@@ -42,6 +42,9 @@
 # UPDATED: 2026-02-01 02:08:43
 # DOMAIN-SUFFIX: 6594
 # TOTAL: 6734
+# UPDATED: 2026-02-02 02:09:56
+# DOMAIN-SUFFIX: 6595
+# TOTAL: 6735
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -594,6 +597,7 @@ DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
 DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbchat.tv
 DOMAIN-SUFFIX,bbci.co.uk
