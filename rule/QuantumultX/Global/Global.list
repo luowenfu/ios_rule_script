@@ -66,6 +66,10 @@
 # UPDATED: 2026-02-01 02:08:42
 # HOST-SUFFIX: 32660
 # TOTAL: 33521
+# UPDATED: 2026-02-04 02:21:27
+# HOST: 664
+# HOST-SUFFIX: 32664
+# TOTAL: 33526
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -382,6 +386,7 @@ HOST,opgg-static.akamaized.net,Global
 HOST,osu.ppy.sh,Global
 HOST,p-events-delivery.akamaized.net,Global
 HOST,p16-tiktokcdn-com.akamaized.net,Global
+HOST,packages.microsoft.com,Global
 HOST,paper-attachments.s3.amazonaws.com,Global
 HOST,payments-jp.amazon.com,Global
 HOST,pchomeonline.com.tw,Global
@@ -5114,6 +5119,7 @@ HOST-SUFFIX,brutalfetish.com,Global
 HOST-SUFFIX,bs-adreview.com,Global
 HOST-SUFFIX,bs-awh.ne.jp,Global
 HOST-SUFFIX,bsa.ac.uk,Global
+HOST-SUFFIX,bsappapi.com,Global
 HOST-SUFFIX,bsaw.ac.uk,Global
 HOST-SUFFIX,bsbec.ac.uk,Global
 HOST-SUFFIX,bsdc.ac.uk,Global
@@ -18716,6 +18722,7 @@ HOST-SUFFIX,pixtronix.com,Global
 HOST-SUFFIX,pjbyj.top,Global
 HOST-SUFFIX,pjful-app.lol,Global
 HOST-SUFFIX,pjgirls.com,Global
+HOST-SUFFIX,pjsekai.sega.jp,Global
 HOST-SUFFIX,pki-post.ch,Global
 HOST-SUFFIX,pki-posta.ch,Global
 HOST-SUFFIX,pki-poste.ch,Global
@@ -20358,6 +20365,7 @@ HOST-SUFFIX,sale-nikeshoes.com,Global
 HOST-SUFFIX,salebeatslasteststyle4you.com,Global
 HOST-SUFFIX,saleblackfridaydrebeats.com,Global
 HOST-SUFFIX,salecheaphandbags.com,Global
+HOST-SUFFIX,salesforce-setup.com,Global
 HOST-SUFFIX,salesforce.com,Global
 HOST-SUFFIX,salesforce.org,Global
 HOST-SUFFIX,salesforceiq.com,Global
@@ -31955,6 +31963,7 @@ HOST-SUFFIX,tafm.org,Global
 HOST-SUFFIX,tagwa.org.au,Global
 HOST-SUFFIX,tagwalk.com,Global
 HOST-SUFFIX,tahr.org.tw,Global
+HOST-SUFFIX,tails.net,Global
 HOST-SUFFIX,taipei.gov.tw,Global
 HOST-SUFFIX,taipeisociety.org,Global
 HOST-SUFFIX,taipeitimes.com,Global

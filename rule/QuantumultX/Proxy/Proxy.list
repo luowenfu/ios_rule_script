@@ -45,6 +45,9 @@
 # UPDATED: 2026-02-02 02:09:56
 # HOST-SUFFIX: 7075
 # TOTAL: 7225
+# UPDATED: 2026-02-04 02:21:29
+# HOST-SUFFIX: 7076
+# TOTAL: 7226
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5691,6 +5694,7 @@ HOST-SUFFIX,tafm.org,Proxy
 HOST-SUFFIX,tagwa.org.au,Proxy
 HOST-SUFFIX,tagwalk.com,Proxy
 HOST-SUFFIX,tahr.org.tw,Proxy
+HOST-SUFFIX,tails.net,Proxy
 HOST-SUFFIX,taipei.gov.tw,Proxy
 HOST-SUFFIX,taipeisociety.org,Proxy
 HOST-SUFFIX,taipeitimes.com,Proxy
