@@ -67,6 +67,9 @@
 # UPDATED: 2026-02-04 02:21:08
 # DOMAIN-SUFFIX: 32610
 # TOTAL: 32879
+# UPDATED: 2026-02-06 02:19:47
+# DOMAIN-SUFFIX: 32612
+# TOTAL: 32881
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -17857,6 +17860,7 @@ login.microsoftonline.com
 .osiri-suki-club.com
 .osl.com
 .osm.org
+.osmand.net
 .osmfoundation.org
 .osmosis.ac.uk
 .ospray.net
@@ -30964,6 +30968,7 @@ login.microsoftonline.com
 .seesmic.com
 .seevpn.com
 .seezone.net
+.sef.org.tw
 .sehuatang.net
 .sehuatang.org
 .sejie.com

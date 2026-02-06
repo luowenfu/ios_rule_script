@@ -34,6 +34,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-01-30 02:13:29
 最后更新时间：2026-02-01 02:08:23
 最后更新时间：2026-02-04 02:21:08
+最后更新时间：2026-02-06 02:19:47
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -79,6 +80,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 32875  | 
 | DOMAIN-SUFFIX | 32610  | 
 | TOTAL | 32879  | 
+| DOMAIN-SUFFIX | 32612  | 
+| TOTAL | 32881  | 
 ## Clash 
 #### 使用说明
 - Global.yaml，请使用 behavior: "classical"。

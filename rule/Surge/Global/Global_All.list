@@ -45,6 +45,8 @@
 # DOMAIN-SUFFIX: 32606
 # UPDATED: 2026-02-04 02:21:06
 # DOMAIN-SUFFIX: 32610
+# UPDATED: 2026-02-06 02:19:46
+# DOMAIN-SUFFIX: 32612
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -68,6 +70,7 @@
 # TOTAL: 32913
 # TOTAL: 32921
 # TOTAL: 32925
+# TOTAL: 32927
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -17858,6 +17861,7 @@ DOMAIN-SUFFIX,osier.ac.uk
 DOMAIN-SUFFIX,osiri-suki-club.com
 DOMAIN-SUFFIX,osl.com
 DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,osmosis.ac.uk
 DOMAIN-SUFFIX,ospray.net
@@ -30965,6 +30969,7 @@ DOMAIN-SUFFIX,seehua.com
 DOMAIN-SUFFIX,seesmic.com
 DOMAIN-SUFFIX,seevpn.com
 DOMAIN-SUFFIX,seezone.net
+DOMAIN-SUFFIX,sef.org.tw
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,sejie.com

@@ -48,6 +48,9 @@
 # UPDATED: 2026-02-04 02:21:29
 # HOST-SUFFIX: 7076
 # TOTAL: 7226
+# UPDATED: 2026-02-06 02:20:08
+# HOST-SUFFIX: 7077
+# TOTAL: 7227
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5242,6 +5245,7 @@ HOST-SUFFIX,seehua.com,Proxy
 HOST-SUFFIX,seesmic.com,Proxy
 HOST-SUFFIX,seevpn.com,Proxy
 HOST-SUFFIX,seezone.net,Proxy
+HOST-SUFFIX,sef.org.tw,Proxy
 HOST-SUFFIX,sehuatang.net,Proxy
 HOST-SUFFIX,sehuatang.org,Proxy
 HOST-SUFFIX,sejie.com,Proxy

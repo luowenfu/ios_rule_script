@@ -67,6 +67,9 @@
 # UPDATED: 2026-02-04 02:21:07
 # DOMAIN-SUFFIX: 32610
 # TOTAL: 32879
+# UPDATED: 2026-02-06 02:19:47
+# DOMAIN-SUFFIX: 32612
+# TOTAL: 32881
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -17858,6 +17861,7 @@ payload:
   - DOMAIN-SUFFIX,osiri-suki-club.com
   - DOMAIN-SUFFIX,osl.com
   - DOMAIN-SUFFIX,osm.org
+  - DOMAIN-SUFFIX,osmand.net
   - DOMAIN-SUFFIX,osmfoundation.org
   - DOMAIN-SUFFIX,osmosis.ac.uk
   - DOMAIN-SUFFIX,ospray.net
@@ -30965,6 +30969,7 @@ payload:
   - DOMAIN-SUFFIX,seesmic.com
   - DOMAIN-SUFFIX,seevpn.com
   - DOMAIN-SUFFIX,seezone.net
+  - DOMAIN-SUFFIX,sef.org.tw
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,sejie.com
