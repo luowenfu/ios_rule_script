@@ -50,6 +50,9 @@
 # UPDATED: 2026-02-06 02:20:07
 # DOMAIN-SUFFIX: 6597
 # TOTAL: 6729
+# UPDATED: 2026-02-08 02:10:01
+# DOMAIN-SUFFIX: 6601
+# TOTAL: 6733
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -722,6 +725,7 @@ payload:
   - '+.bitshare.com'
   - '+.bitsnoop.com'
   - '+.bitterwinter.org'
+  - '+.bittorrent.com'
   - '+.bitvise.com'
   - '+.bitz.ai'
   - '+.bizhat.com'
@@ -2409,6 +2413,7 @@ payload:
   - '+.greenvpn.org'
   - '+.grindr.com'
   - '+.grok.com'
+  - '+.grokipedia.com'
   - '+.grotty-monday.com'
   - '+.ground.news'
   - '+.gs-discuss.com'
@@ -2510,6 +2515,7 @@ payload:
   - '+.helpshift.com'
   - '+.helpster.de'
   - '+.helpzhuling.org'
+  - '+.hembed.com'
   - '+.hentai.to'
   - '+.hentaitube.tv'
   - '+.hentaivideoworld.com'
@@ -5958,6 +5964,7 @@ payload:
   - '+.v.gd'
   - '+.v.roucdn'
   - '+.v2.help'
+  - '+.v2.hysteria.network'
   - '+.v2ex.co'
   - '+.v2ex.com'
   - '+.v2fly.org'
