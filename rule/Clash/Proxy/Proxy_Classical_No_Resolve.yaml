@@ -53,6 +53,9 @@
 # UPDATED: 2026-02-08 02:10:01
 # DOMAIN-SUFFIX: 6601
 # TOTAL: 6733
+# UPDATED: 2026-02-10 02:20:23
+# DOMAIN-SUFFIX: 6602
+# TOTAL: 6734
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -6266,6 +6269,7 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikis.tw
   - DOMAIN-SUFFIX,wikisource.org
   - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,wikiversity.org

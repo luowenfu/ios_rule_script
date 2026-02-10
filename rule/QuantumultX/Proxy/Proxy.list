@@ -54,6 +54,9 @@
 # UPDATED: 2026-02-08 02:10:01
 # HOST-SUFFIX: 7081
 # TOTAL: 7231
+# UPDATED: 2026-02-10 02:20:24
+# HOST-SUFFIX: 7082
+# TOTAL: 7232
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -6742,6 +6745,7 @@ HOST-SUFFIX,wikinews.org,Proxy
 HOST-SUFFIX,wikipedia.com,Proxy
 HOST-SUFFIX,wikipedia.org,Proxy
 HOST-SUFFIX,wikiquote.org,Proxy
+HOST-SUFFIX,wikis.tw,Proxy
 HOST-SUFFIX,wikisource.org,Proxy
 HOST-SUFFIX,wikiunblocked.org,Proxy
 HOST-SUFFIX,wikiversity.org,Proxy

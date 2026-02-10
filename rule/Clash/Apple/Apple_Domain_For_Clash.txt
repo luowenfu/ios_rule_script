@@ -28,12 +28,14 @@
 # UPDATED: 2026-02-06 02:18:31
 # UPDATED: 2026-02-08 02:08:23
 # DOMAIN: 10
+# UPDATED: 2026-02-10 02:18:44
+# DOMAIN: 9
 # DOMAIN-KEYWORD: 7
-# DOMAIN-SUFFIX: 1549
+# DOMAIN-SUFFIX: 1550
 # IP-CIDR: 10
+# IP-CIDR6: 3
 # PROCESS-NAME: 13
-# TOTAL: 1589
-appldnld.apple.com.edgesuite.net
+# TOTAL: 1592
 apple-events.akamaized.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
@@ -91,6 +93,7 @@ p-events-delivery.akamaized.net
 +.appl.com
 +.appl4e.com
 +.appla.com
++.appldnld.apple.com.edgesuite.net
 +.apple-darwin.com
 +.apple-darwin.net
 +.apple-darwin.org
@@ -1223,6 +1226,7 @@ p-events-delivery.akamaized.net
 +.applepaysupplies.tv
 +.applewallet.com
 +.applewallet.tv
++.appsto.re
 +.appstore.co.id
 +.appstore.com
 +.appstore.hk
@@ -1536,8 +1540,6 @@ p-events-delivery.akamaized.net
 +.musickit.net
 +.wwwapplemusic.com
 +.apple-dns.net
-+.appsto.re
-+.cdn-apple.com
 +.digicert.com
 +.apple-cloudkit.com
 +.apple-icloud.cn
@@ -1545,6 +1547,7 @@ p-events-delivery.akamaized.net
 +.appleicloud.cn
 +.applemx-icloud.com
 +.apzones.com
++.cdn-apple.com
 +.icloud-apple.cn
 +.icloud-content.com
 +.icloud-isupport.com
