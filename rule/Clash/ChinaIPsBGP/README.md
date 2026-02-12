@@ -70,6 +70,9 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-02-10 02:21:24
 | IP-CIDR | 3856  | 
 | TOTAL | 3856  | 
+最后更新时间：2026-02-12 02:23:52
+| IP-CIDR | 3858  | 
+| TOTAL | 3858  | 
 ## Clash 
 #### 使用说明
 - ChinaIPsBGP_Classical.yaml，请使用 behavior: "classical"。

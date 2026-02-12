@@ -77,6 +77,9 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-02-08 02:10:57
 | DOMAIN | 117  | 
 | TOTAL | 247  | 
+最后更新时间：2026-02-12 02:23:50
+| DOMAIN | 132  | 
+| TOTAL | 262  | 
 ## Shadowrocket 
 #### 使用说明
 - PrivateTracker.list，请使用RULE-SET。

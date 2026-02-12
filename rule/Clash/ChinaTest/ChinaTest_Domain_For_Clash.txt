@@ -74,6 +74,9 @@
 # UPDATED: 2026-02-08 02:10:24
 # DOMAIN-SUFFIX: 116177
 # TOTAL: 116334
+# UPDATED: 2026-02-12 02:23:17
+# DOMAIN-SUFFIX: 116185
+# TOTAL: 116342
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -31107,6 +31110,7 @@ xn--flw351e.com
 +.ddcdn.com
 +.ddcheshi.com
 +.ddcits.com
++.ddcorp.net
 +.ddcsjw.com
 +.ddcwl.com
 +.ddd-china.com
@@ -31123,6 +31127,7 @@ xn--flw351e.com
 +.ddedush.com
 +.ddfans.com
 +.ddfchina.com
++.ddfresh.net
 +.ddfzb.com
 +.ddgjjj.com
 +.ddguanhuai.com
@@ -31146,7 +31151,9 @@ xn--flw351e.com
 +.ddky.com
 +.ddle.cc
 +.ddlequ.com
++.ddmaicai.net
 +.ddmap.com
++.ddmc.mobi
 +.ddmer.com
 +.ddnddn.com
 +.ddnspod.com
@@ -50513,6 +50520,7 @@ xn--flw351e.com
 +.hrtechchina.com
 +.hrtfin.com
 +.hrtn.net
++.hrtsea.com
 +.hrtx.com
 +.hruikang.com
 +.hrvouge.com
@@ -54235,6 +54243,7 @@ xn--flw351e.com
 +.imagineadtech.com
 +.imahui.com
 +.imaibo.net
++.imaicai.mobi
 +.imaijia.com
 +.imaitu.com
 +.imalljoy.com
@@ -102637,6 +102646,7 @@ xn--flw351e.com
 +.xhslink.com
 +.xhslw.com
 +.xhsmlt.com
++.xhsrcdn.com
 +.xhsrmyy.com
 +.xhsxmt.com
 +.xhsyqx.com
@@ -113142,6 +113152,7 @@ xn--flw351e.com
 +.zhipianbang.com
 +.zhipianbang.vip
 +.zhipingke.com
++.zhipucn.com
 +.zhipuzi.com
 +.zhiqi.info
 +.zhiqiang.org

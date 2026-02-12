@@ -74,6 +74,9 @@
 # UPDATED: 2026-02-08 02:10:24
 # DOMAIN-SUFFIX: 116177
 # TOTAL: 116334
+# UPDATED: 2026-02-12 02:23:17
+# DOMAIN-SUFFIX: 116185
+# TOTAL: 116342
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -31108,6 +31111,7 @@ payload:
   - DOMAIN-SUFFIX,ddcdn.com
   - DOMAIN-SUFFIX,ddcheshi.com
   - DOMAIN-SUFFIX,ddcits.com
+  - DOMAIN-SUFFIX,ddcorp.net
   - DOMAIN-SUFFIX,ddcsjw.com
   - DOMAIN-SUFFIX,ddcwl.com
   - DOMAIN-SUFFIX,ddd-china.com
@@ -31124,6 +31128,7 @@ payload:
   - DOMAIN-SUFFIX,ddedush.com
   - DOMAIN-SUFFIX,ddfans.com
   - DOMAIN-SUFFIX,ddfchina.com
+  - DOMAIN-SUFFIX,ddfresh.net
   - DOMAIN-SUFFIX,ddfzb.com
   - DOMAIN-SUFFIX,ddgjjj.com
   - DOMAIN-SUFFIX,ddguanhuai.com
@@ -31147,7 +31152,9 @@ payload:
   - DOMAIN-SUFFIX,ddky.com
   - DOMAIN-SUFFIX,ddle.cc
   - DOMAIN-SUFFIX,ddlequ.com
+  - DOMAIN-SUFFIX,ddmaicai.net
   - DOMAIN-SUFFIX,ddmap.com
+  - DOMAIN-SUFFIX,ddmc.mobi
   - DOMAIN-SUFFIX,ddmer.com
   - DOMAIN-SUFFIX,ddnddn.com
   - DOMAIN-SUFFIX,ddnspod.com
@@ -50514,6 +50521,7 @@ payload:
   - DOMAIN-SUFFIX,hrtechchina.com
   - DOMAIN-SUFFIX,hrtfin.com
   - DOMAIN-SUFFIX,hrtn.net
+  - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,hrtx.com
   - DOMAIN-SUFFIX,hruikang.com
   - DOMAIN-SUFFIX,hrvouge.com
@@ -54236,6 +54244,7 @@ payload:
   - DOMAIN-SUFFIX,imagineadtech.com
   - DOMAIN-SUFFIX,imahui.com
   - DOMAIN-SUFFIX,imaibo.net
+  - DOMAIN-SUFFIX,imaicai.mobi
   - DOMAIN-SUFFIX,imaijia.com
   - DOMAIN-SUFFIX,imaitu.com
   - DOMAIN-SUFFIX,imalljoy.com
@@ -102638,6 +102647,7 @@ payload:
   - DOMAIN-SUFFIX,xhslink.com
   - DOMAIN-SUFFIX,xhslw.com
   - DOMAIN-SUFFIX,xhsmlt.com
+  - DOMAIN-SUFFIX,xhsrcdn.com
   - DOMAIN-SUFFIX,xhsrmyy.com
   - DOMAIN-SUFFIX,xhsxmt.com
   - DOMAIN-SUFFIX,xhsyqx.com
@@ -113143,6 +113153,7 @@ payload:
   - DOMAIN-SUFFIX,zhipianbang.com
   - DOMAIN-SUFFIX,zhipianbang.vip
   - DOMAIN-SUFFIX,zhipingke.com
+  - DOMAIN-SUFFIX,zhipucn.com
   - DOMAIN-SUFFIX,zhipuzi.com
   - DOMAIN-SUFFIX,zhiqi.info
   - DOMAIN-SUFFIX,zhiqiang.org

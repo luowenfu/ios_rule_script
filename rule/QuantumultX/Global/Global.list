@@ -5,6 +5,8 @@
 # HOST: 648
 # UPDATED: 2026-02-02 02:09:55
 # HOST: 663
+# UPDATED: 2026-02-12 02:22:53
+# HOST: 665
 # HOST-KEYWORD: 36
 # HOST-SUFFIX: 32394
 # IP-CIDR: 112
@@ -77,7 +79,6 @@
 # HOST-SUFFIX: 32675
 # TOTAL: 33537
 # UPDATED: 2026-02-10 02:20:23
-# HOST: 665
 # HOST-SUFFIX: 32700
 # TOTAL: 33563
 HOST,1password.drift.click,Global
@@ -1683,6 +1684,7 @@ HOST-SUFFIX,adwords.com,Global
 HOST-SUFFIX,adwordsexpress.com,Global
 HOST-SUFFIX,adx.promo,Global
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,Global
+HOST-SUFFIX,ae.hao123.com,Global
 HOST-SUFFIX,aeasyshop.com,Global
 HOST-SUFFIX,aebn.com,Global
 HOST-SUFFIX,aecc-chiropractic.ac.uk,Global
@@ -4936,6 +4938,7 @@ HOST-SUFFIX,bpi.ir,Global
 HOST-SUFFIX,bpmf.ac.uk,Global
 HOST-SUFFIX,bppuniversity.ac.uk,Global
 HOST-SUFFIX,bps.ac.uk,Global
+HOST-SUFFIX,br.hao123.com,Global
 HOST-SUFFIX,bracknell.ac.uk,Global
 HOST-SUFFIX,brad.ac.uk,Global
 HOST-SUFFIX,bradcoll.ac.uk,Global
@@ -8619,6 +8622,7 @@ HOST-SUFFIX,emttp.ac.uk,Global
 HOST-SUFFIX,emua.ac.uk,Global
 HOST-SUFFIX,emwprep.ac.uk,Global
 HOST-SUFFIX,en-compass.ac.uk,Global
+HOST-SUFFIX,en.hao123.com,Global
 HOST-SUFFIX,enablementadobe.com,Global
 HOST-SUFFIX,enbank.ir,Global
 HOST-SUFFIX,enbit.ac.uk,Global
@@ -10507,10 +10511,8 @@ HOST-SUFFIX,getporn.tv,Global
 HOST-SUFFIX,getprintersupports.com,Global
 HOST-SUFFIX,getscorecash.com,Global
 HOST-SUFFIX,getsexgames.com,Global
-HOST-SUFFIX,gettyimages.ae,Global
 HOST-SUFFIX,gettyimages.at,Global
 HOST-SUFFIX,gettyimages.be,Global
-HOST-SUFFIX,gettyimages.ca,Global
 HOST-SUFFIX,gettyimages.ch,Global
 HOST-SUFFIX,gettyimages.co.jp,Global
 HOST-SUFFIX,gettyimages.co.nz,Global
@@ -10518,15 +10520,11 @@ HOST-SUFFIX,gettyimages.co.uk,Global
 HOST-SUFFIX,gettyimages.com.au,Global
 HOST-SUFFIX,gettyimages.com.br,Global
 HOST-SUFFIX,gettyimages.com.mx,Global
-HOST-SUFFIX,gettyimages.de,Global
 HOST-SUFFIX,gettyimages.dk,Global
 HOST-SUFFIX,gettyimages.es,Global
 HOST-SUFFIX,gettyimages.fi,Global
 HOST-SUFFIX,gettyimages.fr,Global
-HOST-SUFFIX,gettyimages.hk,Global
 HOST-SUFFIX,gettyimages.ie,Global
-HOST-SUFFIX,gettyimages.in,Global
-HOST-SUFFIX,gettyimages.it,Global
 HOST-SUFFIX,gettyimages.nl,Global
 HOST-SUFFIX,gettyimages.no,Global
 HOST-SUFFIX,gettyimages.pt,Global
@@ -11628,6 +11626,7 @@ HOST-SUFFIX,hitxhot.com,Global
 HOST-SUFFIX,hjb246.top,Global
 HOST-SUFFIX,hjb7e9.top,Global
 HOST-SUFFIX,hk.file.myqcloud.com,Global
+HOST-SUFFIX,hk.hao123img.com,Global
 HOST-SUFFIX,hk.weibo.com,Global
 HOST-SUFFIX,hk1lib.org,Global
 HOST-SUFFIX,hkbigman.net,Global
@@ -12050,7 +12049,6 @@ HOST-SUFFIX,httpsfacebook.com,Global
 HOST-SUFFIX,httpwwwfacebook.com,Global
 HOST-SUFFIX,htvncdn.net,Global
 HOST-SUFFIX,htwhbook.com,Global
-HOST-SUFFIX,htx.com,Global
 HOST-SUFFIX,htyj-bj.com,Global
 HOST-SUFFIX,htznr.li,Global
 HOST-SUFFIX,hu1u.com,Global
@@ -12313,6 +12311,7 @@ HOST-SUFFIX,icsd.fiz-karlsruhe.de,Global
 HOST-SUFFIX,icsl.ac.uk,Global
 HOST-SUFFIX,ictheatre.ac.uk,Global
 HOST-SUFFIX,icuminside.com,Global
+HOST-SUFFIX,id.hao123.com,Global
 HOST-SUFFIX,idarkdoll.com,Global
 HOST-SUFFIX,idcore.ac.uk,Global
 HOST-SUFFIX,idea-server.com,Global
@@ -13690,6 +13689,7 @@ HOST-SUFFIX,joyobank.co.jp,Global
 HOST-SUFFIX,joyourself.com,Global
 HOST-SUFFIX,joysporn.com,Global
 HOST-SUFFIX,jp-bank.japanpost.jp,Global
+HOST-SUFFIX,jp.hao123.com,Global
 HOST-SUFFIX,jp.net,Global
 HOST-SUFFIX,jpav.us,Global
 HOST-SUFFIX,jpavcom.com,Global
@@ -14222,6 +14222,7 @@ HOST-SUFFIX,lcssp.ac.uk,Global
 HOST-SUFFIX,lct.ac.uk,Global
 HOST-SUFFIX,lcuck.ac.uk,Global
 HOST-SUFFIX,lcwc.ac.uk,Global
+HOST-SUFFIX,ld.hao123img.com,Global
 HOST-SUFFIX,ldoc-cdt.ac.uk,Global
 HOST-SUFFIX,ldoceonline.com,Global
 HOST-SUFFIX,ldstatic.com,Global
@@ -14846,6 +14847,7 @@ HOST-SUFFIX,m2m.com,Global
 HOST-SUFFIX,m5ir5np1.shop,Global
 HOST-SUFFIX,m5servicedesk.ac.uk,Global
 HOST-SUFFIX,m5universities.ac.uk,Global
+HOST-SUFFIX,ma.hao123.com,Global
 HOST-SUFFIX,ma1lib.org,Global
 HOST-SUFFIX,mabbank.com,Global
 HOST-SUFFIX,mablethorpe.ac.uk,Global
@@ -16400,6 +16402,7 @@ HOST-SUFFIX,mwdbank.com,Global
 HOST-SUFFIX,mwell.ac.uk,Global
 HOST-SUFFIX,mwhentai.net,Global
 HOST-SUFFIX,mwrc.ac.uk,Global
+HOST-SUFFIX,mx.hao123.com,Global
 HOST-SUFFIX,mxlogin.com,Global
 HOST-SUFFIX,mxmcdn.net,Global
 HOST-SUFFIX,mxroute.com,Global
@@ -20364,6 +20367,7 @@ HOST-SUFFIX,s8ds5gfm.xyz,Global
 HOST-SUFFIX,sa-saopaulo.myqcloud.com,Global
 HOST-SUFFIX,sa-saopaulo.tencentcos.com,Global
 HOST-SUFFIX,sa.com,Global
+HOST-SUFFIX,sa.hao123.com,Global
 HOST-SUFFIX,saasexch.cc,Global
 HOST-SUFFIX,saasexch.co,Global
 HOST-SUFFIX,saasexch.com,Global
@@ -22508,6 +22512,7 @@ HOST-SUFFIX,tbib.org,Global
 HOST-SUFFIX,tblop.com,Global
 HOST-SUFFIX,tbm.ac.uk,Global
 HOST-SUFFIX,tbr.tangbr.net,Global
+HOST-SUFFIX,tbskkinabalu.page.tl,Global
 HOST-SUFFIX,tcat.ac.uk,Global
 HOST-SUFFIX,tcch.ac.uk,Global
 HOST-SUFFIX,tccr.ac.uk,Global
@@ -22667,6 +22672,7 @@ HOST-SUFFIX,tgirlpostop.com,Global
 HOST-SUFFIX,tgp6.com,Global
 HOST-SUFFIX,tgtube.com,Global
 HOST-SUFFIX,tgutube.com,Global
+HOST-SUFFIX,th.hao123.com,Global
 HOST-SUFFIX,th.weibo.com,Global
 HOST-SUFFIX,thai-xxx.com,Global
 HOST-SUFFIX,thai69.com,Global
@@ -23327,6 +23333,7 @@ HOST-SUFFIX,tvnaviweb.jp,Global
 HOST-SUFFIX,tvof.ac.uk,Global
 HOST-SUFFIX,tvpromise.com,Global
 HOST-SUFFIX,tvu.ac.uk,Global
+HOST-SUFFIX,tw.hao123.com,Global
 HOST-SUFFIX,tw.iqiyi.com,Global
 HOST-SUFFIX,tw.weibo.com,Global
 HOST-SUFFIX,tw985.com,Global
@@ -24382,6 +24389,7 @@ HOST-SUFFIX,vmworld2013.com,Global
 HOST-SUFFIX,vmwsalesrewards.com,Global
 HOST-SUFFIX,vmwservices.com,Global
 HOST-SUFFIX,vmwxw.com,Global
+HOST-SUFFIX,vn.hao123.com,Global
 HOST-SUFFIX,vnanchoi.ca,Global
 HOST-SUFFIX,vnware.net,Global
 HOST-SUFFIX,voa.gov,Global
@@ -26639,7 +26647,6 @@ HOST-SUFFIX,adultkeep.net,Global
 HOST-SUFFIX,advanscene.com,Global
 HOST-SUFFIX,advertfan.com,Global
 HOST-SUFFIX,advertisercommunity.com,Global
-HOST-SUFFIX,ae.hao123.com,Global
 HOST-SUFFIX,ae.org,Global
 HOST-SUFFIX,aei.org,Global
 HOST-SUFFIX,aenhancers.com,Global
@@ -26990,7 +26997,6 @@ HOST-SUFFIX,bbg.gov,Global
 HOST-SUFFIX,bbkz.com,Global
 HOST-SUFFIX,bbnradio.org,Global
 HOST-SUFFIX,bbs-tw.com,Global
-HOST-SUFFIX,bbs.sina.com,Global
 HOST-SUFFIX,bbs.tuitui.info,Global
 HOST-SUFFIX,bbsdigest.com,Global
 HOST-SUFFIX,bbsfeed.com,Global
@@ -27244,7 +27250,6 @@ HOST-SUFFIX,boyangu.com,Global
 HOST-SUFFIX,boyfriendtv.com,Global
 HOST-SUFFIX,boysfood.com,Global
 HOST-SUFFIX,boysmaster.com,Global
-HOST-SUFFIX,br.hao123.com,Global
 HOST-SUFFIX,br.st,Global
 HOST-SUFFIX,brainyquote.com,Global
 HOST-SUFFIX,brandonhutchinson.com,Global
@@ -27803,7 +27808,6 @@ HOST-SUFFIX,daidostup.ru,Global
 HOST-SUFFIX,dailidaili.com,Global
 HOST-SUFFIX,dailymail.co.uk,Global
 HOST-SUFFIX,dailymotion.com,Global
-HOST-SUFFIX,dailynews.sina.com,Global
 HOST-SUFFIX,dailysabah.com,Global
 HOST-SUFFIX,dailyview.tw,Global
 HOST-SUFFIX,daiphapinfo.net,Global
@@ -28152,7 +28156,6 @@ HOST-SUFFIX,empfil.com,Global
 HOST-SUFFIX,emule-ed2k.com,Global
 HOST-SUFFIX,emulefans.com,Global
 HOST-SUFFIX,emuparadise.me,Global
-HOST-SUFFIX,en.hao123.com,Global
 HOST-SUFFIX,enanyang.my,Global
 HOST-SUFFIX,encrypt.me,Global
 HOST-SUFFIX,encyclopedia.com,Global
@@ -28704,7 +28707,14 @@ HOST-SUFFIX,getsocialscope.com,Global
 HOST-SUFFIX,getsync.com,Global
 HOST-SUFFIX,gettr.com,Global
 HOST-SUFFIX,gettrials.com,Global
+HOST-SUFFIX,gettyimages.ae,Global
+HOST-SUFFIX,gettyimages.ca,Global
 HOST-SUFFIX,gettyimages.com,Global
+HOST-SUFFIX,gettyimages.de,Global
+HOST-SUFFIX,gettyimages.hk,Global
+HOST-SUFFIX,gettyimages.in,Global
+HOST-SUFFIX,gettyimages.it,Global
+HOST-SUFFIX,gettyimages.us,Global
 HOST-SUFFIX,getuploader.com,Global
 HOST-SUFFIX,gfbv.de,Global
 HOST-SUFFIX,gfgold.com.hk,Global
@@ -29293,7 +29303,6 @@ HOST-SUFFIX,hizbuttahrir.org,Global
 HOST-SUFFIX,hjclub.info,Global
 HOST-SUFFIX,hjd2048.com,Global
 HOST-SUFFIX,hk-pub.com,Global
-HOST-SUFFIX,hk.hao123img.com,Global
 HOST-SUFFIX,hk01.com,Global
 HOST-SUFFIX,hk32168.com,Global
 HOST-SUFFIX,hkacg.com,Global
@@ -29355,7 +29364,6 @@ HOST-SUFFIX,hola.org,Global
 HOST-SUFFIX,holymountaincn.com,Global
 HOST-SUFFIX,holyspiritspeaks.org,Global
 HOST-SUFFIX,home.saxo,Global
-HOST-SUFFIX,home.sina.com,Global
 HOST-SUFFIX,homedepot.com,Global
 HOST-SUFFIX,homeperversion.com,Global
 HOST-SUFFIX,homeservershow.com,Global
@@ -29401,7 +29409,6 @@ HOST-SUFFIX,hrcir.com,Global
 HOST-SUFFIX,hrea.org,Global
 HOST-SUFFIX,hrichina.org,Global
 HOST-SUFFIX,hrntt.org,Global
-HOST-SUFFIX,hrtsea.com,Global
 HOST-SUFFIX,hrw.org,Global
 HOST-SUFFIX,hrweb.org,Global
 HOST-SUFFIX,hsex.men,Global
@@ -29416,6 +29423,7 @@ HOST-SUFFIX,htl.li,Global
 HOST-SUFFIX,html5rocks.com,Global
 HOST-SUFFIX,https443.net,Global
 HOST-SUFFIX,https443.org,Global
+HOST-SUFFIX,htx.com,Global
 HOST-SUFFIX,hua-yue.net,Global
 HOST-SUFFIX,huaglad.com,Global
 HOST-SUFFIX,huanghuagang.org,Global
@@ -29449,6 +29457,7 @@ HOST-SUFFIX,hung-ya.com,Global
 HOST-SUFFIX,hungerstrikeforaids.org,Global
 HOST-SUFFIX,huobi.co,Global
 HOST-SUFFIX,huobi.com,Global
+HOST-SUFFIX,huobi.li,Global
 HOST-SUFFIX,huobi.me,Global
 HOST-SUFFIX,huobi.pro,Global
 HOST-SUFFIX,huobi.sc,Global
@@ -29504,7 +29513,6 @@ HOST-SUFFIX,icoco.com,Global
 HOST-SUFFIX,iconpaper.org,Global
 HOST-SUFFIX,icons8.com,Global
 HOST-SUFFIX,icu-project.org,Global
-HOST-SUFFIX,id.hao123.com,Global
 HOST-SUFFIX,idaiwan.com,Global
 HOST-SUFFIX,idcflare.com,Global
 HOST-SUFFIX,iddddg.com,Global
@@ -29801,7 +29809,6 @@ HOST-SUFFIX,jornaldacidadeonline.com.br,Global
 HOST-SUFFIX,journalchretien.net,Global
 HOST-SUFFIX,journalofdemocracy.org,Global
 HOST-SUFFIX,joymiihub.com,Global
-HOST-SUFFIX,jp.hao123.com,Global
 HOST-SUFFIX,jpopforum.net,Global
 HOST-SUFFIX,jqueryui.com,Global
 HOST-SUFFIX,js.revsci.net,Global
@@ -29967,7 +29974,6 @@ HOST-SUFFIX,latelinenews.com,Global
 HOST-SUFFIX,latibet.org,Global
 HOST-SUFFIX,lausan.hk,Global
 HOST-SUFFIX,lbank.info,Global
-HOST-SUFFIX,ld.hao123img.com,Global
 HOST-SUFFIX,ldplayer.net,Global
 HOST-SUFFIX,ldplayer.tw,Global
 HOST-SUFFIX,le-vpn.com,Global
@@ -30134,7 +30140,6 @@ HOST-SUFFIX,lzmtnews.org,Global
 HOST-SUFFIX,m-sport.co.uk,Global
 HOST-SUFFIX,m.me,Global
 HOST-SUFFIX,m8008.com,Global
-HOST-SUFFIX,ma.hao123.com,Global
 HOST-SUFFIX,macgamestore.com,Global
 HOST-SUFFIX,macid.co,Global
 HOST-SUFFIX,macromedia.com,Global
@@ -30459,7 +30464,6 @@ HOST-SUFFIX,muzu.tv,Global
 HOST-SUFFIX,mvdis.gov.tw,Global
 HOST-SUFFIX,mvg.jp,Global
 HOST-SUFFIX,mvnrepository.com,Global
-HOST-SUFFIX,mx.hao123.com,Global
 HOST-SUFFIX,mx981.com,Global
 HOST-SUFFIX,my-formosa.com,Global
 HOST-SUFFIX,my-private-network.co.uk,Global
@@ -31203,6 +31207,7 @@ HOST-SUFFIX,privatevpn.com,Global
 HOST-SUFFIX,privoxy.org,Global
 HOST-SUFFIX,procopytips.com,Global
 HOST-SUFFIX,project-syndicate.org,Global
+HOST-SUFFIX,prompthero.com,Global
 HOST-SUFFIX,prosciana.com,Global
 HOST-SUFFIX,prosiben.de,Global
 HOST-SUFFIX,proton.me,Global
@@ -31243,6 +31248,7 @@ HOST-SUFFIX,puffin.com,Global
 HOST-SUFFIX,puffinbrowser.com,Global
 HOST-SUFFIX,puffstore.com,Global
 HOST-SUFFIX,pugpig.com,Global
+HOST-SUFFIX,pullfolio.co,Global
 HOST-SUFFIX,pullfolio.com,Global
 HOST-SUFFIX,punyu.com,Global
 HOST-SUFFIX,pure18.com,Global
@@ -31490,7 +31496,6 @@ HOST-SUFFIX,s1heng.com,Global
 HOST-SUFFIX,s1s1s1.com,Global
 HOST-SUFFIX,s4miniarchive.com,Global
 HOST-SUFFIX,s8forum.com,Global
-HOST-SUFFIX,sa.hao123.com,Global
 HOST-SUFFIX,saboom.com,Global
 HOST-SUFFIX,sacks.com,Global
 HOST-SUFFIX,sacom.hk,Global
@@ -32065,7 +32070,6 @@ HOST-SUFFIX,tbpic.info,Global
 HOST-SUFFIX,tbrc.org,Global
 HOST-SUFFIX,tbs-rainbow.org,Global
 HOST-SUFFIX,tbsec.org,Global
-HOST-SUFFIX,tbskkinabalu.page.tl,Global
 HOST-SUFFIX,tbsmalaysia.org,Global
 HOST-SUFFIX,tbsn.org,Global
 HOST-SUFFIX,tbsseattle.org,Global
@@ -32131,7 +32135,6 @@ HOST-SUFFIX,tg-me.com,Global
 HOST-SUFFIX,tg.dev,Global
 HOST-SUFFIX,tgfcer.com,Global
 HOST-SUFFIX,tgstat.com,Global
-HOST-SUFFIX,th.hao123.com,Global
 HOST-SUFFIX,thaicn.com,Global
 HOST-SUFFIX,thb.gov.tw,Global
 HOST-SUFFIX,theatlantic.com,Global
@@ -32488,7 +32491,6 @@ HOST-SUFFIX,tvplayvideos.com,Global
 HOST-SUFFIX,tvunetworks.com,Global
 HOST-SUFFIX,tw-blog.com,Global
 HOST-SUFFIX,tw-npo.org,Global
-HOST-SUFFIX,tw.hao123.com,Global
 HOST-SUFFIX,tw01.org,Global
 HOST-SUFFIX,twaitter.com,Global
 HOST-SUFFIX,twapperkeeper.com,Global
@@ -32812,7 +32814,6 @@ HOST-SUFFIX,vk.com,Global
 HOST-SUFFIX,vllcs.org,Global
 HOST-SUFFIX,vmixcore.com,Global
 HOST-SUFFIX,vmpsoft.com,Global
-HOST-SUFFIX,vn.hao123.com,Global
 HOST-SUFFIX,vnet.link,Global
 HOST-SUFFIX,voa.mobi,Global
 HOST-SUFFIX,voacambodia.com,Global
