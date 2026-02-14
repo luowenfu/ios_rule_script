@@ -26,6 +26,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 125  | 
 最后更新时间：2026-02-10 02:21:21
 | DOMAIN | 127  | 
+最后更新时间：2026-02-14 02:16:34
+| DOMAIN | 145  | 
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
@@ -80,6 +82,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-02-12 02:23:50
 | DOMAIN | 132  | 
 | TOTAL | 262  | 
+| TOTAL | 275  | 
 ## Clash 
 #### 使用说明
 - PrivateTracker.yaml，请使用 behavior: "classical"。

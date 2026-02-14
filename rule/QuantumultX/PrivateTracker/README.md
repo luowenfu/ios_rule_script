@@ -26,6 +26,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 125  | 
 最后更新时间：2026-02-10 02:21:21
 | HOST | 127  | 
+最后更新时间：2026-02-14 02:16:34
+| HOST | 145  | 
 | HOST-KEYWORD | 4  | 
 | HOST-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
@@ -80,6 +82,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-02-12 02:23:50
 | HOST | 132  | 
 | TOTAL | 262  | 
+| TOTAL | 275  | 
 ## QuantumultX 
 #### 配置建议
 - PrivateTracker.list 单独使用。

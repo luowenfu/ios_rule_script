@@ -121,6 +121,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 22457  | 
 | IP-CIDR6 | 6218  | 
 | TOTAL | 28675  | 
+最后更新时间：2026-02-14 02:17:14
+| IP-CIDR | 23233  | 
+| IP-CIDR6 | 6204  | 
+| TOTAL | 29437  | 
 ## Surge 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。
