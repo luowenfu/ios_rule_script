@@ -58,6 +58,7 @@
 # DOMAIN-SUFFIX: 6602
 # TOTAL: 6742
 # UPDATED: 2026-02-12 02:22:54
+# UPDATED: 2026-02-16 02:10:00
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6134,6 +6135,7 @@ DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
 DOMAIN-SUFFIX,wallproxy.com
 DOMAIN-SUFFIX,wallsttv.com
+DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,waltermartin.com
 DOMAIN-SUFFIX,waltermartin.org
 DOMAIN-SUFFIX,wan-press.org

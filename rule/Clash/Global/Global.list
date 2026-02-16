@@ -79,6 +79,10 @@
 # TOTAL: 32916
 # DOMAIN-SUFFIX: 32655
 # TOTAL: 32925
+# UPDATED: 2026-02-16 02:09:40
+# DOMAIN: 118
+# DOMAIN-SUFFIX: 32674
+# TOTAL: 32945
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -178,6 +182,7 @@ DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,time.windows.com
 DOMAIN,translomatic.foxfortmobile.com
+DOMAIN,ubisoft.siteintercept.qualtrics.com
 DOMAIN,ut1-time.colorado.edu
 DOMAIN,utcnist.colorado.edu
 DOMAIN,utcnist2.colorado.edu
@@ -1872,6 +1877,7 @@ DOMAIN-SUFFIX,apina.biz
 DOMAIN-SUFFIX,apis.ac.uk
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,apkfind.com
+DOMAIN-SUFFIX,apkpures.xyz
 DOMAIN-SUFFIX,aple.com
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,aplleipods.com
@@ -2466,6 +2472,7 @@ DOMAIN-SUFFIX,attcenter.com
 DOMAIN-SUFFIX,attcollaborate.com
 DOMAIN-SUFFIX,attdns.com
 DOMAIN-SUFFIX,attdns.net
+DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,attexperts.com
 DOMAIN-SUFFIX,attglobal.net
 DOMAIN-SUFFIX,atthelimits.ac.uk
@@ -10699,6 +10706,19 @@ DOMAIN-SUFFIX,grantham.ac.uk
 DOMAIN-SUFFIX,grantleyhall.ac.uk
 DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,graphenecentre.ac.uk
+DOMAIN-SUFFIX,grapheneos.app
+DOMAIN-SUFFIX,grapheneos.ca
+DOMAIN-SUFFIX,grapheneos.com
+DOMAIN-SUFFIX,grapheneos.dev
+DOMAIN-SUFFIX,grapheneos.foundation
+DOMAIN-SUFFIX,grapheneos.info
+DOMAIN-SUFFIX,grapheneos.net
+DOMAIN-SUFFIX,grapheneos.network
+DOMAIN-SUFFIX,grapheneos.online
+DOMAIN-SUFFIX,grapheneos.org
+DOMAIN-SUFFIX,grapheneos.ovh
+DOMAIN-SUFFIX,grapheneos.page
+DOMAIN-SUFFIX,grapheneos.social
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,gravitytank.com
 DOMAIN-SUFFIX,gray.ac.uk
@@ -20540,6 +20560,7 @@ DOMAIN-SUFFIX,sea-mammal-research-unit.ac.uk
 DOMAIN-SUFFIX,seacams.ac.uk
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,seaha-cdt.ac.uk
+DOMAIN-SUFFIX,seamlessupdate.app
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,seancody.com
 DOMAIN-SUFFIX,seaofsolitude.com
@@ -22839,6 +22860,7 @@ DOMAIN-SUFFIX,tombola.ac.uk
 DOMAIN-SUFFIX,tomibank.co.jp
 DOMAIN-SUFFIX,tomovie.net
 DOMAIN-SUFFIX,tomsguide.com
+DOMAIN-SUFFIX,ton.org
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tonicmovies.com
 DOMAIN-SUFFIX,toolforge.org
@@ -23677,6 +23699,7 @@ DOMAIN-SUFFIX,valoryirene.com
 DOMAIN-SUFFIX,valuegb.com
 DOMAIN-SUFFIX,vam.ac.uk
 DOMAIN-SUFFIX,vamsas.ac.uk
+DOMAIN-SUFFIX,vanadium.app
 DOMAIN-SUFFIX,vancouverbmwretailers.ca
 DOMAIN-SUFFIX,vanish.at
 DOMAIN-SUFFIX,vanish.be
@@ -32332,6 +32355,7 @@ DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
 DOMAIN-SUFFIX,wallproxy.com
 DOMAIN-SUFFIX,wallsttv.com
+DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,waltermartin.com
 DOMAIN-SUFFIX,waltermartin.org
 DOMAIN-SUFFIX,wan-press.org
