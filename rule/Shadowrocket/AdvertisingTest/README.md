@@ -42,10 +42,11 @@
 最后更新时间：2026-02-12 02:21:01
 最后更新时间：2026-02-14 02:13:38
 最后更新时间：2026-02-16 02:08:07
+最后更新时间：2026-02-18 02:19:09
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 13161  | 
+| DOMAIN | 13160  | 
 | DOMAIN-KEYWORD | 280  | 
 | DOMAIN-SUFFIX | 226600  | 
 | IP-CIDR | 511  | 
@@ -111,6 +112,8 @@
 | TOTAL | 254351  | 
 | DOMAIN-SUFFIX | 241060  | 
 | TOTAL | 255026  | 
+| DOMAIN-SUFFIX | 241800  | 
+| TOTAL | 255765  | 
 ## Shadowrocket 
 #### 使用说明
 - AdvertisingTest.list，请使用RULE-SET。

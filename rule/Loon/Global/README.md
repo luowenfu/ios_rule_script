@@ -39,6 +39,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-02-10 02:20:02
 最后更新时间：2026-02-12 02:22:33
 最后更新时间：2026-02-16 02:09:40
+最后更新时间：2026-02-18 02:20:49
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -94,6 +95,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 32970  | 
 | DOMAIN-SUFFIX | 32674  | 
 | TOTAL | 32990  | 
+| DOMAIN-SUFFIX | 32772  | 
+| TOTAL | 33088  | 
 ## Loon 
 #### 文件区别
 - Global_Resolve.list与Global.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。

@@ -30,6 +30,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 145  | 
 最后更新时间：2026-02-16 02:10:56
 | DOMAIN | 130  | 
+最后更新时间：2026-02-18 02:22:11
+| DOMAIN | 151  | 
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
@@ -86,6 +88,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 262  | 
 | TOTAL | 275  | 
 | TOTAL | 260  | 
+| TOTAL | 281  | 
 ## Loon 
 #### 文件区别
 - PrivateTracker_Resolve.list与PrivateTracker.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
