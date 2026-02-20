@@ -60,6 +60,9 @@
 # UPDATED: 2026-02-12 02:22:54
 # UPDATED: 2026-02-16 02:10:01
 # UPDATED: 2026-02-18 02:21:12
+# UPDATED: 2026-02-20 02:20:44
+# HOST-SUFFIX: 7046
+# TOTAL: 7196
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4079,6 +4082,7 @@ HOST-SUFFIX,moresci.sale,Proxy
 HOST-SUFFIX,morningsun.org,Proxy
 HOST-SUFFIX,moroneta.com,Proxy
 HOST-SUFFIX,mos.ru,Proxy
+HOST-SUFFIX,mosavi.io,Proxy
 HOST-SUFFIX,mosucloud.site,Proxy
 HOST-SUFFIX,motherless.com,Proxy
 HOST-SUFFIX,motiyun.com,Proxy

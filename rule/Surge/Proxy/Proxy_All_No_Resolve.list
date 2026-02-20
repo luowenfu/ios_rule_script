@@ -60,6 +60,9 @@
 # UPDATED: 2026-02-12 02:22:54
 # UPDATED: 2026-02-16 02:10:00
 # UPDATED: 2026-02-18 02:21:11
+# UPDATED: 2026-02-20 02:20:44
+# DOMAIN-SUFFIX: 6566
+# TOTAL: 6706
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -3674,6 +3677,7 @@ DOMAIN-SUFFIX,moresci.sale
 DOMAIN-SUFFIX,morningsun.org
 DOMAIN-SUFFIX,moroneta.com
 DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,mosucloud.site
 DOMAIN-SUFFIX,motherless.com
 DOMAIN-SUFFIX,motiyun.com
