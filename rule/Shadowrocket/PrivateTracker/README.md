@@ -32,6 +32,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 130  | 
 最后更新时间：2026-02-18 02:22:11
 | DOMAIN | 151  | 
+最后更新时间：2026-02-22 02:10:07
+| DOMAIN | 143  | 
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
@@ -61,7 +63,6 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 140  | 
 | TOTAL | 271  | 
 最后更新时间：2026-01-10 02:09:21
-| DOMAIN | 143  | 
 | TOTAL | 274  | 
 最后更新时间：2026-01-12 02:09:02
 | DOMAIN | 126  | 
@@ -89,6 +90,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 275  | 
 | TOTAL | 260  | 
 | TOTAL | 281  | 
+| TOTAL | 273  | 
 ## Shadowrocket 
 #### 使用说明
 - PrivateTracker.list，请使用RULE-SET。
