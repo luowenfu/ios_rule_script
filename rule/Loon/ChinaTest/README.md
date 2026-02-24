@@ -28,6 +28,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-02-08 02:10:22
 最后更新时间：2026-02-12 02:23:15
 最后更新时间：2026-02-16 02:10:22
+最后更新时间：2026-02-24 02:24:42
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -89,6 +90,8 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 116373  | 
 | DOMAIN-SUFFIX | 116183  | 
 | TOTAL | 116371  | 
+| DOMAIN-SUFFIX | 116245  | 
+| TOTAL | 116433  | 
 ## Loon 
 #### 文件区别
 - ChinaTest_Resolve.list与ChinaTest.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。

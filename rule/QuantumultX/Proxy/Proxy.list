@@ -63,6 +63,9 @@
 # UPDATED: 2026-02-20 02:20:44
 # HOST-SUFFIX: 7046
 # TOTAL: 7196
+# UPDATED: 2026-02-24 02:24:21
+# HOST-SUFFIX: 7053
+# TOTAL: 7203
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -328,6 +331,7 @@ HOST-SUFFIX,akamaihd.net,Proxy
 HOST-SUFFIX,akamaistream.net,Proxy
 HOST-SUFFIX,akiba-online.com,Proxy
 HOST-SUFFIX,akiba-web.com,Proxy
+HOST-SUFFIX,akile.io,Proxy
 HOST-SUFFIX,akinator.com,Proxy
 HOST-SUFFIX,akow.org,Proxy
 HOST-SUFFIX,al-islam.com,Proxy
@@ -541,6 +545,7 @@ HOST-SUFFIX,aspi.org.au,Proxy
 HOST-SUFFIX,aspistrategist.org.au,Proxy
 HOST-SUFFIX,aspnetcdn.com,Proxy
 HOST-SUFFIX,assembla.com,Proxy
+HOST-SUFFIX,assets.nxtrace.org,Proxy
 HOST-SUFFIX,assimp.org,Proxy
 HOST-SUFFIX,astrill.com,Proxy
 HOST-SUFFIX,async.be,Proxy
@@ -3906,6 +3911,7 @@ HOST-SUFFIX,mediafire.com,Proxy
 HOST-SUFFIX,mediafreakcity.com,Proxy
 HOST-SUFFIX,mediawiki.org,Proxy
 HOST-SUFFIX,medium.com,Proxy
+HOST-SUFFIX,meee.com.tw,Proxy
 HOST-SUFFIX,meetav.com,Proxy
 HOST-SUFFIX,meetup.com,Proxy
 HOST-SUFFIX,mefeedia.com,Proxy
@@ -4527,6 +4533,7 @@ HOST-SUFFIX,ooyala.com,Proxy
 HOST-SUFFIX,open.com.hk,Proxy
 HOST-SUFFIX,openallweb.com,Proxy
 HOST-SUFFIX,openbase.com,Proxy
+HOST-SUFFIX,opencritic.com,Proxy
 HOST-SUFFIX,opendemocracy.net,Proxy
 HOST-SUFFIX,opendn.xyz,Proxy
 HOST-SUFFIX,openervpn.in,Proxy
@@ -6038,6 +6045,7 @@ HOST-SUFFIX,toppornsites.com,Proxy
 HOST-SUFFIX,topshareware.com,Proxy
 HOST-SUFFIX,toptip.ca,Proxy
 HOST-SUFFIX,toptoon.net,Proxy
+HOST-SUFFIX,tor.eff.org,Proxy
 HOST-SUFFIX,tora.to,Proxy
 HOST-SUFFIX,torcn.com,Proxy
 HOST-SUFFIX,torguard.net,Proxy
@@ -6324,6 +6332,7 @@ HOST-SUFFIX,unicode.org,Proxy
 HOST-SUFFIX,unification.net,Proxy
 HOST-SUFFIX,unification.org.tw,Proxy
 HOST-SUFFIX,unirule.cloud,Proxy
+HOST-SUFFIX,uniswap.org,Proxy
 HOST-SUFFIX,unitedsocialpress.com,Proxy
 HOST-SUFFIX,unity3d.com,Proxy
 HOST-SUFFIX,unix100.com,Proxy
@@ -6807,6 +6816,7 @@ HOST-SUFFIX,wuw.red,Proxy
 HOST-SUFFIX,wuyanblog.com,Proxy
 HOST-SUFFIX,wwe.com,Proxy
 HOST-SUFFIX,wwitv.com,Proxy
+HOST-SUFFIX,www.clashverge.dev,Proxy
 HOST-SUFFIX,www.lamenhu.com,Proxy
 HOST-SUFFIX,www.orchidbbs.com,Proxy
 HOST-SUFFIX,www.taup.org.tw,Proxy

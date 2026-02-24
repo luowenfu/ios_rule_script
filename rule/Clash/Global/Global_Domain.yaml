@@ -92,6 +92,9 @@
 # UPDATED: 2026-02-22 02:08:49
 # DOMAIN-SUFFIX: 32846
 # TOTAL: 33117
+# UPDATED: 2026-02-24 02:24:00
+# DOMAIN-SUFFIX: 32851
+# TOTAL: 33122
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -23694,7 +23697,6 @@ payload:
   - '+.unistats.ac.uk'
   - '+.unisurreydirect.ac.uk'
   - '+.uniswales.ac.uk'
-  - '+.uniswap.org'
   - '+.unitedcollegegroup.ac.uk'
   - '+.unitedcollegesgroup.ac.uk'
   - '+.unity.ac.uk'
@@ -26792,6 +26794,7 @@ payload:
   - '+.akamaistream.net'
   - '+.akiba-online.com'
   - '+.akiba-web.com'
+  - '+.akile.io'
   - '+.akinator.com'
   - '+.akow.org'
   - '+.al-islam.com'
@@ -26995,6 +26998,7 @@ payload:
   - '+.aspistrategist.org.au'
   - '+.aspnetcdn.com'
   - '+.assembla.com'
+  - '+.assets.nxtrace.org'
   - '+.assimp.org'
   - '+.astrill.com'
   - '+.async.be'
@@ -29944,6 +29948,7 @@ payload:
   - '+.mediafreakcity.com'
   - '+.mediawiki.org'
   - '+.medium.com'
+  - '+.meee.com.tw'
   - '+.meetav.com'
   - '+.meetup.com'
   - '+.mefeedia.com'
@@ -30558,6 +30563,7 @@ payload:
   - '+.open.com.hk'
   - '+.openallweb.com'
   - '+.openbase.com'
+  - '+.opencritic.com'
   - '+.opendemocracy.net'
   - '+.opendn.xyz'
   - '+.openervpn.in'
@@ -32285,6 +32291,7 @@ payload:
   - '+.unification.net'
   - '+.unification.org.tw'
   - '+.unirule.cloud'
+  - '+.uniswap.org'
   - '+.unitedsocialpress.com'
   - '+.unity3d.com'
   - '+.unix100.com'
@@ -32752,6 +32759,7 @@ payload:
   - '+.wuyanblog.com'
   - '+.wwe.com'
   - '+.wwitv.com'
+  - '+.www.clashverge.dev'
   - '+.www1.biz'
   - '+.wwwhost.biz'
   - '+.wxw.cat'

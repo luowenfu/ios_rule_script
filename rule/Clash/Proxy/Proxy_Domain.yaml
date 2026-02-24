@@ -62,6 +62,9 @@
 # UPDATED: 2026-02-20 02:20:44
 # DOMAIN-SUFFIX: 6566
 # TOTAL: 6698
+# UPDATED: 2026-02-24 02:24:21
+# DOMAIN-SUFFIX: 6573
+# TOTAL: 6705
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -310,6 +313,7 @@ payload:
   - '+.akamaistream.net'
   - '+.akiba-online.com'
   - '+.akiba-web.com'
+  - '+.akile.io'
   - '+.akinator.com'
   - '+.akow.org'
   - '+.al-islam.com'
@@ -518,6 +522,7 @@ payload:
   - '+.aspistrategist.org.au'
   - '+.aspnetcdn.com'
   - '+.assembla.com'
+  - '+.assets.nxtrace.org'
   - '+.assimp.org'
   - '+.astrill.com'
   - '+.async.be'
@@ -3501,6 +3506,7 @@ payload:
   - '+.mediafreakcity.com'
   - '+.mediawiki.org'
   - '+.medium.com'
+  - '+.meee.com.tw'
   - '+.meetav.com'
   - '+.meetup.com'
   - '+.mefeedia.com'
@@ -4119,6 +4125,7 @@ payload:
   - '+.open.com.hk'
   - '+.openallweb.com'
   - '+.openbase.com'
+  - '+.opencritic.com'
   - '+.opendemocracy.net'
   - '+.opendn.xyz'
   - '+.openervpn.in'
@@ -5582,6 +5589,7 @@ payload:
   - '+.topshareware.com'
   - '+.toptip.ca'
   - '+.toptoon.net'
+  - '+.tor.eff.org'
   - '+.tora.to'
   - '+.torcn.com'
   - '+.torguard.net'
@@ -5855,6 +5863,7 @@ payload:
   - '+.unification.net'
   - '+.unification.org.tw'
   - '+.unirule.cloud'
+  - '+.uniswap.org'
   - '+.unitedsocialpress.com'
   - '+.unity3d.com'
   - '+.unix100.com'
@@ -6328,6 +6337,7 @@ payload:
   - '+.wuyanblog.com'
   - '+.wwe.com'
   - '+.wwitv.com'
+  - '+.www.clashverge.dev'
   - '+.www.lamenhu.com'
   - '+.www.orchidbbs.com'
   - '+.www.taup.org.tw'
