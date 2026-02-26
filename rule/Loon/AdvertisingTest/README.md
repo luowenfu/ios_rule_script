@@ -46,10 +46,11 @@
 最后更新时间：2026-02-20 02:18:37
 最后更新时间：2026-02-22 02:07:08
 最后更新时间：2026-02-24 02:22:19
+最后更新时间：2026-02-26 02:22:41
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 13157  | 
+| DOMAIN | 13162  | 
 | DOMAIN-KEYWORD | 280  | 
 | DOMAIN-SUFFIX | 226600  | 
 | IP-CIDR | 508  | 
@@ -124,6 +125,8 @@
 | TOTAL | 256737  | 
 | DOMAIN-SUFFIX | 246326  | 
 | TOTAL | 260288  | 
+| DOMAIN-SUFFIX | 244117  | 
+| TOTAL | 258084  | 
 ## Loon 
 #### 使用说明
 - URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置AdvertisingTest_MITM.plugin，仅供参考。

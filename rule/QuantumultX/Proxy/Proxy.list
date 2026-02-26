@@ -66,6 +66,9 @@
 # UPDATED: 2026-02-24 02:24:21
 # HOST-SUFFIX: 7053
 # TOTAL: 7203
+# UPDATED: 2026-02-26 02:24:40
+# HOST-SUFFIX: 7054
+# TOTAL: 7204
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -2175,6 +2178,7 @@ HOST-SUFFIX,freechina.news,Proxy
 HOST-SUFFIX,freechinaforum.org,Proxy
 HOST-SUFFIX,freechinaweibo.com,Proxy
 HOST-SUFFIX,freedl.org,Proxy
+HOST-SUFFIX,freedom.gov,Proxy
 HOST-SUFFIX,freedomchina.info,Proxy
 HOST-SUFFIX,freedomcollection.org,Proxy
 HOST-SUFFIX,freedomhongkong.org,Proxy

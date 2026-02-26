@@ -65,6 +65,9 @@
 # UPDATED: 2026-02-24 02:24:21
 # DOMAIN-SUFFIX: 6573
 # TOTAL: 6705
+# UPDATED: 2026-02-26 02:24:40
+# DOMAIN-SUFFIX: 6574
+# TOTAL: 6706
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -2050,6 +2053,7 @@ voice.telephony.goog
 .freechinaforum.org
 .freechinaweibo.com
 .freedl.org
+.freedom.gov
 .freedomchina.info
 .freedomcollection.org
 .freedomhongkong.org
