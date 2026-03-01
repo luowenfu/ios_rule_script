@@ -28,10 +28,27 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-01-16 02:11:52
 最后更新时间：2026-01-18 02:07:26
 最后更新时间：2026-01-20 02:07:57
+最后更新时间：2026-01-22 02:17:01
+最后更新时间：2026-01-24 02:08:27
+最后更新时间：2026-01-26 02:07:54
+最后更新时间：2026-01-30 02:13:28
+最后更新时间：2026-02-01 02:08:22
+最后更新时间：2026-02-04 02:21:06
+最后更新时间：2026-02-06 02:19:46
+最后更新时间：2026-02-08 02:09:39
+最后更新时间：2026-02-10 02:20:01
+最后更新时间：2026-02-12 02:22:33
+最后更新时间：2026-02-16 02:09:39
+最后更新时间：2026-02-18 02:20:48
+最后更新时间：2026-02-20 02:20:21
+最后更新时间：2026-02-22 02:08:48
+最后更新时间：2026-02-24 02:23:59
+最后更新时间：2026-02-26 02:24:19
+最后更新时间：2026-02-28 02:14:14
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 115  | 
+| DOMAIN | 118  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32348  | 
@@ -47,6 +64,21 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 32591  | 
 | DOMAIN-SUFFIX | 32598  | 
 | DOMAIN-SUFFIX | 32604  | 
+| DOMAIN-SUFFIX | 32576  | 
+| DOMAIN-SUFFIX | 32582  | 
+| DOMAIN-SUFFIX | 32606  | 
+| DOMAIN-SUFFIX | 32610  | 
+| DOMAIN-SUFFIX | 32612  | 
+| DOMAIN-SUFFIX | 32621  | 
+| DOMAIN-SUFFIX | 32646  | 
+| DOMAIN-SUFFIX | 32655  | 
+| DOMAIN-SUFFIX | 32674  | 
+| DOMAIN-SUFFIX | 32772  | 
+| DOMAIN-SUFFIX | 32798  | 
+| DOMAIN-SUFFIX | 32846  | 
+| DOMAIN-SUFFIX | 32851  | 
+| DOMAIN-SUFFIX | 32855  | 
+| DOMAIN-SUFFIX | 32870  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
@@ -64,6 +96,23 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 32904  | 
 | TOTAL | 32911  | 
 | TOTAL | 32918  | 
+| TOTAL | 32892  | 
+| TOTAL | 32897  | 
+| TOTAL | 32898  | 
+| TOTAL | 32913  | 
+| TOTAL | 32921  | 
+| TOTAL | 32925  | 
+| TOTAL | 32927  | 
+| TOTAL | 32936  | 
+| TOTAL | 32962  | 
+| TOTAL | 32971  | 
+| TOTAL | 32991  | 
+| TOTAL | 33089  | 
+| TOTAL | 33115  | 
+| TOTAL | 33163  | 
+| TOTAL | 33168  | 
+| TOTAL | 33172  | 
+| TOTAL | 33187  | 
 ## Surge 
 #### 使用说明
 - Global.list，请使用RULE-SET。

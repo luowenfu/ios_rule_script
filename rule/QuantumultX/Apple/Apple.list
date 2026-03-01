@@ -18,13 +18,34 @@
 # UPDATED: 2026-01-16 02:10:37
 # UPDATED: 2026-01-18 02:06:17
 # UPDATED: 2026-01-20 02:06:45
+# UPDATED: 2026-01-22 02:15:47
+# UPDATED: 2026-01-24 02:07:13
+# UPDATED: 2026-01-26 02:06:41
+# UPDATED: 2026-01-28 02:08:35
+# UPDATED: 2026-01-30 02:12:15
+# UPDATED: 2026-02-01 02:07:09
+# UPDATED: 2026-02-02 02:08:20
+# UPDATED: 2026-02-04 02:19:52
+# UPDATED: 2026-02-06 02:18:31
+# UPDATED: 2026-02-08 02:08:24
+# UPDATED: 2026-02-10 02:18:45
+# UPDATED: 2026-02-12 02:21:19
+# UPDATED: 2026-02-14 02:13:56
+# UPDATED: 2026-02-16 02:08:24
+# UPDATED: 2026-02-18 02:19:28
+# UPDATED: 2026-02-20 02:19:03
+# UPDATED: 2026-02-22 02:07:33
+# UPDATED: 2026-02-24 02:22:43
+# UPDATED: 2026-02-26 02:23:05
+# UPDATED: 2026-02-28 02:12:57
 # HOST: 272
 # HOST-KEYWORD: 7
-# HOST-SUFFIX: 1549
+# HOST-SUFFIX: 1550
 # HOST-WILDCARD: 15
 # IP-CIDR: 10
+# IP6-CIDR: 3
 # USER-AGENT: 23
-# TOTAL: 1876
+# TOTAL: 1880
 HOST,apps.apple.com,Apple
 HOST,a1.mzstatic.com,Apple
 HOST,a2.mzstatic.com,Apple
@@ -345,6 +366,7 @@ HOST-SUFFIX,appl-e.com,Apple
 HOST-SUFFIX,appl.com,Apple
 HOST-SUFFIX,appl4e.com,Apple
 HOST-SUFFIX,appla.com,Apple
+HOST-SUFFIX,appldnld.apple.com.edgesuite.net,Apple
 HOST-SUFFIX,apple-darwin.com,Apple
 HOST-SUFFIX,apple-darwin.net,Apple
 HOST-SUFFIX,apple-darwin.org,Apple
@@ -1480,7 +1502,6 @@ HOST-SUFFIX,applepaysupplies.net,Apple
 HOST-SUFFIX,applepaysupplies.tv,Apple
 HOST-SUFFIX,applewallet.com,Apple
 HOST-SUFFIX,applewallet.tv,Apple
-HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,appstore.co.id,Apple
 HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,appstore.hk,Apple
@@ -1803,9 +1824,11 @@ HOST-SUFFIX,ukipad.com,Apple
 HOST-SUFFIX,wwwipodlounge.com,Apple
 HOST-SUFFIX,wwwmacbookair.com,Apple
 HOST-SUFFIX,apple.comscoreresearch.com,Apple
+HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appleenews.com,Apple
 HOST-SUFFIX,applemusic.berlin,Apple
 HOST-SUFFIX,applemusic.co,Apple
+HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,applemusic.com.au,Apple
 HOST-SUFFIX,applemusic.hamburg,Apple
 HOST-SUFFIX,applemusic.wang,Apple
@@ -1838,9 +1861,8 @@ HOST-SUFFIX,iphoto.se,Apple
 HOST-SUFFIX,iphoto.wang,Apple
 HOST-SUFFIX,musickit.net,Apple
 HOST-SUFFIX,wwwapplemusic.com,Apple
-HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
-HOST-SUFFIX,apple.news,Apple
+HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,digicert.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
@@ -1901,3 +1923,6 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 IP-CIDR,63.92.224.0/19,Apple
 IP-CIDR,65.199.22.0/23,Apple
+IP6-CIDR,2403:300::/32,Apple
+IP6-CIDR,2620:149::/32,Apple
+IP6-CIDR,2a01:b740::/32,Apple

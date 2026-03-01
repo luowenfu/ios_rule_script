@@ -32,6 +32,42 @@
 # UPDATED: 2026-01-20 02:08:19
 # DOMAIN-SUFFIX: 6588
 # TOTAL: 6728
+# UPDATED: 2026-01-22 02:17:22
+# DOMAIN-SUFFIX: 6590
+# TOTAL: 6730
+# UPDATED: 2026-01-30 02:13:49
+# DOMAIN-SUFFIX: 6592
+# TOTAL: 6732
+# UPDATED: 2026-02-01 02:08:43
+# DOMAIN-SUFFIX: 6594
+# TOTAL: 6734
+# UPDATED: 2026-02-02 02:09:56
+# DOMAIN-SUFFIX: 6595
+# TOTAL: 6735
+# UPDATED: 2026-02-04 02:21:28
+# DOMAIN-SUFFIX: 6596
+# TOTAL: 6736
+# UPDATED: 2026-02-06 02:20:07
+# DOMAIN-SUFFIX: 6597
+# TOTAL: 6737
+# UPDATED: 2026-02-08 02:10:01
+# DOMAIN-SUFFIX: 6601
+# TOTAL: 6741
+# UPDATED: 2026-02-10 02:20:24
+# DOMAIN-SUFFIX: 6602
+# TOTAL: 6742
+# UPDATED: 2026-02-12 02:22:54
+# UPDATED: 2026-02-16 02:10:01
+# UPDATED: 2026-02-18 02:21:11
+# UPDATED: 2026-02-20 02:20:44
+# DOMAIN-SUFFIX: 6566
+# TOTAL: 6706
+# UPDATED: 2026-02-24 02:24:21
+# DOMAIN-SUFFIX: 6573
+# TOTAL: 6713
+# UPDATED: 2026-02-26 02:24:40
+# DOMAIN-SUFFIX: 6574
+# TOTAL: 6714
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -232,7 +268,6 @@
 .advanscene.com
 .advertfan.com
 .advertisercommunity.com
-.ae.hao123.com
 .ae.org
 .aei.org
 .aenhancers.com
@@ -258,7 +293,6 @@
 .airtable.com
 .airvpn.org
 .aisex.com
-.aiss.anws.gov.tw
 .ait.org.tw
 .aiv-cdn.net
 .aiv-cdn.net.c.footprint.net
@@ -272,6 +306,7 @@
 .akamaistream.net
 .akiba-online.com
 .akiba-web.com
+.akile.io
 .akinator.com
 .akow.org
 .al-islam.com
@@ -444,7 +479,6 @@
 .archiveofourown.com
 .archiveofourown.org
 .archives.gov
-.archives.gov.tw
 .arctosia.com
 .areca-backup.org
 .arena.taipei
@@ -481,6 +515,7 @@
 .aspistrategist.org.au
 .aspnetcdn.com
 .assembla.com
+.assets.nxtrace.org
 .assimp.org
 .astrill.com
 .async.be
@@ -530,6 +565,7 @@
 .babylonbee.com
 .babynet.com.hk
 .backchina.com
+.backend-v2.crixet.com
 .backpackers.com.tw
 .backtotiananmen.com
 .bad.news
@@ -574,6 +610,7 @@
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -583,7 +620,6 @@
 .bbs-tw.com
 .bbs.kimy.com.tw
 .bbs.qmzdd.com
-.bbs.sina.com
 .bbs.tuitui.info
 .bbsdigest.com
 .bbsfeed.com
@@ -692,6 +728,7 @@
 .bitshare.com
 .bitsnoop.com
 .bitterwinter.org
+.bittorrent.com
 .bitvise.com
 .bitz.ai
 .bizhat.com
@@ -779,7 +816,6 @@
 .boyfriendtv.com
 .boysfood.com
 .boysmaster.com
-.br.hao123.com
 .br.st
 .brainyquote.com
 .brandonhutchinson.com
@@ -1338,7 +1374,6 @@
 .dailidaili.com
 .dailymail.co.uk
 .dailymotion.com
-.dailynews.sina.com
 .dailysabah.com
 .dailyview.tw
 .daiphapinfo.net
@@ -1378,7 +1413,6 @@
 .dashlane.com
 .dastrassi.org
 .data-vocabulary.org
-.data.gov.tw
 .datalabour.com
 .daum.net
 .david-kilgour.com
@@ -1680,7 +1714,6 @@
 .emule-ed2k.com
 .emulefans.com
 .emuparadise.me
-.en.hao123.com
 .enanyang.my
 .encrypt.me
 .encyclopedia.com
@@ -1758,7 +1791,6 @@
 .evernote.com
 .evozi.com
 .evschool.net
-.exam.gov.tw
 .exblog.jp
 .exchristian.hk
 .excite.co.jp
@@ -1777,7 +1809,6 @@
 .extrabux.com
 .extremetube.com
 .exx.com
-.ey.gov.tw
 .eyevio.jp
 .eyny.com
 .ezpc.tk
@@ -1786,7 +1817,6 @@
 .f-droid.org
 .f2pool.com
 .f8.com
-.fa.gov.tw
 .fabric.io
 .faceless.me
 .facesofnyfw.com
@@ -1876,7 +1906,6 @@
 .fc2china.com
 .fc2cn.com
 .fc2web.com
-.fda.gov.tw
 .fdbox.com
 .fdc64.de
 .fdc64.org
@@ -2015,6 +2044,7 @@
 .freechinaforum.org
 .freechinaweibo.com
 .freedl.org
+.freedom.gov
 .freedomchina.info
 .freedomcollection.org
 .freedomhongkong.org
@@ -2047,6 +2077,7 @@
 .freess.org
 .freessh.us
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
@@ -2217,7 +2248,14 @@
 .getsync.com
 .gettr.com
 .gettrials.com
+.gettyimages.ae
+.gettyimages.ca
 .gettyimages.com
+.gettyimages.de
+.gettyimages.hk
+.gettyimages.in
+.gettyimages.it
+.gettyimages.us
 .getuploader.com
 .gfbv.de
 .gfgold.com.hk
@@ -2273,6 +2311,7 @@
 .glype.com
 .gmauthority.com
 .gmgard.com
+.gmgn.ai
 .gmhz.org
 .gmiddle.com
 .gmiddle.net
@@ -2378,6 +2417,7 @@
 .greenvpn.org
 .grindr.com
 .grok.com
+.grokipedia.com
 .grotty-monday.com
 .ground.news
 .gs-discuss.com
@@ -2479,6 +2519,7 @@
 .helpshift.com
 .helpster.de
 .helpzhuling.org
+.hembed.com
 .hentai.to
 .hentaitube.tv
 .hentaivideoworld.com
@@ -2536,7 +2577,6 @@
 .hjclub.info
 .hjd2048.com
 .hk-pub.com
-.hk.hao123img.com
 .hk01.com
 .hk32168.com
 .hkacg.com
@@ -2598,7 +2638,6 @@
 .holymountaincn.com
 .holyspiritspeaks.org
 .home.saxo
-.home.sina.com
 .home.so-net.net.tw
 .homedepot.com
 .homeperversion.com
@@ -2633,7 +2672,6 @@
 .hoxx.com
 .hoy.tv
 .hoyolab.com
-.hpa.gov.tw
 .hpjav.com
 .hqcdp.org
 .hqjapanesesex.com
@@ -2643,7 +2681,6 @@
 .hrea.org
 .hrichina.org
 .hrntt.org
-.hrtsea.com
 .hrw.org
 .hrweb.org
 .hsex.men
@@ -2658,6 +2695,7 @@
 .html5rocks.com
 .https443.net
 .https443.org
+.htx.com
 .hua-yue.net
 .huaglad.com
 .huanghuagang.org
@@ -2691,6 +2729,7 @@
 .hungerstrikeforaids.org
 .huobi.co
 .huobi.com
+.huobi.li
 .huobi.me
 .huobi.pro
 .huobi.sc
@@ -2746,7 +2785,6 @@
 .iconpaper.org
 .icons8.com
 .icu-project.org
-.id.hao123.com
 .idaiwan.com
 .idcflare.com
 .iddddg.com
@@ -2808,7 +2846,6 @@
 .imkev.com
 .imlive.co
 .imlive.com
-.immigration.gov.tw
 .immoral.jp
 .imore.com
 .impact.org.au
@@ -2923,7 +2960,6 @@
 .isuntv.com
 .isupportuyghurs.org
 .itaboo.info
-.itaiwan.gov.tw
 .italiatibet.org
 .itasoftware.com
 .itch.io
@@ -3043,7 +3079,6 @@
 .journalchretien.net
 .journalofdemocracy.org
 .joymiihub.com
-.jp.hao123.com
 .jpopforum.net
 .jqueryui.com
 .js.revsci.net
@@ -3052,7 +3087,6 @@
 .jshint.com
 .jtvnw.net
 .jubushoushen.com
-.judicial.gov.tw
 .juhuaren.com
 .jukujo-club.com
 .juliepost.com
@@ -3209,7 +3243,6 @@
 .latibet.org
 .lausan.hk
 .lbank.info
-.ld.hao123img.com
 .ldplayer.net
 .ldplayer.tw
 .le-vpn.com
@@ -3367,7 +3400,6 @@
 .luxebc.com
 .lvhai.org
 .lvv2.com
-.ly.gov.tw
 .lyfhk.net
 .lzjscript.com
 .lzmtnews.org
@@ -3376,7 +3408,6 @@
 .m.plixi.com
 .m.slandr.net
 .m8008.com
-.ma.hao123.com
 .macgamestore.com
 .macid.co
 .macromedia.com
@@ -3469,6 +3500,7 @@
 .mediafreakcity.com
 .mediawiki.org
 .medium.com
+.meee.com.tw
 .meetav.com
 .meetup.com
 .mefeedia.com
@@ -3594,7 +3626,6 @@
 .mixx.com
 .mizzmona.com
 .mji.rip
-.mjib.gov.tw
 .mjj.rip
 .mk5000.com
 .mlc.ai
@@ -3612,20 +3643,16 @@
 .mod.io
 .modernchinastudies.org
 .modmyi.com
-.moeaic.gov.tw
 .moeerolibrary.com
 .moegirl.org
 .moeshare.cc
-.mofa.gov.tw
 .mofaxiehui.com
 .mofos.com
 .mog.com
 .mohu.club
 .mohu.ml
 .mohu.rocks
-.moj.gov.tw
 .mojim.com
-.mol.gov.tw
 .molihua.org
 .momoshop.com.tw
 .mondex.org
@@ -3650,6 +3677,7 @@
 .morningsun.org
 .moroneta.com
 .mos.ru
+.mosavi.io
 .mosucloud.site
 .motherless.com
 .motiyun.com
@@ -3698,10 +3726,8 @@
 .muzi.com
 .muzi.net
 .muzu.tv
-.mvdis.gov.tw
 .mvg.jp
 .mvnrepository.com
-.mx.hao123.com
 .mx981.com
 .my-formosa.com
 .my-private-network.co.uk
@@ -3786,7 +3812,6 @@
 .naol.cc
 .narod.ru
 .nasa.gov
-.nat.gov.tw
 .nat.moe
 .natado.com
 .national-lottery.co.uk
@@ -3891,7 +3916,6 @@
 .nga.mil
 .ngensis.com
 .nhentai.net
-.nhi.gov.tw
 .nhk-ondemand.jp
 .nhncorp.jp
 .nianticlabs.com
@@ -3955,8 +3979,6 @@
 .noxinfluencer.com
 .noypf.com
 .npa.go.jp
-.npa.gov.tw
-.npm.gov.tw
 .npnt.me
 .nps.gov
 .npsboost.com
@@ -3972,11 +3994,7 @@
 .ns1.name
 .ns2.name
 .ns3.name
-.nsc.gov.tw
 .nssurge.com
-.ntbk.gov.tw
-.ntbna.gov.tw
-.ntbt.gov.tw
 .ntd.tv
 .ntdtv.ca
 .ntdtv.co.kr
@@ -4101,6 +4119,7 @@
 .open.com.hk
 .openallweb.com
 .openbase.com
+.opencritic.com
 .opendemocracy.net
 .opendn.xyz
 .openervpn.in
@@ -4215,7 +4234,6 @@
 .pbxes.com
 .pbxes.org
 .pcanywhere.net
-.pcc.gov.tw
 .pcdvd.com.tw
 .pcgamestorrents.com
 .pchome.com.tw
@@ -4420,6 +4438,7 @@
 .privoxy.org
 .procopytips.com
 .project-syndicate.org
+.prompthero.com
 .prosciana.com
 .prosiben.de
 .proton.me
@@ -4460,6 +4479,7 @@
 .puffinbrowser.com
 .puffstore.com
 .pugpig.com
+.pullfolio.co
 .pullfolio.com
 .punyu.com
 .pure18.com
@@ -4704,7 +4724,6 @@
 .s1s1s1.com
 .s4miniarchive.com
 .s8forum.com
-.sa.hao123.com
 .saboom.com
 .sacks.com
 .sacom.hk
@@ -4880,6 +4899,7 @@
 .sijihuisuo.com
 .silkbook.com
 .silvergatebank.com
+.simianx.ai
 .simp.ly
 .simplecd.me
 .simplecd.org
@@ -5034,6 +5054,7 @@
 .sowers.org.hk
 .soylent.com
 .soylentnews.org
+.spacex.com
 .spankbang.com
 .spankingtube.com
 .spankwire.com
@@ -5098,7 +5119,6 @@
 .starp2p.com
 .startpage.com
 .startuplivingchina.com
-.stat.gov.tw
 .state.gov
 .static-economist.com
 .static.pocketcasts.com
@@ -5213,7 +5233,6 @@
 .taaze.tw
 .tablesgenerator.com
 .tabtter.jp
-.tacc.cwb.gov.tw
 .tacem.org
 .taconet.com.tw
 .taedp.org.tw
@@ -5221,7 +5240,7 @@
 .tagwa.org.au
 .tagwalk.com
 .tahr.org.tw
-.taipei.gov.tw
+.tails.net
 .taipeisociety.org
 .taipeitimes.com
 .taisounds.com
@@ -5231,7 +5250,6 @@
 .taiwandaily.net
 .taiwandc.org
 .taiwanhot.net
-.taiwanjobs.gov.tw
 .taiwanjustice.com
 .taiwanjustice.net
 .taiwankiss.com
@@ -5277,7 +5295,6 @@
 .tbrc.org
 .tbs-rainbow.org
 .tbsec.org
-.tbskkinabalu.page.tl
 .tbsmalaysia.org
 .tbsn.org
 .tbsseattle.org
@@ -5337,9 +5354,7 @@
 .tg.dev
 .tgfcer.com
 .tgstat.com
-.th.hao123.com
 .thaicn.com
-.thb.gov.tw
 .theatlantic.com
 .theatrum-belli.com
 .theaustralian.com.au
@@ -5528,7 +5543,6 @@
 .tinypic.com
 .tinyurl.com
 .tipas.net
-.tipo.gov.tw
 .tistory.com
 .tkcs-collins.com
 .tl.gd
@@ -5569,6 +5583,7 @@
 .topshareware.com
 .toptip.ca
 .toptoon.net
+.tor.eff.org
 .tora.to
 .torcn.com
 .torguard.net
@@ -5687,7 +5702,6 @@
 .tvunetworks.com
 .tw-blog.com
 .tw-npo.org
-.tw.hao123.com
 .tw01.org
 .twaitter.com
 .twapperkeeper.com
@@ -5720,6 +5734,7 @@
 .twelve.today
 .twerkingbutt.com
 .twftp.org
+.twgov.tw
 .twgreatdaily.com
 .twibase.com
 .twibble.de
@@ -5842,6 +5857,7 @@
 .unification.net
 .unification.org.tw
 .unirule.cloud
+.uniswap.org
 .unitedsocialpress.com
 .unity3d.com
 .unix100.com
@@ -5924,6 +5940,7 @@
 .v.gd
 .v.roucdn
 .v2.help
+.v2.hysteria.network
 .v2ex.co
 .v2ex.com
 .v2fly.org
@@ -6000,7 +6017,6 @@
 .vllcs.org
 .vmixcore.com
 .vmpsoft.com
-.vn.hao123.com
 .vnet.link
 .voa.mobi
 .voacambodia.com
@@ -6091,11 +6107,13 @@
 .wainao.me
 .waiwaier.com
 .walletconnect.com
+.walletconnect.org
 .wallmama.com
 .wallornot.org
 .wallpapercasa.com
 .wallproxy.com
 .wallsttv.com
+.wallzhihu.com
 .waltermartin.com
 .waltermartin.org
 .wan-press.org
@@ -6125,7 +6143,6 @@
 .waybig.com
 .waymo.com
 .wd.bible
-.wda.gov.tw
 .wdf5.com
 .wealth.com.tw
 .wearehairy.com
@@ -6158,6 +6175,7 @@
 .wefightcensorship.org
 .wefong.com
 .weiboleak.com
+.weights.com
 .weihuo.org
 .weijingsheng.org
 .weiming.info
@@ -6224,6 +6242,7 @@
 .wikipedia.com
 .wikipedia.org
 .wikiquote.org
+.wikis.tw
 .wikisource.org
 .wikiunblocked.org
 .wikiversity.org
@@ -6312,6 +6331,7 @@
 .wuyanblog.com
 .wwe.com
 .wwitv.com
+.www.clashverge.dev
 .www.lamenhu.com
 .www.orchidbbs.com
 .www.taup.org.tw
@@ -6469,6 +6489,7 @@
 .yesasia.com
 .yesasia.com.hk
 .yeyeclub.com
+.yfsp.tv
 .ygto.com
 .yhcw.net
 .yibada.com
@@ -6496,6 +6517,7 @@
 .youjizz.com
 .youlucky.com
 .youmaker.com
+.youmind.com
 .youngspiration.hk
 .youpai.org
 .your-freedom.net
