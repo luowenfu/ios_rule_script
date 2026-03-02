@@ -101,6 +101,9 @@
 # UPDATED: 2026-02-28 02:14:15
 # DOMAIN-SUFFIX: 32870
 # TOTAL: 33141
+# UPDATED: 2026-03-02 02:08:25
+# DOMAIN-SUFFIX: 32871
+# TOTAL: 33142
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -26018,6 +26021,7 @@ login.microsoftonline.com
 .yandexcloud.net
 .yandexcom.net
 .yandexmetrica.com
+.yandexwebcache.net
 .yandexwebcache.org
 .yaohubaba.com
 .yaoimangaonline.com

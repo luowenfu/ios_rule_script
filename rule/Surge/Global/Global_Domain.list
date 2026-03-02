@@ -68,6 +68,8 @@
 # DOMAIN-SUFFIX: 32855
 # UPDATED: 2026-02-28 02:14:14
 # DOMAIN-SUFFIX: 32870
+# UPDATED: 2026-03-02 02:08:23
+# DOMAIN-SUFFIX: 32871
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -102,6 +104,7 @@
 # TOTAL: 33168
 # TOTAL: 33172
 # TOTAL: 33187
+# TOTAL: 33188
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -32234,6 +32237,7 @@
 .yandexcloud.net
 .yandexcom.net
 .yandexmetrica.com
+.yandexwebcache.net
 .yandexwebcache.org
 .yanghengjun.com
 .yangjianli.com

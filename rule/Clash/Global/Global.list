@@ -101,6 +101,9 @@
 # UPDATED: 2026-02-28 02:14:15
 # DOMAIN-SUFFIX: 32870
 # TOTAL: 33141
+# UPDATED: 2026-03-02 02:08:25
+# DOMAIN-SUFFIX: 32871
+# TOTAL: 33142
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -26018,6 +26021,7 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yaohubaba.com
 DOMAIN-SUFFIX,yaoimangaonline.com
