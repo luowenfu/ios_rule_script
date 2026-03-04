@@ -69,6 +69,7 @@
 # UPDATED: 2026-02-26 02:24:40
 # HOST-SUFFIX: 7054
 # TOTAL: 7204
+# UPDATED: 2026-03-04 02:17:47
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1282,6 +1283,7 @@ HOST-SUFFIX,ck101.com,Proxy
 HOST-SUFFIX,cl.ly,Proxy
 HOST-SUFFIX,clarionproject.org,Proxy
 HOST-SUFFIX,classicalguitarblog.net,Proxy
+HOST-SUFFIX,claude.com,Proxy
 HOST-SUFFIX,clb.org.hk,Proxy
 HOST-SUFFIX,cleansite.biz,Proxy
 HOST-SUFFIX,cleansite.info,Proxy
@@ -3863,6 +3865,7 @@ HOST-SUFFIX,manicur4ik.ru,Proxy
 HOST-SUFFIX,mansion.com,Proxy
 HOST-SUFFIX,mansionpoker.com,Proxy
 HOST-SUFFIX,manta.com,Proxy
+HOST-SUFFIX,manus.im,Proxy
 HOST-SUFFIX,manyvoices.news,Proxy
 HOST-SUFFIX,maplew.com,Proxy
 HOST-SUFFIX,marc.info,Proxy

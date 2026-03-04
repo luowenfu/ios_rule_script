@@ -3,6 +3,8 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2025-12-20 02:10:14
 # DOMAIN: 289
+# UPDATED: 2026-03-04 02:19:38
+# DOMAIN: 307
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 117187
 # USER-AGENT: 65
@@ -70,7 +72,6 @@
 # DOMAIN-SUFFIX: 115680
 # TOTAL: 116064
 # UPDATED: 2026-02-02 02:11:44
-# DOMAIN: 307
 # DOMAIN-SUFFIX: 115726
 # TOTAL: 116111
 # UPDATED: 2026-02-04 02:23:17
@@ -69285,6 +69286,7 @@
 .mongac.com
 .monhun.fun
 .monidata.com
+.monika.love
 .monkeylsp.com
 .monknow.com
 .mono.work
@@ -102421,7 +102423,6 @@
 .xcsyy.com
 .xctmr.com
 .xcukezmr.com
-.xcultur.com
 .xcurrency.com
 .xcvec.com
 .xcvmbyte.com

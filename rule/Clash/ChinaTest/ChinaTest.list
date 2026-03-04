@@ -89,6 +89,9 @@
 # UPDATED: 2026-03-02 02:09:10
 # DOMAIN-SUFFIX: 117070
 # TOTAL: 117226
+# UPDATED: 2026-03-04 02:18:10
+# DOMAIN-SUFFIX: 117071
+# TOTAL: 117227
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -70961,6 +70964,7 @@ DOMAIN-SUFFIX,monfetch.com
 DOMAIN-SUFFIX,mongac.com
 DOMAIN-SUFFIX,monhun.fun
 DOMAIN-SUFFIX,monidata.com
+DOMAIN-SUFFIX,monika.love
 DOMAIN-SUFFIX,monkeylsp.com
 DOMAIN-SUFFIX,monknow.com
 DOMAIN-SUFFIX,mono.work

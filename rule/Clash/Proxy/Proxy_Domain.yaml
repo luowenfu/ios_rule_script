@@ -68,6 +68,9 @@
 # UPDATED: 2026-02-26 02:24:40
 # DOMAIN-SUFFIX: 6574
 # TOTAL: 6706
+# UPDATED: 2026-03-04 02:17:46
+# DOMAIN-SUFFIX: 6576
+# TOTAL: 6708
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -1190,6 +1193,7 @@ payload:
   - '+.cl.ly'
   - '+.clarionproject.org'
   - '+.classicalguitarblog.net'
+  - '+.claude.com'
   - '+.clb.org.hk'
   - '+.cleansite.biz'
   - '+.cleansite.info'
@@ -3458,6 +3462,7 @@ payload:
   - '+.mansion.com'
   - '+.mansionpoker.com'
   - '+.manta.com'
+  - '+.manus.im'
   - '+.manyvoices.news'
   - '+.maplew.com'
   - '+.marc.info'
