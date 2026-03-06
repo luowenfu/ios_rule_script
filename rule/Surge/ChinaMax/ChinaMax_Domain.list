@@ -165,6 +165,10 @@
 # IP-CIDR6: 4311
 # TOTAL: 130098
 # TOTAL: 130104
+# UPDATED: 2026-03-06 02:40:09
+# DOMAIN-SUFFIX: 117075
+# IP-CIDR6: 4314
+# TOTAL: 130109
 .0.zone
 .00.net
 .000.link
@@ -2412,6 +2416,7 @@
 .17293879b10261.beer
 .172haoka.vip
 .172l.com
+.172mix.com
 .172tt.com
 .172xiaoyuan.com
 .173.com
@@ -59072,6 +59077,7 @@
 .juziss.com
 .juzistore.com
 .juzisy.com
+.juziwulian.com
 .juzix.io
 .juzizhoutou.net
 .juzone.cc
