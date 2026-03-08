@@ -110,6 +110,10 @@
 # UPDATED: 2026-03-06 02:38:36
 # DOMAIN-SUFFIX: 32883
 # TOTAL: 33154
+# UPDATED: 2026-03-08 02:08:13
+# DOMAIN: 119
+# DOMAIN-SUFFIX: 32894
+# TOTAL: 33166
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -223,6 +227,7 @@ wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 yandex-pogoda.static-storage.net
 yangzhi.app
+youla-web-static.mrgcdn.ru
 ztedevices.com
 api.waqi.info
 aqi.aqicn.org
@@ -16401,6 +16406,7 @@ login.microsoftonline.com
 +.mut.ch
 +.muthead.com
 +.muther.ac.uk
++.muvluv-girls-garden.com
 +.muycerdas.xxx
 +.muyzorras.com
 +.mvdis.gov.tw
@@ -17977,6 +17983,7 @@ login.microsoftonline.com
 +.onlyams.com
 +.onlycartoonsex.com
 +.onlydudes.com
++.onlyfans.com
 +.onlyfanspw.com
 +.onlyfreelatinaporn.com
 +.onlyhdporn.com
@@ -18829,6 +18836,10 @@ login.microsoftonline.com
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
++.plex.com
++.plex.services
++.plex.tv
++.plexapp.com
 +.plixi.com
 +.plos.org
 +.plug-into.com
@@ -20830,6 +20841,7 @@ login.microsoftonline.com
 +.semanticscholar.org
 +.sena.co.kr
 +.senatehouselibrary.ac.uk
++.sendvid.com
 +.seneporno.com
 +.seniortgp.com
 +.senpaiheat.com
@@ -23855,6 +23867,7 @@ login.microsoftonline.com
 +.usvimosquitoproject.com
 +.usw.ac.uk
 +.utcreading.ac.uk
++.utdstc.com
 +.uug22.com
 +.uug23.com
 +.uug25.com
@@ -26130,6 +26143,8 @@ login.microsoftonline.com
 +.youflix.is
 +.youjism.com
 +.youjizz.sex
++.youla.io
++.youla.ru
 +.youmind.ai
 +.youmind.site
 +.young-amateur-movies.com
@@ -28076,6 +28091,7 @@ login.microsoftonline.com
 +.doujincafe.com
 +.dowei.org
 +.dowjones.com
++.download.dappcdn.com
 +.dphk.org
 +.dpool.top
 +.dpp.org.tw

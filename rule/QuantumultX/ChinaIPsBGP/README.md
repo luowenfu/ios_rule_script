@@ -99,6 +99,9 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 3911  | 
 | TOTAL | 3911  | 
 最后更新时间：2026-03-06 02:39:55
+最后更新时间：2026-03-08 02:09:34
+| IP-CIDR | 3902  | 
+| TOTAL | 3902  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaIPsBGP.list 单独使用。

@@ -74,6 +74,9 @@
 # UPDATED: 2026-03-06 02:38:57
 # DOMAIN-SUFFIX: 6579
 # TOTAL: 6711
+# UPDATED: 2026-03-08 02:08:34
+# DOMAIN-SUFFIX: 6580
+# TOTAL: 6712
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -1589,6 +1592,7 @@ voice.telephony.goog
 .doujincafe.com
 .dowei.org
 .dowjones.com
+.download.dappcdn.com
 .dphk.org
 .dpool.top
 .dpp.org.tw

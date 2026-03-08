@@ -73,6 +73,9 @@
 # UPDATED: 2026-03-06 02:38:57
 # HOST-SUFFIX: 7059
 # TOTAL: 7209
+# UPDATED: 2026-03-08 02:08:34
+# HOST-SUFFIX: 7060
+# TOTAL: 7210
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1689,6 +1692,7 @@ HOST-SUFFIX,douhokanko.net,Proxy
 HOST-SUFFIX,doujincafe.com,Proxy
 HOST-SUFFIX,dowei.org,Proxy
 HOST-SUFFIX,dowjones.com,Proxy
+HOST-SUFFIX,download.dappcdn.com,Proxy
 HOST-SUFFIX,dphk.org,Proxy
 HOST-SUFFIX,dpool.top,Proxy
 HOST-SUFFIX,dpp.org.tw,Proxy

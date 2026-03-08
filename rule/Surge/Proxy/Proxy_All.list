@@ -75,6 +75,9 @@
 # UPDATED: 2026-03-06 02:38:56
 # DOMAIN-SUFFIX: 6579
 # TOTAL: 6719
+# UPDATED: 2026-03-08 02:08:34
+# DOMAIN-SUFFIX: 6580
+# TOTAL: 6720
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -1590,6 +1593,7 @@ DOMAIN-SUFFIX,douhokanko.net
 DOMAIN-SUFFIX,doujincafe.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpool.top
 DOMAIN-SUFFIX,dpp.org.tw
