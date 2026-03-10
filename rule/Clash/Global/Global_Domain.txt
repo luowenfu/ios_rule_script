@@ -114,6 +114,9 @@
 # DOMAIN: 119
 # DOMAIN-SUFFIX: 32894
 # TOTAL: 33166
+# UPDATED: 2026-03-10 02:18:29
+# DOMAIN-SUFFIX: 32905
+# TOTAL: 33177
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -474,6 +477,7 @@ login.microsoftonline.com
 .2mdn-cn.net
 .2mdn.net
 .30plusgirls.com
+.32bm.cc
 .35s4.com
 .360autodesk.com
 .360nexus.com
@@ -2036,6 +2040,7 @@ login.microsoftonline.com
 .app-analytics-services.com
 .app-dynamics.com
 .app-measurement-cn.com
+.app-pay.jp
 .app-store.wang
 .app0le.com
 .app756.com
@@ -3058,6 +3063,7 @@ login.microsoftonline.com
 .bafa.ac.uk
 .bag-glasses1.com
 .bahcesehir.ac.uk
+.bai29.xyz
 .baicaonetwork.com
 .baice.ac.uk
 .bailer.ac.uk
@@ -5055,6 +5061,7 @@ login.microsoftonline.com
 .cafmad.ac.uk
 .cafr.ca
 .cafre.ac.uk
+.cai21.xyz
 .caice.com
 .caijinglengyan.com
 .caime.xyz
@@ -7799,6 +7806,7 @@ login.microsoftonline.com
 .dynamobuilds.com
 .dynamopackages.com
 .dynamoreach.com
+.dynatrace.com
 .dyncdn.me
 .dyttapi.com
 .dyttapis.com
@@ -9049,6 +9057,7 @@ login.microsoftonline.com
 .familypies.net
 .familyporn.tv
 .familypornhd.com
+.familysearch.org
 .familysexsimulator.com
 .familysimulator.com
 .familysimulator.io
@@ -17293,6 +17302,7 @@ login.microsoftonline.com
 .nikestyles.com
 .nikeswim.com
 .niketaiwan.net
+.niketracking.com
 .niketradeweb.com
 .niketrainer.com
 .niketrainers.com
@@ -20157,6 +20167,7 @@ login.microsoftonline.com
 .rightster.com
 .rimg.com.tw
 .rin.ac.uk
+.rinvdh7.xyz
 .riot-games.com
 .riot.com
 .riot.im
@@ -20495,6 +20506,7 @@ login.microsoftonline.com
 .samsunggalaxyfriends.com
 .samsunghealth.com
 .samsungiotcloud.com
+.samsungiots.com
 .samsungknox.com
 .samsungosp.com
 .samsungqbe.com
@@ -21482,6 +21494,7 @@ login.microsoftonline.com
 .smartonesolutions.com.hk
 .smartonesolutions.hk
 .smartstream.ne.jp
+.smartthings.com
 .smashed.xxx
 .smbc.co.jp
 .smbctb.co.jp
@@ -31379,6 +31392,7 @@ login.microsoftonline.com
 .shipcamouflage.com
 .shireyishunjian.com
 .shitaotv.org
+.shitjournal.org
 .shixiao.org
 .shizhao.org
 .shkspr.mobi

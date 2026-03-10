@@ -76,6 +76,7 @@
 # UPDATED: 2026-03-08 02:08:34
 # HOST-SUFFIX: 7060
 # TOTAL: 7210
+# UPDATED: 2026-03-10 02:18:50
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5335,6 +5336,7 @@ HOST-SUFFIX,shinychan.com,Proxy
 HOST-SUFFIX,shipcamouflage.com,Proxy
 HOST-SUFFIX,shireyishunjian.com,Proxy
 HOST-SUFFIX,shitaotv.org,Proxy
+HOST-SUFFIX,shitjournal.org,Proxy
 HOST-SUFFIX,shixiao.org,Proxy
 HOST-SUFFIX,shizhao.org,Proxy
 HOST-SUFFIX,shkspr.mobi,Proxy

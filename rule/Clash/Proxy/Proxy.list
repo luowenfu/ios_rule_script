@@ -77,6 +77,9 @@
 # UPDATED: 2026-03-08 02:08:34
 # DOMAIN-SUFFIX: 6580
 # TOTAL: 6712
+# UPDATED: 2026-03-10 02:18:50
+# DOMAIN-SUFFIX: 6581
+# TOTAL: 6713
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -4898,6 +4901,7 @@ DOMAIN-SUFFIX,shinychan.com
 DOMAIN-SUFFIX,shipcamouflage.com
 DOMAIN-SUFFIX,shireyishunjian.com
 DOMAIN-SUFFIX,shitaotv.org
+DOMAIN-SUFFIX,shitjournal.org
 DOMAIN-SUFFIX,shixiao.org
 DOMAIN-SUFFIX,shizhao.org
 DOMAIN-SUFFIX,shkspr.mobi
