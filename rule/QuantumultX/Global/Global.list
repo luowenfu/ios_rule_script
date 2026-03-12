@@ -121,6 +121,9 @@
 # HOST: 693
 # HOST-SUFFIX: 32950
 # TOTAL: 33841
+# UPDATED: 2026-03-12 02:20:26
+# HOST-SUFFIX: 32951
+# TOTAL: 33842
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -7075,6 +7078,7 @@ HOST-SUFFIX,cutt.ly,Global
 HOST-SUFFIX,cuv.ac.uk,Global
 HOST-SUFFIX,cuwm.ac.uk,Global
 HOST-SUFFIX,cvcp.ac.uk,Global
+HOST-SUFFIX,cve.org,Global
 HOST-SUFFIX,cvma.ac.uk,Global
 HOST-SUFFIX,cvr.ac.uk,Global
 HOST-SUFFIX,cvs.ac.uk,Global

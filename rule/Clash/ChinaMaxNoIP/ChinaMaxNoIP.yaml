@@ -5,6 +5,7 @@
 # DOMAIN: 289
 # UPDATED: 2026-02-14 02:17:32
 # UPDATED: 2026-03-08 02:10:28
+# UPDATED: 2026-03-12 02:22:23
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 117187
@@ -116,10 +117,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,qiyi
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.bilibili.app.blue
   - PROCESS-NAME,com.bilibili.app.in

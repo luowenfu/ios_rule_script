@@ -117,6 +117,9 @@
 # UPDATED: 2026-03-10 02:18:29
 # DOMAIN-SUFFIX: 32905
 # TOTAL: 33177
+# UPDATED: 2026-03-12 02:20:05
+# DOMAIN-SUFFIX: 32906
+# TOTAL: 33178
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -6574,6 +6577,7 @@ login.microsoftonline.com
 +.cuv.ac.uk
 +.cuwm.ac.uk
 +.cvcp.ac.uk
++.cve.org
 +.cvma.ac.uk
 +.cvr.ac.uk
 +.cvs.ac.uk
