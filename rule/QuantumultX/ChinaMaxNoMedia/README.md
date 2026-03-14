@@ -44,6 +44,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-08 02:10:59
 最后更新时间：2026-03-10 02:21:16
 最后更新时间：2026-03-12 02:22:54
+最后更新时间：2026-03-14 02:16:23
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -188,6 +189,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8281  | 
 | IP6-CIDR | 4270  | 
 | TOTAL | 130658  | 
+| TOTAL | 130655  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoMedia.list 单独使用。
@@ -562,6 +564,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
+- https://ruleset.isagood.day/alibaba.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 感谢以上规则作者的辛勤付出（排名不分先后）。
 ## 最后
