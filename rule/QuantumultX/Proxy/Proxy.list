@@ -77,6 +77,9 @@
 # HOST-SUFFIX: 7060
 # TOTAL: 7210
 # UPDATED: 2026-03-10 02:18:50
+# UPDATED: 2026-03-16 02:11:02
+# HOST-SUFFIX: 7062
+# TOTAL: 7212
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -6865,6 +6868,7 @@ HOST-SUFFIX,xcity.jp,Proxy
 HOST-SUFFIX,xclient.info,Proxy
 HOST-SUFFIX,xcritic.com,Proxy
 HOST-SUFFIX,xda-developers.com,Proxy
+HOST-SUFFIX,xdaforums.com,Proxy
 HOST-SUFFIX,xeeno.com,Proxy
 HOST-SUFFIX,xerotica.com,Proxy
 HOST-SUFFIX,xfiles.to,Proxy

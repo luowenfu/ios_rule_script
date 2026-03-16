@@ -6,6 +6,8 @@
 # DOMAIN: 117
 # UPDATED: 2026-02-02 02:09:35
 # DOMAIN: 116
+# UPDATED: 2026-03-16 02:10:42
+# DOMAIN: 119
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 32340
 # UPDATED: 2026-01-02 02:07:48
@@ -111,7 +113,6 @@
 # DOMAIN-SUFFIX: 32883
 # TOTAL: 33154
 # UPDATED: 2026-03-08 02:08:13
-# DOMAIN: 119
 # DOMAIN-SUFFIX: 32894
 # TOTAL: 33166
 # UPDATED: 2026-03-10 02:18:29
@@ -25474,7 +25475,6 @@ payload:
   - '+.xcum.com'
   - '+.xda-cdn.com'
   - '+.xdaddy.in'
-  - '+.xdaforums.com'
   - '+.xdaimages.com'
   - '+.xdh999.one'
   - '+.xdir.vip'
@@ -32875,6 +32875,7 @@ payload:
   - '+.xclient.info'
   - '+.xcritic.com'
   - '+.xda-developers.com'
+  - '+.xdaforums.com'
   - '+.xeeno.com'
   - '+.xerotica.com'
   - '+.xfiles.to'

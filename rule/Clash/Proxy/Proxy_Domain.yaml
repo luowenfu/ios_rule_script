@@ -80,6 +80,9 @@
 # UPDATED: 2026-03-10 02:18:50
 # DOMAIN-SUFFIX: 6581
 # TOTAL: 6713
+# UPDATED: 2026-03-16 02:11:02
+# DOMAIN-SUFFIX: 6582
+# TOTAL: 6714
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -6390,6 +6393,7 @@ payload:
   - '+.xclient.info'
   - '+.xcritic.com'
   - '+.xda-developers.com'
+  - '+.xdaforums.com'
   - '+.xeeno.com'
   - '+.xerotica.com'
   - '+.xfiles.to'
