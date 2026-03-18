@@ -124,6 +124,9 @@
 # UPDATED: 2026-03-14 02:13:36
 # DOMAIN-SUFFIX: 32911
 # TOTAL: 33183
+# UPDATED: 2026-03-18 02:21:42
+# DOMAIN-SUFFIX: 32915
+# TOTAL: 33187
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -6567,6 +6570,7 @@ payload:
   - '+.curvyerotic.com'
   - '+.cusp.ac.uk'
   - '+.cusplondon.ac.uk'
+  - '+.custhelp.com'
   - '+.custom-iphonecase.com'
   - '+.custombeatsbydrebuy.com'
   - '+.custombeatsdeals.com'
@@ -17426,6 +17430,7 @@ payload:
   - '+.nochubank.or.jp'
   - '+.nocn.ac.uk'
   - '+.nocs.ac.uk'
+  - '+.nodeget.com'
   - '+.nodeimage.com'
   - '+.nodejs.org'
   - '+.nodequality.com'
@@ -21852,6 +21857,7 @@ payload:
   - '+.spiceworksstatic.com'
   - '+.spicybigtits.com'
   - '+.spicystory.net'
+  - '+.spicywriter.com'
   - '+.spider.ac.uk'
   - '+.spiegel.de'
   - '+.spinesurgeons.ac.uk'
@@ -25280,6 +25286,7 @@ payload:
   - '+.woolitecarpet.com'
   - '+.worc.ac.uk'
   - '+.worcester.ac.uk'
+  - '+.wordpress.net'
   - '+.wordpress.org'
   - '+.wordpress.tv'
   - '+.workandhome.ac.uk'
