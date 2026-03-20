@@ -53,6 +53,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-12 02:20:05
 最后更新时间：2026-03-14 02:13:36
 最后更新时间：2026-03-18 02:21:41
+最后更新时间：2026-03-20 02:20:29
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -136,6 +137,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 33228  | 
 | DOMAIN-SUFFIX | 32915  | 
 | TOTAL | 33232  | 
+| DOMAIN-SUFFIX | 32920  | 
+| TOTAL | 33237  | 
 ## Loon 
 #### 文件区别
 - Global_Resolve.list与Global.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
@@ -180,6 +183,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
+- https://ruleset.isagood.day/global_domain.conf
 感谢以上规则作者的辛勤付出（排名不分先后）。
 ## 最后
 ### 感谢

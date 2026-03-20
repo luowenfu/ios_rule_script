@@ -127,6 +127,9 @@
 # UPDATED: 2026-03-18 02:21:42
 # DOMAIN-SUFFIX: 32915
 # TOTAL: 33187
+# UPDATED: 2026-03-20 02:20:29
+# DOMAIN-SUFFIX: 32920
+# TOTAL: 33192
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -802,7 +805,6 @@ login.microsoftonline.com
 +.aapl.tw
 +.aaschool.ac.uk
 +.aau.ac.uk
-+.aave.com
 +.aavs.xyz
 +.abank.com.mm
 +.abb.travel
@@ -23057,6 +23059,11 @@ login.microsoftonline.com
 +.tiktokv.eu
 +.tiktokw.eu
 +.tiktokw.us
++.tilda.cc
++.tilda.ru
++.tilda.ws
++.tildaapi.com
++.tildacdn.com
 +.tilehill.ac.uk
 +.time.gov
 +.time.nrc.ca
@@ -26799,6 +26806,7 @@ login.microsoftonline.com
 +.9to5mac.com
 +.a-normal-day.com
 +.aamacau.com
++.aave.com
 +.abc.com
 +.abc.net.au
 +.abc.xyz

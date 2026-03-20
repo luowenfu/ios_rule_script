@@ -53,6 +53,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-12 02:20:04
 最后更新时间：2026-03-14 02:13:35
 最后更新时间：2026-03-18 02:21:41
+最后更新时间：2026-03-20 02:20:28
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -95,6 +96,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 32906  | 
 | DOMAIN-SUFFIX | 32911  | 
 | DOMAIN-SUFFIX | 32915  | 
+| DOMAIN-SUFFIX | 32920  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
@@ -137,6 +139,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 33224  | 
 | TOTAL | 33229  | 
 | TOTAL | 33233  | 
+| TOTAL | 33238  | 
 ## Surge 
 #### 使用说明
 - Global.list，请使用RULE-SET。
@@ -190,6 +193,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
+- https://ruleset.isagood.day/global_domain.conf
 感谢以上规则作者的辛勤付出（排名不分先后）。
 ## 最后
 ### 感谢

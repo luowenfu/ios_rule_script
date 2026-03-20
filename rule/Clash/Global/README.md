@@ -53,6 +53,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-12 02:20:05
 最后更新时间：2026-03-14 02:13:36
 最后更新时间：2026-03-18 02:21:42
+最后更新时间：2026-03-20 02:20:29
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -136,6 +137,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 33183  | 
 | DOMAIN-SUFFIX | 32915  | 
 | TOTAL | 33187  | 
+| DOMAIN-SUFFIX | 32920  | 
+| TOTAL | 33192  | 
 ## Clash 
 #### 使用说明
 - Global.yaml，请使用 behavior: "classical"。
@@ -196,6 +199,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
+- https://ruleset.isagood.day/global_domain.conf
 感谢以上规则作者的辛勤付出（排名不分先后）。
 ## 最后
 ### 感谢

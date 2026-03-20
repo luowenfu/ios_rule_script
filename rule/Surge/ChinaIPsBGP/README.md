@@ -115,6 +115,7 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 3896  | 
 | TOTAL | 3896  | 
 最后更新时间：2026-03-18 02:22:54
+最后更新时间：2026-03-20 02:21:49
 ## Surge 
 #### 使用说明
 - ChinaIPsBGP.list，请使用RULE-SET。

@@ -83,6 +83,7 @@
 # UPDATED: 2026-03-16 02:11:02
 # DOMAIN-SUFFIX: 6582
 # TOTAL: 6714
+# UPDATED: 2026-03-20 02:20:50
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -245,6 +246,7 @@ voice.telephony.goog
 +.a-normal-day.com
 +.a5.com.ru
 +.aamacau.com
++.aave.com
 +.abc.com
 +.abc.net.au
 +.abc.pp.ru

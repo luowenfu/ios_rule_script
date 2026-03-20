@@ -52,6 +52,7 @@
 最后更新时间：2026-03-14 02:15:14
 最后更新时间：2026-03-16 02:12:16
 最后更新时间：2026-03-18 02:23:09
+最后更新时间：2026-03-20 02:22:05
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -201,6 +202,8 @@
 | TOTAL | 131117  | 
 | IP-CIDR | 8293  | 
 | TOTAL | 131129  | 
+| IP-CIDR6 | 4275  | 
+| TOTAL | 131133  | 
 ## Surge 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。
@@ -596,6 +599,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
 - https://ruleset.isagood.day/alibaba.conf
+- https://ruleset.isagood.day/bilibili.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 感谢以上规则作者的辛勤付出（排名不分先后）。
 ## 最后
