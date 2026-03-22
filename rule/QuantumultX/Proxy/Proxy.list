@@ -83,6 +83,7 @@
 # UPDATED: 2026-03-20 02:20:51
 # HOST-SUFFIX: 7063
 # TOTAL: 7213
+# UPDATED: 2026-03-22 02:10:05
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1270,6 +1271,7 @@ HOST-SUFFIX,chuizi.net,Proxy
 HOST-SUFFIX,churchinhongkong.org,Proxy
 HOST-SUFFIX,chushigangdrug.ch,Proxy
 HOST-SUFFIX,ci-en.jp,Proxy
+HOST-SUFFIX,cia.gov,Proxy
 HOST-SUFFIX,cici.com,Proxy
 HOST-SUFFIX,ciciai.com,Proxy
 HOST-SUFFIX,cienen.com,Proxy
@@ -4507,8 +4509,10 @@ HOST-SUFFIX,oiktv.com,Proxy
 HOST-SUFFIX,oizoblog.com,Proxy
 HOST-SUFFIX,ok.ru,Proxy
 HOST-SUFFIX,okayfreedom.com,Proxy
+HOST-SUFFIX,okcoin.com,Proxy
 HOST-SUFFIX,okex.com,Proxy
 HOST-SUFFIX,okk.tw,Proxy
+HOST-SUFFIX,oklink.com,Proxy
 HOST-SUFFIX,okpool.me,Proxy
 HOST-SUFFIX,okx.com,Proxy
 HOST-SUFFIX,old-cat.net,Proxy

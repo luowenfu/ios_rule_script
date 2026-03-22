@@ -48,6 +48,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-16 02:13:30
 最后更新时间：2026-03-18 02:24:18
 最后更新时间：2026-03-20 02:23:20
+最后更新时间：2026-03-22 02:12:44
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -56,6 +57,8 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 117079  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 20547  | 
+| DOMAIN-SUFFIX | 117719  | 
+| IP-CIDR | 12571  | 
 | USER-AGENT | 65  | 
 | TOTAL | 137992  | 
 | DOMAIN | 291  | 
