@@ -117,6 +117,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-20 02:21:47
 | TOTAL | 252  | 
 最后更新时间：2026-03-26 02:23:42
+最后更新时间：2026-03-28 02:22:03
+| IP-CIDR | 2  | 
 ## Clash 
 #### 使用说明
 - PrivateTracker.yaml，请使用 behavior: "classical"。

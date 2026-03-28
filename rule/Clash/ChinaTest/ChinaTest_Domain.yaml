@@ -101,6 +101,9 @@
 # UPDATED: 2026-03-22 02:10:29
 # DOMAIN-SUFFIX: 118168
 # TOTAL: 118324
+# UPDATED: 2026-03-28 02:21:29
+# DOMAIN: 134
+# DOMAIN-SUFFIX: 118169
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -177,6 +180,7 @@ payload:
   - 'gtm.oasisfeng.com'
   - 'i.pki.goog'
   - 'images-cn-8.ssl-images-amazon.com'
+  - 'izattime.qcomgeo2.com'
   - 'ksn-cinfo.geoksn.kaspersky.com'
   - 'ksn-crypto-wifiplus.geoksn.kaspersky.com'
   - 'ksn-dc1-cert.geoksn.kaspersky.com'
@@ -234,6 +238,7 @@ payload:
   - 'www.recaptcha.net'
   - 'www4-static.gog-statics.com'
   - 'xn--flw351e.com'
+  - 'xtratime.qcomgeo2.com'
   - '+.00cdn.com'
   - '+.0123456789.com'
   - '+.0379home.com'
@@ -16338,6 +16343,7 @@ payload:
   - '+.anhuisjx.com'
   - '+.anhuisuya.com'
   - '+.anhuiwine.com'
+  - '+.anhuiyun.com'
   - '+.anhuizk.com'
   - '+.ani-sh.com'
   - '+.aniccw.net'

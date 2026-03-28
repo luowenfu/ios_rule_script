@@ -200,6 +200,11 @@
 # TOTAL: 130676
 # IP-CIDR: 8298
 # TOTAL: 130683
+# UPDATED: 2026-03-28 02:23:31
+# DOMAIN: 309
+# DOMAIN-SUFFIX: 117720
+# IP-CIDR: 8290
+# TOTAL: 130672
 .0.zone
 .00.net
 .000.link
@@ -12744,6 +12749,7 @@
 .anhuisjx.com
 .anhuisuya.com
 .anhuiwine.com
+.anhuiyun.com
 .anhuizk.com
 .ani-sh.com
 .aniccw.net
@@ -118066,6 +118072,7 @@ icecast-ruvr.cdnvideo.ru
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 ip.istatmenus.app
+izattime.qcomgeo2.com
 jpts.sinovision.net
 kcrw.streamguys1.com
 kjzz.streamguys1.com
@@ -118247,6 +118254,7 @@ www.szmgiptv.com
 www.yxssp.com
 www4-static.gog-statics.com
 xn--flw351e.com
+xtratime.qcomgeo2.com
 youku.cdn2-youku.com
 zb.dehua.tv
 zb.pzhgd.com

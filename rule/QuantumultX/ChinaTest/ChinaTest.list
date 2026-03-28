@@ -68,6 +68,9 @@
 # HOST-SUFFIX: 118171
 # UPDATED: 2026-03-22 02:10:25
 # HOST-SUFFIX: 118168
+# UPDATED: 2026-03-28 02:21:25
+# HOST: 134
+# HOST-SUFFIX: 118169
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -178,6 +181,7 @@ HOST,gstatic-cn.com,ChinaTest
 HOST,gtm.oasisfeng.com,ChinaTest
 HOST,i.pki.goog,ChinaTest
 HOST,images-cn-8.ssl-images-amazon.com,ChinaTest
+HOST,izattime.qcomgeo2.com,ChinaTest
 HOST,ksn-cinfo.geoksn.kaspersky.com,ChinaTest
 HOST,ksn-crypto-wifiplus.geoksn.kaspersky.com,ChinaTest
 HOST,ksn-dc1-cert.geoksn.kaspersky.com,ChinaTest
@@ -235,6 +239,7 @@ HOST,www.pxcc.com,ChinaTest
 HOST,www.recaptcha.net,ChinaTest
 HOST,www4-static.gog-statics.com,ChinaTest
 HOST,xn--flw351e.com,ChinaTest
+HOST,xtratime.qcomgeo2.com,ChinaTest
 HOST-SUFFIX,00cdn.com,ChinaTest
 HOST-SUFFIX,0123456789.com,ChinaTest
 HOST-SUFFIX,0379home.com,ChinaTest
@@ -16339,6 +16344,7 @@ HOST-SUFFIX,anhuiry.com,ChinaTest
 HOST-SUFFIX,anhuisjx.com,ChinaTest
 HOST-SUFFIX,anhuisuya.com,ChinaTest
 HOST-SUFFIX,anhuiwine.com,ChinaTest
+HOST-SUFFIX,anhuiyun.com,ChinaTest
 HOST-SUFFIX,anhuizk.com,ChinaTest
 HOST-SUFFIX,ani-sh.com,ChinaTest
 HOST-SUFFIX,aniccw.net,ChinaTest

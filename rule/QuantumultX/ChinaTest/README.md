@@ -76,6 +76,9 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST-SUFFIX | 117073  | 
 | HOST-SUFFIX | 118171  | 
 | HOST-SUFFIX | 118168  | 
+最后更新时间：2026-03-28 02:21:25
+| HOST | 134  | 
+| HOST-SUFFIX | 118169  | 
 | HOST-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP6-CIDR | 4  | 

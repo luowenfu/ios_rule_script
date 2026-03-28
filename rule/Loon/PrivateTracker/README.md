@@ -117,6 +117,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-20 02:21:47
 | TOTAL | 252  | 
 最后更新时间：2026-03-26 02:23:42
+最后更新时间：2026-03-28 02:22:03
+| IP-CIDR | 2  | 
 ## Loon 
 #### 文件区别
 - PrivateTracker_Resolve.list与PrivateTracker.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。

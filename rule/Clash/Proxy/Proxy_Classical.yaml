@@ -88,6 +88,9 @@
 # DOMAIN-SUFFIX: 6586
 # TOTAL: 6718
 # UPDATED: 2026-03-26 02:22:44
+# UPDATED: 2026-03-28 02:21:05
+# DOMAIN-SUFFIX: 6589
+# TOTAL: 6721
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -6454,6 +6457,7 @@ payload:
   - DOMAIN-SUFFIX,xn--9pr62r24a.com
   - DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
   - DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+  - DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--noss43i.com
   - DOMAIN-SUFFIX,xn--oiq.cc
