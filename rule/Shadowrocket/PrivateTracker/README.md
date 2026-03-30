@@ -119,6 +119,9 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-26 02:23:42
 最后更新时间：2026-03-28 02:22:03
 | IP-CIDR | 2  | 
+最后更新时间：2026-03-30 02:13:28
+| DOMAIN | 121  | 
+| TOTAL | 251  | 
 ## Shadowrocket 
 #### 使用说明
 - PrivateTracker.list，请使用RULE-SET。
