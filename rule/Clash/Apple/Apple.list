@@ -52,6 +52,7 @@
 # UPDATED: 2026-03-26 02:21:00
 # UPDATED: 2026-03-28 02:19:27
 # UPDATED: 2026-03-30 02:10:51
+# UPDATED: 2026-04-01 02:19:57
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1579,6 +1580,7 @@ DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleenews.com
 DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,applemusic.co
+DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applemusic.com.au
 DOMAIN-SUFFIX,applemusic.hamburg
 DOMAIN-SUFFIX,applemusic.wang
@@ -1611,13 +1613,12 @@ DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,wwwapplemusic.com
-DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apzones.com
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net

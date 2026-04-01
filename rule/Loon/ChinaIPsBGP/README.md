@@ -128,6 +128,9 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-30 02:13:30
 | IP-CIDR | 3928  | 
 | TOTAL | 3928  | 
+最后更新时间：2026-04-01 02:22:40
+| IP-CIDR | 3919  | 
+| TOTAL | 3919  | 
 ## Loon 
 #### 文件区别
 - ChinaIPsBGP_Resolve.list与ChinaIPsBGP.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
