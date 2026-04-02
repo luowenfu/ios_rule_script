@@ -131,6 +131,9 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-04-01 02:22:40
 | IP-CIDR | 3919  | 
 | TOTAL | 3919  | 
+最后更新时间：2026-04-02 02:21:28
+| IP-CIDR | 3922  | 
+| TOTAL | 3922  | 
 ## Clash 
 #### 使用说明
 - ChinaIPsBGP_Classical.yaml，请使用 behavior: "classical"。

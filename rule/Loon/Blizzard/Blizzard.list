@@ -51,6 +51,7 @@
 # UPDATED: 2026-03-28 02:19:23
 # UPDATED: 2026-03-30 02:10:47
 # UPDATED: 2026-04-01 02:19:53
+# UPDATED: 2026-04-02 02:18:46
 # DOMAIN-SUFFIX: 39
 # IP-CIDR: 23
 # TOTAL: 62
@@ -93,12 +94,8 @@ DOMAIN-SUFFIX,starcraft2.com
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,wow.nosdn.127.net
 DOMAIN-SUFFIX,wowchina.com
-IP-CIDR,103.4.115.248/32,no-resolve
 IP-CIDR,182.162.135.1/32,no-resolve
-IP-CIDR,185.60.112.157/32,no-resolve
-IP-CIDR,185.60.112.158/32,no-resolve
 IP-CIDR,210.242.235.6/32,no-resolve
-IP-CIDR,24.105.30.129/32,no-resolve
 IP-CIDR,54.94.196.47/32,no-resolve
 IP-CIDR,182.162.132.1/32,no-resolve
 IP-CIDR,182.162.116.1/32,no-resolve
@@ -109,10 +106,14 @@ IP-CIDR,203.66.81.98/32,no-resolve
 IP-CIDR,211.234.110.1/32,no-resolve
 IP-CIDR,54.207.107.12/32,no-resolve
 IP-CIDR,103.4.114.233/32,no-resolve
+IP-CIDR,185.60.112.157/32,no-resolve
+IP-CIDR,185.60.112.158/32,no-resolve
 IP-CIDR,185.60.114.159/32,no-resolve
 IP-CIDR,202.9.67.254/32,no-resolve
 IP-CIDR,222.231.22.1/32,no-resolve
+IP-CIDR,24.105.30.129/32,no-resolve
 IP-CIDR,24.105.62.129/32,no-resolve
+IP-CIDR,103.4.115.248/32,no-resolve
 IP-CIDR,137.221.105.2/32,no-resolve
 IP-CIDR,210.71.148.11/32,no-resolve
 IP-CIDR,211.115.104.1/32,no-resolve
