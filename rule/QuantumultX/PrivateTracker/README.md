@@ -50,6 +50,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 131  | 
 最后更新时间：2026-04-02 02:21:26
 | HOST | 147  | 
+最后更新时间：2026-04-04 02:16:30
 | HOST-KEYWORD | 4  | 
 | HOST-SUFFIX | 123  | 
 | IP-CIDR | 4  | 

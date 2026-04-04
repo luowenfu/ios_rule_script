@@ -50,6 +50,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 131  | 
 最后更新时间：2026-04-02 02:21:26
 | DOMAIN | 147  | 
+最后更新时间：2026-04-04 02:16:30
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
