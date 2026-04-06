@@ -120,6 +120,7 @@
 # DOMAIN-SUFFIX: 118026
 # TOTAL: 118362
 # UPDATED: 2026-04-04 02:17:26
+# UPDATED: 2026-04-06 02:14:24
 # DOMAIN: 310
 # DOMAIN-SUFFIX: 117926
 # TOTAL: 118263
@@ -133,10 +134,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,qiyi
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.bilibili.app.blue
   - PROCESS-NAME,com.bilibili.app.in

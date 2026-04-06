@@ -92,6 +92,7 @@
 # DOMAIN-SUFFIX: 6589
 # TOTAL: 6721
 # UPDATED: 2026-03-30 02:12:31
+# UPDATED: 2026-04-06 02:12:41
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -4190,6 +4191,7 @@ voice.telephony.goog
 .orzistic.org
 .osfoora.com
 .osha.gov
+.osmand.net
 .osxdaily.com
 .otcbtc.com
 .otnd.org

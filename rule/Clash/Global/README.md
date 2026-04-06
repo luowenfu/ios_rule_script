@@ -59,10 +59,11 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-28 02:20:44
 最后更新时间：2026-03-30 02:12:10
 最后更新时间：2026-04-02 02:20:10
+最后更新时间：2026-04-06 02:12:22
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 119  | 
+| DOMAIN | 120  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32372  | 
@@ -154,6 +155,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 33221  | 
 | DOMAIN-SUFFIX | 33083  | 
 | TOTAL | 33355  | 
+| DOMAIN-SUFFIX | 33127  | 
+| TOTAL | 33400  | 
 ## Clash 
 #### 使用说明
 - Global.yaml，请使用 behavior: "classical"。

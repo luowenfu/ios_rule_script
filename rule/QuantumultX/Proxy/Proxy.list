@@ -89,6 +89,7 @@
 # HOST-SUFFIX: 7069
 # TOTAL: 7219
 # UPDATED: 2026-03-30 02:12:31
+# UPDATED: 2026-04-06 02:12:41
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4595,6 +4596,7 @@ HOST-SUFFIX,orn.jp,Proxy
 HOST-SUFFIX,orzistic.org,Proxy
 HOST-SUFFIX,osfoora.com,Proxy
 HOST-SUFFIX,osha.gov,Proxy
+HOST-SUFFIX,osmand.net,Proxy
 HOST-SUFFIX,osxdaily.com,Proxy
 HOST-SUFFIX,otcbtc.com,Proxy
 HOST-SUFFIX,otnd.org,Proxy
