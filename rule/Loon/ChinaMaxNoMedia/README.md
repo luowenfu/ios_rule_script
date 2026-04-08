@@ -55,6 +55,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-04-01 02:24:11
 最后更新时间：2026-04-02 02:22:58
 最后更新时间：2026-04-06 02:14:55
+最后更新时间：2026-04-08 02:24:47
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -233,6 +234,9 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 130446  | 
 | IP-CIDR6 | 4054  | 
 | TOTAL | 130449  | 
+| IP-CIDR | 8189  | 
+| IP-CIDR6 | 4055  | 
+| TOTAL | 130448  | 
 ## Loon 
 #### 文件区别
 - ChinaMaxNoMedia_Resolve.list与ChinaMaxNoMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。

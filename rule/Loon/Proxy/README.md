@@ -40,6 +40,7 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-03-28 02:21:05
 最后更新时间：2026-03-30 02:12:31
 最后更新时间：2026-04-06 02:12:41
+最后更新时间：2026-04-08 02:22:23
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -102,6 +103,8 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 6726  | 
 | DOMAIN-SUFFIX | 6589  | 
 | TOTAL | 6729  | 
+| DOMAIN-SUFFIX | 6593  | 
+| TOTAL | 6733  | 
 ## Loon 
 #### 文件区别
 - Proxy_Resolve.list与Proxy.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
