@@ -65,6 +65,8 @@
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 290  | 
+最后更新时间：2026-04-10 02:25:27
+| DOMAIN | 313  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117527  | 
 | IP-ASN | 1  | 
@@ -242,6 +244,8 @@
 | IP-CIDR | 8189  | 
 | IP-CIDR6 | 4055  | 
 | TOTAL | 130843  | 
+| IP-CIDR | 8196  | 
+| TOTAL | 130852  | 
 ## Clash 
 #### 使用说明
 - ChinaMax.yaml，请使用 behavior: "classical"。

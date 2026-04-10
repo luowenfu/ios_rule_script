@@ -31,6 +31,8 @@
 # UPDATED: 2026-04-06 02:14:52
 # UPDATED: 2026-04-08 02:24:43
 # DOMAIN: 310
+# UPDATED: 2026-04-10 02:26:28
+# DOMAIN: 312
 # DOMAIN-KEYWORD: 11
 # DOMAIN-SUFFIX: 117079
 # IP-ASN: 1
@@ -230,6 +232,8 @@
 # IP-CIDR: 8189
 # IP-CIDR6: 4055
 # TOTAL: 130460
+# IP-CIDR: 8196
+# TOTAL: 130469
 .0.zone
 .00.net
 .000.link
@@ -118159,6 +118163,7 @@ fash1043.cloudycdn.services
 fcs.dell.com
 file.hhtv.cc
 file.mb.leshantv.net
+firebase-settings.crashlytics.com
 flv.drs.tv.yatv.tv
 fm901.cityfm.tw
 fm929.cityfm.tw
@@ -118349,6 +118354,7 @@ tv.drs.hhtv.cc
 tv.nknews.org
 tx.lilyemby.com
 uni6rtmp.tulix.tv
+update.crashlytics.com
 uplaypc-s-ubisoft.cdn.ubi.com
 v1.one-tv.com
 vip888.kuyun99.com

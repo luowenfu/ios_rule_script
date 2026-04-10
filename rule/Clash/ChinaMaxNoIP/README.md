@@ -42,6 +42,8 @@ ChinaMax排除相关IP规则版本
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 289  | 
+最后更新时间：2026-04-10 02:26:00
+| DOMAIN | 312  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117187  | 
 | PROCESS-NAME | 14  | 
@@ -128,6 +130,7 @@ ChinaMax排除相关IP规则版本
 | DOMAIN | 310  | 
 | DOMAIN-SUFFIX | 117926  | 
 | TOTAL | 118263  | 
+| TOTAL | 118265  | 
 ## Clash 
 #### 使用说明
 - ChinaMaxNoIP.yaml，请使用 behavior: "classical"。

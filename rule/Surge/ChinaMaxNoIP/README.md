@@ -42,6 +42,8 @@ ChinaMax排除相关IP规则版本
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 289  | 
+最后更新时间：2026-04-10 02:25:56
+| DOMAIN | 312  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117187  | 
 | PROCESS-NAME | 12  | 
@@ -129,6 +131,7 @@ ChinaMax排除相关IP规则版本
 | DOMAIN | 310  | 
 | DOMAIN-SUFFIX | 117926  | 
 | TOTAL | 118326  | 
+| TOTAL | 118328  | 
 ## Surge 
 #### 使用说明
 - ChinaMaxNoIP.list，请使用RULE-SET。

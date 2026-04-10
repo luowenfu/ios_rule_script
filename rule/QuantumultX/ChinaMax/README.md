@@ -65,6 +65,8 @@
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 290  | 
+最后更新时间：2026-04-10 02:25:22
+| HOST | 313  | 
 | HOST-KEYWORD | 13  | 
 | HOST-SUFFIX | 117527  | 
 | HOST-WILDCARD | 1  | 
@@ -243,6 +245,8 @@
 | IP-CIDR | 8189  | 
 | IP6-CIDR | 4055  | 
 | TOTAL | 130895  | 
+| IP-CIDR | 8196  | 
+| TOTAL | 130904  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMax.list 单独使用。

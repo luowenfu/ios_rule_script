@@ -93,6 +93,7 @@
 # UPDATED: 2026-04-08 02:22:24
 # HOST-SUFFIX: 7073
 # TOTAL: 7223
+# UPDATED: 2026-04-10 02:24:07
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1428,6 +1429,7 @@ HOST-SUFFIX,cpj.org,Proxy
 HOST-SUFFIX,cpu-monkey.com,Proxy
 HOST-SUFFIX,cq99.us,Proxy
 HOST-SUFFIX,crackle.com,Proxy
+HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,crazypool.org,Proxy
 HOST-SUFFIX,crazys.cc,Proxy
 HOST-SUFFIX,crazyshit.com,Proxy
@@ -4064,6 +4066,7 @@ HOST-SUFFIX,mirrormedia.mg,Proxy
 HOST-SUFFIX,missav.com,Proxy
 HOST-SUFFIX,missav.ws,Proxy
 HOST-SUFFIX,mist.vip,Proxy
+HOST-SUFFIX,mistral.ai,Proxy
 HOST-SUFFIX,mit.edu,Proxy
 HOST-SUFFIX,mitao.com.tw,Proxy
 HOST-SUFFIX,mitbbs.com,Proxy

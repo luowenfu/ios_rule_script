@@ -42,6 +42,8 @@ ChinaMax排除相关IP规则版本
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 289  | 
+最后更新时间：2026-04-10 02:25:56
+| HOST | 312  | 
 | HOST-KEYWORD | 13  | 
 | HOST-SUFFIX | 117187  | 
 | HOST-WILDCARD | 1  | 
@@ -129,6 +131,7 @@ ChinaMax排除相关IP规则版本
 | HOST | 310  | 
 | HOST-SUFFIX | 117926  | 
 | TOTAL | 118315  | 
+| TOTAL | 118317  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoIP.list 单独使用。

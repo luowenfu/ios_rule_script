@@ -8,6 +8,8 @@
 # DOMAIN: 116
 # UPDATED: 2026-03-16 02:10:42
 # DOMAIN: 119
+# UPDATED: 2026-04-10 02:23:46
+# DOMAIN: 120
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 32340
 # UPDATED: 2026-01-02 02:07:48
@@ -146,7 +148,6 @@
 # DOMAIN-SUFFIX: 33083
 # TOTAL: 33355
 # UPDATED: 2026-04-06 02:12:22
-# DOMAIN: 120
 # DOMAIN-SUFFIX: 33127
 # TOTAL: 33400
 # UPDATED: 2026-04-08 02:22:02
@@ -16165,7 +16166,6 @@ payload:
   - '+.misskey.yukineko.me'
   - '+.misskeyusercontent.jp'
   - '+.mist.ac.uk'
-  - '+.mistral.ai'
   - '+.mistresskym.com'
   - '+.mit.net'
   - '+.miteam.com'
@@ -30450,6 +30450,7 @@ payload:
   - '+.missav.com'
   - '+.missav.ws'
   - '+.mist.vip'
+  - '+.mistral.ai'
   - '+.mit.edu'
   - '+.mitao.com.tw'
   - '+.mitbbs.com'

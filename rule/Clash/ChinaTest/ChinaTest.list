@@ -110,6 +110,10 @@
 # UPDATED: 2026-04-04 02:15:56
 # DOMAIN-SUFFIX: 118255
 # TOTAL: 118413
+# UPDATED: 2026-04-10 02:24:30
+# DOMAIN: 136
+# DOMAIN-SUFFIX: 118254
+# TOTAL: 118414
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -170,6 +174,7 @@ DOMAIN,ea2cn-prod-outlet.dell.com
 DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,fcs.dell.com
+DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fta.dell.com
 DOMAIN,ftaapj.dell.com
 DOMAIN,ftaemea.dell.com
@@ -236,6 +241,7 @@ DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,test.gbugs-qa.chromium.org
 DOMAIN,time.xtracloud.net
 DOMAIN,tp.louisvuitton.com
+DOMAIN,update.crashlytics.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,www-csb.dell.com
 DOMAIN,www.destinationurl.com
@@ -1233,7 +1239,6 @@ DOMAIN-SUFFIX,cpppf.org
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,cr173.com
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crggcn.com
 DOMAIN-SUFFIX,crsky.com
 DOMAIN-SUFFIX,cryuantafund.com

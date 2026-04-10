@@ -65,6 +65,8 @@
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 290  | 
+最后更新时间：2026-04-10 02:25:29
+| DOMAIN | 313  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117527  | 
 | IP-ASN | 1  | 
@@ -224,6 +226,8 @@
 | TOTAL | 130895  | 
 | IP-CIDR | 12244  | 
 | TOTAL | 130894  | 
+| IP-CIDR | 12251  | 
+| TOTAL | 130903  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

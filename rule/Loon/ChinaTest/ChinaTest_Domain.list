@@ -111,6 +111,10 @@
 # UPDATED: 2026-04-04 02:15:54
 # DOMAIN-SUFFIX: 118255
 # TOTAL: 118444
+# UPDATED: 2026-04-10 02:24:28
+# DOMAIN: 136
+# DOMAIN-SUFFIX: 118254
+# TOTAL: 118445
 .0.zone
 .00.net
 .000.link
@@ -27407,7 +27411,6 @@
 .crane-net.com
 .cranewh.com
 .crash.work
-.crashlytics.com
 .cravatar.com
 .crazepony.com
 .crazybig.fun
@@ -118453,6 +118456,7 @@ ea2cn-prod-outlet.dell.com
 ea2cn-staging-outlet.dell.com
 emoi-cncdn.bing.com
 fcs.dell.com
+firebase-settings.crashlytics.com
 fta.dell.com
 ftaapj.dell.com
 ftaemea.dell.com
@@ -118528,6 +118532,7 @@ test.gbugs-qa.chromium.org
 time.xtracloud.net
 tp.louisvuitton.com
 tx.lilyemby.com
+update.crashlytics.com
 uplaypc-s-ubisoft.cdn.ubi.com
 www-csb.dell.com
 www.destinationurl.com
