@@ -221,6 +221,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-04-10 02:25:43
 | IP-CIDR | 23062  | 
 | TOTAL | 29504  | 
+最后更新时间：2026-04-12 02:14:26
+| IP-CIDR | 23032  | 
+| IP6-CIDR | 6446  | 
+| TOTAL | 29478  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaIPsTest.list 单独使用。
