@@ -98,6 +98,7 @@
 # DOMAIN-SUFFIX: 6593
 # TOTAL: 6725
 # UPDATED: 2026-04-10 02:24:07
+# UPDATED: 2026-04-14 02:27:52
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -4818,6 +4819,7 @@ payload:
   - '+.sb-cd.com'
   - '+.sbme.me'
   - '+.sbs.com.au'
+  - '+.sbti.unun.dev'
   - '+.scasino.com'
   - '+.scdn.co'
   - '+.schema.org'

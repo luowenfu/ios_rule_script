@@ -95,6 +95,7 @@
 # HOST-SUFFIX: 7073
 # TOTAL: 7223
 # UPDATED: 2026-04-10 02:24:07
+# UPDATED: 2026-04-14 02:27:52
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5252,6 +5253,7 @@ HOST-SUFFIX,say2.info,Proxy
 HOST-SUFFIX,sb-cd.com,Proxy
 HOST-SUFFIX,sbme.me,Proxy
 HOST-SUFFIX,sbs.com.au,Proxy
+HOST-SUFFIX,sbti.unun.dev,Proxy
 HOST-SUFFIX,scasino.com,Proxy
 HOST-SUFFIX,scdn.co,Proxy
 HOST-SUFFIX,schema.org,Proxy
