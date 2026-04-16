@@ -143,6 +143,7 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 3929  | 
 最后更新时间：2026-04-12 02:13:49
 最后更新时间：2026-04-14 02:28:52
+最后更新时间：2026-04-16 02:28:52
 ## Shadowrocket 
 #### 使用说明
 - ChinaIPsBGP.list，请使用RULE-SET。

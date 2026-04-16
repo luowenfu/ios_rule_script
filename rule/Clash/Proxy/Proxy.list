@@ -99,6 +99,7 @@
 # TOTAL: 6725
 # UPDATED: 2026-04-10 02:24:07
 # UPDATED: 2026-04-14 02:27:52
+# UPDATED: 2026-04-16 02:27:52
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -4173,6 +4174,7 @@ DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,openallweb.com
+DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openbase.com
 DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,opendemocracy.net

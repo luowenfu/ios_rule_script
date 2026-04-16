@@ -99,6 +99,7 @@
 # TOTAL: 6725
 # UPDATED: 2026-04-10 02:24:07
 # UPDATED: 2026-04-14 02:27:52
+# UPDATED: 2026-04-16 02:27:52
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -4174,6 +4175,7 @@ payload:
   - '+.ooyala.com'
   - '+.open.com.hk'
   - '+.openallweb.com'
+  - '+.openart.ai'
   - '+.openbase.com'
   - '+.opencritic.com'
   - '+.opendemocracy.net'

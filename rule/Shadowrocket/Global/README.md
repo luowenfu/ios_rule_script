@@ -63,10 +63,11 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-04-08 02:22:03
 最后更新时间：2026-04-12 02:12:31
 最后更新时间：2026-04-14 02:27:31
+最后更新时间：2026-04-16 02:27:31
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 125  | 
+| DOMAIN | 124  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32372  | 
@@ -165,6 +166,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 33556  | 
 | DOMAIN-SUFFIX | 33527  | 
 | TOTAL | 33850  | 
+| DOMAIN-SUFFIX | 33689  | 
+| TOTAL | 34011  | 
 ## Shadowrocket 
 #### 使用说明
 - Global.list，请使用RULE-SET。

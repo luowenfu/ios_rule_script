@@ -96,6 +96,7 @@
 # TOTAL: 7223
 # UPDATED: 2026-04-10 02:24:07
 # UPDATED: 2026-04-14 02:27:52
+# UPDATED: 2026-04-16 02:27:53
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4578,6 +4579,7 @@ HOST-SUFFIX,oopsforum.com,Proxy
 HOST-SUFFIX,ooyala.com,Proxy
 HOST-SUFFIX,open.com.hk,Proxy
 HOST-SUFFIX,openallweb.com,Proxy
+HOST-SUFFIX,openart.ai,Proxy
 HOST-SUFFIX,openbase.com,Proxy
 HOST-SUFFIX,opencritic.com,Proxy
 HOST-SUFFIX,opendemocracy.net,Proxy
