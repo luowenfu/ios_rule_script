@@ -100,6 +100,9 @@
 # UPDATED: 2026-04-10 02:24:07
 # UPDATED: 2026-04-14 02:27:52
 # UPDATED: 2026-04-16 02:27:52
+# UPDATED: 2026-04-18 02:21:13
+# DOMAIN-SUFFIX: 6598
+# TOTAL: 6730
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -589,6 +592,7 @@ voice.telephony.goog
 .avg.com
 .avgle.com
 .avidemux.org
+.avistaz.to
 .avmo.pw
 .avmoo.com
 .avmoo.net

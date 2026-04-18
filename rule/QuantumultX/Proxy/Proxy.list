@@ -97,6 +97,9 @@
 # UPDATED: 2026-04-10 02:24:07
 # UPDATED: 2026-04-14 02:27:52
 # UPDATED: 2026-04-16 02:27:53
+# UPDATED: 2026-04-18 02:21:14
+# HOST-SUFFIX: 7078
+# TOTAL: 7228
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -609,6 +612,7 @@ HOST-SUFFIX,avfantasy.com,Proxy
 HOST-SUFFIX,avg.com,Proxy
 HOST-SUFFIX,avgle.com,Proxy
 HOST-SUFFIX,avidemux.org,Proxy
+HOST-SUFFIX,avistaz.to,Proxy
 HOST-SUFFIX,avmo.pw,Proxy
 HOST-SUFFIX,avmoo.com,Proxy
 HOST-SUFFIX,avmoo.net,Proxy

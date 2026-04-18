@@ -164,6 +164,9 @@
 # DOMAIN: 124
 # DOMAIN-SUFFIX: 33689
 # TOTAL: 33966
+# UPDATED: 2026-04-18 02:20:53
+# DOMAIN-SUFFIX: 33732
+# TOTAL: 34009
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -518,8 +521,8 @@ login.microsoftonline.com
 .2gis.kg
 .2gis.kz
 .2gis.ru
+.2gis.tech
 .2gis.tj
-.2gis.ua
 .2gis.uz
 .2k.com
 .2kcoretech.online
@@ -2653,6 +2656,7 @@ login.microsoftonline.com
 .asuscloud.com
 .asuswebstorage.com
 .asvin.ac.uk
+.at.ua
 .atandt.com
 .atasale.com
 .atdmt2.com
@@ -2686,6 +2690,7 @@ login.microsoftonline.com
 .att.jobs
 .att.net
 .att.tv
+.attachmail.ru
 .attachmy.com
 .attackers.net
 .attalascom.com
@@ -3604,6 +3609,8 @@ login.microsoftonline.com
 .beforeigners.com
 .befuck.com
 .befuck.net
+.beget.com
+.beget.ru
 .begin-trade.com
 .behaviour4learning.ac.uk
 .behavioural-science.ac.uk
@@ -10489,6 +10496,7 @@ login.microsoftonline.com
 .ghostgames.com
 .ghtv666.top
 .giantessbooru.com
+.gid.ru
 .giffgaff.com
 .giffgaff.design
 .gifnuki.com
@@ -18303,6 +18311,7 @@ login.microsoftonline.com
 .okkisokuho.com
 .okko.sport
 .okko.tv
+.okkoapi.tv
 .okl.lt
 .oktech.ru
 .okx-dns.com
@@ -19936,6 +19945,7 @@ login.microsoftonline.com
 .projectshoreline.com
 .projectvasari.com
 .projectvoyeur.com
+.promodj.com
 .promonsterbeatsbydre.com
 .promotingpartnership.ac.uk
 .proms.ac.uk
@@ -21290,6 +21300,7 @@ login.microsoftonline.com
 .screenwisetrendspanel.com
 .screw-my-wife.com
 .scri.ac.uk
+.scripts-for-ucoz.ru
 .scrolla.ac.uk
 .scrolller.com
 .scrr.ac.uk
@@ -23677,6 +23688,8 @@ login.microsoftonline.com
 .timelinestoryteller.com
 .timesmembership.com
 .timestalks.com
+.timeweb.cloud
+.timeweb.com
 .timi1.me
 .timo0.com
 .ting53.xyz
@@ -24111,6 +24124,7 @@ login.microsoftonline.com
 .twavking.com
 .twca.com.tw
 .twcomix.com
+.twcstorage.ru
 .tweakadmin.com
 .tweakfilms.com
 .tweaksoftware.com
@@ -24243,6 +24257,30 @@ login.microsoftonline.com
 .ucn.ac.uk
 .ucnl.ac.uk
 .uco.ac.uk
+.ucoz.ae
+.ucoz.club
+.ucoz.co
+.ucoz.co.il
+.ucoz.co.uk
+.ucoz.com
+.ucoz.com.br
+.ucoz.com.ro
+.ucoz.de
+.ucoz.es
+.ucoz.fr
+.ucoz.hu
+.ucoz.kz
+.ucoz.lv
+.ucoz.md
+.ucoz.net
+.ucoz.org
+.ucoz.pl
+.ucoz.ru
+.ucoz.site
+.ucoz.ua
+.ucozmedia.com
+.ucozmedia.ru
+.ucoztemplates.com
 .ucp.ac.uk
 .ucpmarjon.ac.uk
 .ucq.ac.uk
@@ -24275,6 +24313,7 @@ login.microsoftonline.com
 .uetcollege.ac.uk
 .uflash.tv
 .ufm.ac.uk
+.uguide.ru
 .uguisupapa.net
 .uhairy.com
 .uhi.ac.uk
@@ -24335,6 +24374,10 @@ login.microsoftonline.com
 .ukimr.ac.uk
 .ukipad.com
 .ukirc.ac.uk
+.ukit.ai
+.ukit.com
+.ukit.group
+.ukit.me
 .uklibrariesplus.ac.uk
 .uklight.ac.uk
 .ukm.ac.uk
@@ -24382,6 +24425,7 @@ login.microsoftonline.com
 .ultralab.ac.uk
 .ultrasrv.de
 .ultrayoungsex.com
+.uma.media
 .umagazine.com.hk
 .umass.edu
 .umbrella.com
@@ -26302,6 +26346,7 @@ login.microsoftonline.com
 .xlovecam.com
 .xlstudio.com
 .xlydh.cc
+.xmail.ru
 .xmalay.com
 .xmas.ac.uk
 .xmat.ac.uk
@@ -27920,6 +27965,7 @@ login.microsoftonline.com
 .avg.com
 .avgle.com
 .avidemux.org
+.avistaz.to
 .avmo.pw
 .avmoo.com
 .avmoo.net

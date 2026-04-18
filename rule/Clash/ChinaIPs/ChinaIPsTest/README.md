@@ -233,6 +233,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 23046  | 
 | IP-CIDR6 | 6427  | 
 | TOTAL | 29473  | 
+最后更新时间：2026-04-18 02:22:48
+| IP-CIDR | 23057  | 
+| IP-CIDR6 | 6453  | 
+| TOTAL | 29510  | 
 ## Clash 
 #### 使用说明
 - ChinaIPsTest_Classical.yaml，请使用 behavior: "classical"。
