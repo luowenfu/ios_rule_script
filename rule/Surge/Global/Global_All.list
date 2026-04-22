@@ -114,6 +114,8 @@
 # DOMAIN-SUFFIX: 33689
 # UPDATED: 2026-04-18 02:20:52
 # DOMAIN-SUFFIX: 33732
+# UPDATED: 2026-04-22 02:25:00
+# DOMAIN-SUFFIX: 33735
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -168,6 +170,7 @@
 # TOTAL: 33851
 # TOTAL: 34012
 # TOTAL: 34055
+# TOTAL: 34058
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -1040,6 +1043,7 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
 DOMAIN-SUFFIX,adidas-archive.org
@@ -16267,6 +16271,7 @@ DOMAIN-SUFFIX,minilondon.co
 DOMAIN-SUFFIX,minim.ac.uk
 DOMAIN-SUFFIX,minimarkham.ca
 DOMAIN-SUFFIX,minimarkham.com
+DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,minimoncton.ca
 DOMAIN-SUFFIX,minimoncton.com
 DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -21248,6 +21253,7 @@ DOMAIN-SUFFIX,scop.ac.uk
 DOMAIN-SUFFIX,scope-uk.ac.uk
 DOMAIN-SUFFIX,scopic.ac.uk
 DOMAIN-SUFFIX,score.ac.uk
+DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,scoreclassics.com
 DOMAIN-SUFFIX,scorediscounts.club
 DOMAIN-SUFFIX,scoregroup.com

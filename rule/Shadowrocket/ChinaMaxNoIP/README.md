@@ -142,6 +142,10 @@ ChinaMax排除相关IP规则版本
 | DOMAIN-SUFFIX | 117924  | 
 | DOMAIN-SUFFIX | 117946  | 
 | TOTAL | 118336  | 
+最后更新时间：2026-04-22 02:27:15
+| DOMAIN | 298  | 
+| DOMAIN-SUFFIX | 118620  | 
+| TOTAL | 118996  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMaxNoIP.list，请使用RULE-SET。
