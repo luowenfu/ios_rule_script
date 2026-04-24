@@ -74,6 +74,9 @@
 | DOMAIN | 313  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117527  | 
+最后更新时间：2026-04-24 02:28:03
+| DOMAIN | 302  | 
+| DOMAIN-SUFFIX | 118645  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8258  | 
 | IP-CIDR6 | 12289  | 
@@ -272,6 +275,7 @@
 | DOMAIN | 299  | 
 | DOMAIN-SUFFIX | 118955  | 
 | TOTAL | 131584  | 
+| TOTAL | 131277  | 
 ## Surge 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

@@ -75,6 +75,9 @@
 | HOST-KEYWORD | 13  | 
 | HOST-SUFFIX | 117527  | 
 | HOST-SUFFIX | 118246  | 
+最后更新时间：2026-04-24 02:28:04
+| HOST | 302  | 
+| HOST-SUFFIX | 118645  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8258  | 
@@ -272,6 +275,7 @@
 | HOST | 299  | 
 | HOST-SUFFIX | 118955  | 
 | TOTAL | 131573  | 
+| TOTAL | 131266  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMax.list 单独使用。

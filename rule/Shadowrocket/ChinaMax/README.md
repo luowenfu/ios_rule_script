@@ -74,6 +74,9 @@
 | DOMAIN | 313  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117527  | 
+最后更新时间：2026-04-24 02:28:11
+| DOMAIN | 302  | 
+| DOMAIN-SUFFIX | 118645  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 20547  | 
 | DOMAIN-SUFFIX | 118163  | 
@@ -252,6 +255,7 @@
 | DOMAIN-SUFFIX | 118955  | 
 | IP-CIDR | 12239  | 
 | TOTAL | 131572  | 
+| TOTAL | 131265  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

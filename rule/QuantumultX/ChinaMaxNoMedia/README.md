@@ -70,6 +70,9 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST-KEYWORD | 11  | 
 | HOST-SUFFIX | 117079  | 
 | HOST-SUFFIX | 117803  | 
+最后更新时间：2026-04-24 02:29:15
+| HOST | 301  | 
+| HOST-SUFFIX | 118202  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8258  | 
@@ -267,6 +270,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 298  | 
 | HOST-SUFFIX | 118512  | 
 | TOTAL | 131127  | 
+| TOTAL | 130820  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoMedia.list 单独使用。
