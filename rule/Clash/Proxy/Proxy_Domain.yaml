@@ -106,6 +106,9 @@
 # UPDATED: 2026-04-24 02:26:49
 # DOMAIN-SUFFIX: 6606
 # TOTAL: 6738
+# UPDATED: 2026-04-26 02:16:43
+# DOMAIN-SUFFIX: 6607
+# TOTAL: 6739
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -5391,6 +5394,7 @@ payload:
   - '+.teachparentstech.org'
   - '+.teamamericany.com'
   - '+.teamviewer.com'
+  - '+.techbang.com'
   - '+.techcrunch.com'
   - '+.technews.tw'
   - '+.technorati.com'

@@ -179,6 +179,9 @@
 # UPDATED: 2026-04-24 02:26:48
 # HOST-SUFFIX: 33790
 # TOTAL: 34690
+# UPDATED: 2026-04-26 02:16:42
+# HOST-SUFFIX: 33794
+# TOTAL: 34694
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1891,6 +1894,7 @@ HOST-SUFFIX,agedm.tv,Global
 HOST-SUFFIX,agemys.org,Global
 HOST-SUFFIX,agendaweek.com,Global
 HOST-SUFFIX,agenet.ac.uk,Global
+HOST-SUFFIX,agentclientprotocol.com,Global
 HOST-SUFFIX,agilebits.com,Global
 HOST-SUFFIX,agocg.ac.uk,Global
 HOST-SUFFIX,agrd.eu,Global
@@ -19509,6 +19513,7 @@ HOST-SUFFIX,placemyad.com.au,Global
 HOST-SUFFIX,placesdocs.com,Global
 HOST-SUFFIX,planetminecraft.com,Global
 HOST-SUFFIX,planetsuzy.org,Global
+HOST-SUFFIX,plannotator.ai,Global
 HOST-SUFFIX,plansondemand.com,Global
 HOST-SUFFIX,plant-phenomics.ac.uk,Global
 HOST-SUFFIX,plantsvszombies2.com,Global
@@ -24342,6 +24347,7 @@ HOST-SUFFIX,twinsuk.ac.uk,Global
 HOST-SUFFIX,twirl.ac.uk,Global
 HOST-SUFFIX,twistedlinks.net,Global
 HOST-SUFFIX,twistys.com,Global
+HOST-SUFFIX,twitchcon.com,Global
 HOST-SUFFIX,twitchsvc.net,Global
 HOST-SUFFIX,twitcomike.jp,Global
 HOST-SUFFIX,twitter.biz,Global
@@ -33309,6 +33315,7 @@ HOST-SUFFIX,tdm.com.mo,Global
 HOST-SUFFIX,teachparentstech.org,Global
 HOST-SUFFIX,teamamericany.com,Global
 HOST-SUFFIX,teamviewer.com,Global
+HOST-SUFFIX,techbang.com,Global
 HOST-SUFFIX,techcrunch.com,Global
 HOST-SUFFIX,technews.tw,Global
 HOST-SUFFIX,technorati.com,Global
