@@ -151,6 +151,10 @@ ChinaMax排除相关IP规则版本
 | DOMAIN | 301  | 
 | DOMAIN-SUFFIX | 118310  | 
 | TOTAL | 118701  | 
+最后更新时间：2026-04-28 02:30:23
+| DOMAIN | 304  | 
+| DOMAIN-SUFFIX | 117113  | 
+| TOTAL | 117507  | 
 ## Surge 
 #### 使用说明
 - ChinaMaxNoIP.list，请使用RULE-SET。

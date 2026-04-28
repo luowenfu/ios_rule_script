@@ -176,6 +176,9 @@
 # UPDATED: 2026-04-26 02:16:21
 # DOMAIN-SUFFIX: 33749
 # TOTAL: 34026
+# UPDATED: 2026-04-28 02:28:41
+# DOMAIN-SUFFIX: 33751
+# TOTAL: 34028
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -12250,6 +12253,7 @@ payload:
   - DOMAIN-SUFFIX,hrsaz.com
   - DOMAIN-SUFFIX,hrsfc.ac.uk
   - DOMAIN-SUFFIX,hrtek.ru
+  - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,hsad.ac.uk
   - DOMAIN-SUFFIX,hsbc-alternatives.de
   - DOMAIN-SUFFIX,hsbc-transactionservices.de
@@ -26537,6 +26541,7 @@ payload:
   - DOMAIN-SUFFIX,xtracloud.net
   - DOMAIN-SUFFIX,xtubebdsm.com
   - DOMAIN-SUFFIX,xtubezoo.com
+  - DOMAIN-SUFFIX,xu97.vip
   - DOMAIN-SUFFIX,xujan.com
   - DOMAIN-SUFFIX,xuxaverso.com.br
   - DOMAIN-SUFFIX,xv-ru.com

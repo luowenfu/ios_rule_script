@@ -273,6 +273,10 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 131138  | 
 | TOTAL | 130831  | 
 | TOTAL | 130833  | 
+最后更新时间：2026-04-28 02:30:52
+| DOMAIN | 304  | 
+| DOMAIN-SUFFIX | 117005  | 
+| TOTAL | 129638  | 
 ## Surge 
 #### 使用说明
 - ChinaMaxNoMedia.list，请使用RULE-SET。

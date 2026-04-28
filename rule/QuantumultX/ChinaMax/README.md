@@ -278,6 +278,10 @@
 | TOTAL | 131573  | 
 | TOTAL | 131266  | 
 | TOTAL | 131268  | 
+最后更新时间：2026-04-28 02:29:56
+| HOST | 305  | 
+| HOST-SUFFIX | 117447  | 
+| TOTAL | 130072  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMax.list 单独使用。

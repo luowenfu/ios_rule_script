@@ -278,6 +278,10 @@
 | TOTAL | 131584  | 
 | TOTAL | 131277  | 
 | TOTAL | 131279  | 
+最后更新时间：2026-04-28 02:29:56
+| DOMAIN | 305  | 
+| DOMAIN-SUFFIX | 117447  | 
+| TOTAL | 130083  | 
 ## Surge 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

@@ -176,6 +176,9 @@
 # UPDATED: 2026-04-26 02:16:21
 # DOMAIN-SUFFIX: 33749
 # TOTAL: 34026
+# UPDATED: 2026-04-28 02:28:41
+# DOMAIN-SUFFIX: 33751
+# TOTAL: 34028
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -12249,6 +12252,7 @@ login.microsoftonline.com
 +.hrsaz.com
 +.hrsfc.ac.uk
 +.hrtek.ru
++.hrtsea.com
 +.hsad.ac.uk
 +.hsbc-alternatives.de
 +.hsbc-transactionservices.de
@@ -26536,6 +26540,7 @@ login.microsoftonline.com
 +.xtracloud.net
 +.xtubebdsm.com
 +.xtubezoo.com
++.xu97.vip
 +.xujan.com
 +.xuxaverso.com.br
 +.xv-ru.com
