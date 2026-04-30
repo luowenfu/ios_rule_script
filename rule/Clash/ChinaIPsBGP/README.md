@@ -155,6 +155,7 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 3930  | 
 最后更新时间：2026-04-26 02:17:40
 最后更新时间：2026-04-28 02:29:46
+最后更新时间：2026-04-30 02:33:52
 ## Clash 
 #### 使用说明
 - ChinaIPsBGP_Classical.yaml，请使用 behavior: "classical"。

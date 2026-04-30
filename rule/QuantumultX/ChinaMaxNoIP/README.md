@@ -155,6 +155,9 @@ ChinaMax排除相关IP规则版本
 | HOST | 304  | 
 | HOST-SUFFIX | 117113  | 
 | TOTAL | 117496  | 
+最后更新时间：2026-04-30 02:34:40
+| HOST-SUFFIX | 115828  | 
+| TOTAL | 116214  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoIP.list 单独使用。
