@@ -1,3 +1,7 @@
+#索尼电视麦克风的语音服务
+@@||ottcn.com^
+
+
 ! Title: AdGuardHome白名单
 ! Version: 202407191352
 ! Homepage: https://github.com/mphin/adguardhome_rules
