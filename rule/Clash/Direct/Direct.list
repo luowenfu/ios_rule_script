@@ -7,6 +7,9 @@
 # DOMAIN-SUFFIX: 139
 # PROCESS-NAME: 36
 # TOTAL: 267
+#自定义直连
+DOMAIN-SUFFIX,alipay.xinjietechnology.com
+#
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
