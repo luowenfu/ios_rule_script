@@ -58,6 +58,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 648  | 
+最后更新时间：2026-05-02 02:25:30
+| HOST | 703  | 
 | HOST-KEYWORD | 36  | 
 | HOST-SUFFIX | 32394  | 
 | IP-CIDR | 112  | 
@@ -179,7 +181,6 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST-SUFFIX | 33233  | 
 | TOTAL | 34129  | 
 最后更新时间：2026-04-12 02:12:51
-| HOST | 703  | 
 | HOST-SUFFIX | 33278  | 
 | TOTAL | 34179  | 
 | HOST-SUFFIX | 33572  | 
@@ -200,6 +201,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 34696  | 
 | HOST-SUFFIX | 33802  | 
 | TOTAL | 34702  | 
+| TOTAL | 34703  | 
 ## QuantumultX 
 #### 配置建议
 - Global.list 单独使用。
