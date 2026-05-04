@@ -284,6 +284,10 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 115718  | 
 | IP-CIDR6 | 4060  | 
 | TOTAL | 128345  | 
+最后更新时间：2026-05-04 02:22:56
+| DOMAIN | 308  | 
+| DOMAIN-SUFFIX | 114647  | 
+| TOTAL | 127276  | 
 ## Loon 
 #### 文件区别
 - ChinaMaxNoMedia_Resolve.list与ChinaMaxNoMedia.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
