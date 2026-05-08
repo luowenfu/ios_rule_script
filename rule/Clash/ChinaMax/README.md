@@ -297,6 +297,12 @@
 | DOMAIN-SUFFIX | 114986  | 
 | IP-CIDR6 | 4061  | 
 | TOTAL | 127567  | 
+最后更新时间：2026-05-08 02:38:04
+| DOMAIN | 312  | 
+| DOMAIN-SUFFIX | 114447  | 
+| IP-CIDR | 8185  | 
+| IP-CIDR6 | 4105  | 
+| TOTAL | 127077  | 
 ## Clash 
 #### 使用说明
 - ChinaMax.yaml，请使用 behavior: "classical"。

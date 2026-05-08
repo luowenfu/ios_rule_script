@@ -298,6 +298,12 @@
 | DOMAIN-SUFFIX | 114986  | 
 | IP-CIDR6 | 4061  | 
 | TOTAL | 127630  | 
+最后更新时间：2026-05-08 02:37:59
+| DOMAIN | 312  | 
+| DOMAIN-SUFFIX | 114447  | 
+| IP-CIDR | 8185  | 
+| IP-CIDR6 | 4105  | 
+| TOTAL | 127140  | 
 ## Surge 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。
