@@ -158,6 +158,9 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 137  | 
 | DOMAIN-SUFFIX | 114451  | 
 | TOTAL | 114643  | 
+最后更新时间：2026-05-10 02:21:48
+| DOMAIN-SUFFIX | 114182  | 
+| TOTAL | 114371  | 
 ## Surge 
 #### 使用说明
 - ChinaTest.list，请使用RULE-SET。

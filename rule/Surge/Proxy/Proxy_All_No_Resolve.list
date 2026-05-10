@@ -116,6 +116,9 @@
 # UPDATED: 2026-05-08 02:36:45
 # DOMAIN-SUFFIX: 6631
 # TOTAL: 6771
+# UPDATED: 2026-05-10 02:21:32
+# DOMAIN-SUFFIX: 6632
+# TOTAL: 6772
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -5947,6 +5950,7 @@ DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,ulyssesapp.com
+DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblockdmm.com

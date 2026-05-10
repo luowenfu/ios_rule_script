@@ -191,6 +191,9 @@
 # UPDATED: 2026-05-08 02:36:23
 # DOMAIN-SUFFIX: 33884
 # TOTAL: 34161
+# UPDATED: 2026-05-10 02:21:16
+# DOMAIN-SUFFIX: 33886
+# TOTAL: 34163
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -25419,6 +25422,7 @@ login.microsoftonline.com
 .vodafone.com.tr
 .vodafone.de
 .vodafone.it
+.vodafone.nl
 .voila.ac.uk
 .vokevr.com
 .vol.moe
@@ -33401,6 +33405,7 @@ login.microsoftonline.com
 .ultravpn.fr
 .ultraxs.com
 .ulyssesapp.com
+.umap.openstreetmap.fr
 .umich.edu
 .unblock-us.com
 .unblockdmm.com

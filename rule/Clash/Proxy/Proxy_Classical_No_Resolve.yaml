@@ -115,6 +115,9 @@
 # UPDATED: 2026-05-08 02:36:46
 # DOMAIN-SUFFIX: 6631
 # TOTAL: 6763
+# UPDATED: 2026-05-10 02:21:33
+# DOMAIN-SUFFIX: 6632
+# TOTAL: 6764
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -5947,6 +5950,7 @@ payload:
   - DOMAIN-SUFFIX,ultravpn.fr
   - DOMAIN-SUFFIX,ultraxs.com
   - DOMAIN-SUFFIX,ulyssesapp.com
+  - DOMAIN-SUFFIX,umap.openstreetmap.fr
   - DOMAIN-SUFFIX,umich.edu
   - DOMAIN-SUFFIX,unblock-us.com
   - DOMAIN-SUFFIX,unblockdmm.com

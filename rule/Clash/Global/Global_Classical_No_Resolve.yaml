@@ -191,6 +191,9 @@
 # UPDATED: 2026-05-08 02:36:23
 # DOMAIN-SUFFIX: 33884
 # TOTAL: 34161
+# UPDATED: 2026-05-10 02:21:16
+# DOMAIN-SUFFIX: 33886
+# TOTAL: 34163
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -25420,6 +25423,7 @@ payload:
   - DOMAIN-SUFFIX,vodafone.com.tr
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
+  - DOMAIN-SUFFIX,vodafone.nl
   - DOMAIN-SUFFIX,voila.ac.uk
   - DOMAIN-SUFFIX,vokevr.com
   - DOMAIN-SUFFIX,vol.moe
@@ -33402,6 +33406,7 @@ payload:
   - DOMAIN-SUFFIX,ultravpn.fr
   - DOMAIN-SUFFIX,ultraxs.com
   - DOMAIN-SUFFIX,ulyssesapp.com
+  - DOMAIN-SUFFIX,umap.openstreetmap.fr
   - DOMAIN-SUFFIX,umich.edu
   - DOMAIN-SUFFIX,unblock-us.com
   - DOMAIN-SUFFIX,unblockdmm.com

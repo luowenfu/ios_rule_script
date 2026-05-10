@@ -112,6 +112,9 @@
 # UPDATED: 2026-05-08 02:36:46
 # HOST-SUFFIX: 7111
 # TOTAL: 7261
+# UPDATED: 2026-05-10 02:21:33
+# HOST-SUFFIX: 7112
+# TOTAL: 7262
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -6412,6 +6415,7 @@ HOST-SUFFIX,ultravpn.com,Proxy
 HOST-SUFFIX,ultravpn.fr,Proxy
 HOST-SUFFIX,ultraxs.com,Proxy
 HOST-SUFFIX,ulyssesapp.com,Proxy
+HOST-SUFFIX,umap.openstreetmap.fr,Proxy
 HOST-SUFFIX,umich.edu,Proxy
 HOST-SUFFIX,unblock-us.com,Proxy
 HOST-SUFFIX,unblockdmm.com,Proxy

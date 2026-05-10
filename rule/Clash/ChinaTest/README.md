@@ -157,6 +157,9 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 137  | 
 | DOMAIN-SUFFIX | 114451  | 
 | TOTAL | 114612  | 
+最后更新时间：2026-05-10 02:21:51
+| DOMAIN-SUFFIX | 114182  | 
+| TOTAL | 114340  | 
 ## Clash 
 #### 使用说明
 - ChinaTest.yaml，请使用 behavior: "classical"。
