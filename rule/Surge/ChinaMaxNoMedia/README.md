@@ -64,6 +64,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-04-26 02:19:04
 最后更新时间：2026-05-02 02:27:50
 最后更新时间：2026-05-06 02:34:40
+最后更新时间：2026-05-14 02:41:55
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -309,6 +310,10 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8187  | 
 | IP-CIDR6 | 4099  | 
 | TOTAL | 125900  | 
+| DOMAIN-SUFFIX | 113140  | 
+| IP-CIDR | 8188  | 
+| IP-CIDR6 | 4101  | 
+| TOTAL | 125827  | 
 ## Surge 
 #### 使用说明
 - ChinaMaxNoMedia.list，请使用RULE-SET。
