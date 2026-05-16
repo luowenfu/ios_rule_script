@@ -209,6 +209,9 @@
 # UPDATED: 2026-05-14 02:39:43
 # HOST-SUFFIX: 34035
 # TOTAL: 34965
+# UPDATED: 2026-05-16 02:35:12
+# HOST-SUFFIX: 34037
+# TOTAL: 34967
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -14859,6 +14862,7 @@ HOST-SUFFIX,kum.com,Global
 HOST-SUFFIX,kumagai.com,Global
 HOST-SUFFIX,kumapon.jp,Global
 HOST-SUFFIX,kumo.com,Global
+HOST-SUFFIX,kun66.xyz,Global
 HOST-SUFFIX,kundun1069.com,Global
 HOST-SUFFIX,kuper.ru,Global
 HOST-SUFFIX,kusugurizanmai.com,Global
@@ -29067,6 +29071,7 @@ HOST-SUFFIX,chingcheong.com,Global
 HOST-SUFFIX,chinman.net,Global
 HOST-SUFFIX,chithu.org,Global
 HOST-SUFFIX,chobit.cc,Global
+HOST-SUFFIX,chonglangtv.org,Global
 HOST-SUFFIX,chosun.com,Global
 HOST-SUFFIX,chrdnet.com,Global
 HOST-SUFFIX,christianfreedom.org,Global

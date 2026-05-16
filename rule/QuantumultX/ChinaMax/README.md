@@ -319,6 +319,10 @@
 | IP-CIDR | 8188  | 
 | IP6-CIDR | 4101  | 
 | TOTAL | 126256  | 
+最后更新时间：2026-05-16 02:36:23
+| HOST-SUFFIX | 113527  | 
+| IP6-CIDR | 4103  | 
+| TOTAL | 126209  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMax.list 单独使用。

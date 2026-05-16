@@ -121,6 +121,9 @@
 # UPDATED: 2026-05-12 02:39:52
 # DOMAIN-SUFFIX: 6634
 # TOTAL: 6766
+# UPDATED: 2026-05-16 02:35:13
+# DOMAIN-SUFFIX: 6635
+# TOTAL: 6767
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -1205,6 +1208,7 @@ payload:
   - '+.chinman.net'
   - '+.chithu.org'
   - '+.chobit.cc'
+  - '+.chonglangtv.org'
   - '+.chosun.com'
   - '+.chrdnet.com'
   - '+.christianfreedom.org'

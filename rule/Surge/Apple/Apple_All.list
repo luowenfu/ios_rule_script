@@ -75,6 +75,7 @@
 # UPDATED: 2026-05-10 02:20:12
 # UPDATED: 2026-05-12 02:38:12
 # UPDATED: 2026-05-14 02:38:09
+# UPDATED: 2026-05-16 02:33:33
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1273,7 +1274,6 @@ DOMAIN-SUFFIX,applepaysupplies.net
 DOMAIN-SUFFIX,applepaysupplies.tv
 DOMAIN-SUFFIX,applewallet.com
 DOMAIN-SUFFIX,applewallet.tv
-DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.co.id
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,appstore.hk
@@ -1549,7 +1549,6 @@ DOMAIN-SUFFIX,ukipad.com
 DOMAIN-SUFFIX,wwwipodlounge.com
 DOMAIN-SUFFIX,wwwmacbookair.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
-DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleenews.com
 DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,applemusic.co
@@ -1587,6 +1586,9 @@ DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,wwwapplemusic.com
 DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn
@@ -1594,7 +1596,6 @@ DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,apzones.com
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
@@ -1682,9 +1683,9 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
-USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,WeatherWidget
