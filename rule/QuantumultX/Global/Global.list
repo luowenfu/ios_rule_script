@@ -212,6 +212,9 @@
 # UPDATED: 2026-05-16 02:35:12
 # HOST-SUFFIX: 34037
 # TOTAL: 34967
+# UPDATED: 2026-05-18 02:24:24
+# HOST-SUFFIX: 34041
+# TOTAL: 34971
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -3141,6 +3144,7 @@ HOST-SUFFIX,archiveshub.ac.uk,Global
 HOST-SUFFIX,archivx.to,Global
 HOST-SUFFIX,archlinux.de,Global
 HOST-SUFFIX,archlinux.org,Global
+HOST-SUFFIX,archlinux.page,Global
 HOST-SUFFIX,archlinuxarm.org,Global
 HOST-SUFFIX,archlinuxcn.org,Global
 HOST-SUFFIX,archway.ac.uk,Global
@@ -21098,6 +21102,7 @@ HOST-SUFFIX,ridepenguin.com,Global
 HOST-SUFFIX,riding.ac.uk,Global
 HOST-SUFFIX,right-2.ac.uk,Global
 HOST-SUFFIX,rightster.com,Global
+HOST-SUFFIX,rigums.xyz,Global
 HOST-SUFFIX,rimg.com.tw,Global
 HOST-SUFFIX,rin.ac.uk,Global
 HOST-SUFFIX,rinvdh7.xyz,Global
@@ -22120,6 +22125,7 @@ HOST-SUFFIX,sgspt.buzz,Global
 HOST-SUFFIX,sgsss.ac.uk,Global
 HOST-SUFFIX,sgul.ac.uk,Global
 HOST-SUFFIX,sh-xuxingda.com,Global
+HOST-SUFFIX,sh83.xyz,Global
 HOST-SUFFIX,shadbase.com,Global
 HOST-SUFFIX,shadowcomplex.com,Global
 HOST-SUFFIX,shadowslaves.com,Global
@@ -25963,6 +25969,7 @@ HOST-SUFFIX,vtvan.com,Global
 HOST-SUFFIX,vuasanhrong.com,Global
 HOST-SUFFIX,vulgarx.com,Global
 HOST-SUFFIX,vuvuzela.io,Global
+HOST-SUFFIX,vv1865.com,Global
 HOST-SUFFIX,vxnbbrs.xyz,Global
 HOST-SUFFIX,vxxsred.xyz,Global
 HOST-SUFFIX,w-mt.co,Global

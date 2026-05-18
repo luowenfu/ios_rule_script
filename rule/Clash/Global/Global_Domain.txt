@@ -203,6 +203,9 @@
 # UPDATED: 2026-05-16 02:34:51
 # DOMAIN-SUFFIX: 33992
 # TOTAL: 34269
+# UPDATED: 2026-05-18 02:24:04
+# DOMAIN-SUFFIX: 33996
+# TOTAL: 34273
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -2534,6 +2537,7 @@ login.microsoftonline.com
 .archivx.to
 .archlinux.de
 .archlinux.org
+.archlinux.page
 .archlinuxarm.org
 .archlinuxcn.org
 .archway.ac.uk
@@ -20862,6 +20866,7 @@ login.microsoftonline.com
 .riding.ac.uk
 .right-2.ac.uk
 .rightster.com
+.rigums.xyz
 .rimg.com.tw
 .rin.ac.uk
 .rinvdh7.xyz
@@ -21884,6 +21889,7 @@ login.microsoftonline.com
 .sgsss.ac.uk
 .sgul.ac.uk
 .sh-xuxingda.com
+.sh83.xyz
 .shadbase.com
 .shadowcomplex.com
 .shadowslaves.com
@@ -25759,6 +25765,7 @@ login.microsoftonline.com
 .vuasanhrong.com
 .vulgarx.com
 .vuvuzela.io
+.vv1865.com
 .vxnbbrs.xyz
 .vxxsred.xyz
 .w-mt.co
