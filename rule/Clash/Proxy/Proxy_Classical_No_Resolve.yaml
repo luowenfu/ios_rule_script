@@ -124,6 +124,9 @@
 # UPDATED: 2026-05-16 02:35:13
 # DOMAIN-SUFFIX: 6635
 # TOTAL: 6767
+# UPDATED: 2026-05-20 02:39:24
+# DOMAIN-SUFFIX: 6637
+# TOTAL: 6769
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -5008,6 +5011,7 @@ payload:
   - DOMAIN-SUFFIX,siddharthasintent.org
   - DOMAIN-SUFFIX,sidelinesnews.com
   - DOMAIN-SUFFIX,sidelinessportseatery.com
+  - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,sierrafriendsoftibet.org
   - DOMAIN-SUFFIX,signal.org
   - DOMAIN-SUFFIX,sijihuisuo.club
@@ -6713,6 +6717,7 @@ payload:
   - DOMAIN-SUFFIX,zhanbin.net
   - DOMAIN-SUFFIX,zhangboli.net
   - DOMAIN-SUFFIX,zhangtianliang.com
+  - DOMAIN-SUFFIX,zhangzhehan.net
   - DOMAIN-SUFFIX,zhanlve.org
   - DOMAIN-SUFFIX,zhenghui.org
   - DOMAIN-SUFFIX,zhenlibu.info

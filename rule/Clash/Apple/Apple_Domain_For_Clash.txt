@@ -74,6 +74,7 @@
 # UPDATED: 2026-05-14 02:38:09
 # UPDATED: 2026-05-16 02:33:33
 # UPDATED: 2026-05-18 02:22:47
+# UPDATED: 2026-05-20 02:37:43
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1274,6 +1275,7 @@ p-events-delivery.akamaized.net
 +.applepaysupplies.tv
 +.applewallet.com
 +.applewallet.tv
++.appsto.re
 +.appstore.co.id
 +.appstore.com
 +.appstore.hk
@@ -1596,6 +1598,7 @@ p-events-delivery.akamaized.net
 +.wwwipodlounge.com
 +.wwwmacbookair.com
 +.apple.comscoreresearch.com
++.apple.news
 +.appleenews.com
 +.applemusic.berlin
 +.applemusic.co
@@ -1633,11 +1636,9 @@ p-events-delivery.akamaized.net
 +.musickit.net
 +.wwwapplemusic.com
 +.apple-dns.net
-+.apple.news
-+.appsto.re
-+.cdn-apple.com
 +.digicert.com
 +.apple-cloudkit.com
 +.apple-livephotoskit.com
 +.apzones.com
++.cdn-apple.com
 +.icloud.cn

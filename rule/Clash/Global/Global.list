@@ -206,6 +206,9 @@
 # UPDATED: 2026-05-18 02:24:04
 # DOMAIN-SUFFIX: 33996
 # TOTAL: 34273
+# UPDATED: 2026-05-20 02:39:02
+# DOMAIN-SUFFIX: 34017
+# TOTAL: 34294
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -700,6 +703,7 @@ DOMAIN-SUFFIX,54647.org
 DOMAIN-SUFFIX,55dndn.com
 DOMAIN-SUFFIX,567321.online
 DOMAIN-SUFFIX,568xe.com
+DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,58avgo.com
 DOMAIN-SUFFIX,592r.com
 DOMAIN-SUFFIX,59mvmv.com
@@ -14409,6 +14413,7 @@ DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
 DOMAIN-SUFFIX,keytransparency.org
 DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kgslb.com
 DOMAIN-SUFFIX,kgv.ac.uk
 DOMAIN-SUFFIX,khanacademy.org
@@ -14512,6 +14517,7 @@ DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,kissjav.li
 DOMAIN-SUFFIX,kitakyushubank.co.jp
 DOMAIN-SUFFIX,kitts.ac.uk
+DOMAIN-SUFFIX,kiwi.jp
 DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kiyobank.co.jp
 DOMAIN-SUFFIX,kk.stream
@@ -14551,6 +14557,19 @@ DOMAIN-SUFFIX,kompoz.com
 DOMAIN-SUFFIX,kompoz2.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
+DOMAIN-SUFFIX,konami-igaming.online
+DOMAIN-SUFFIX,konami.co.jp
+DOMAIN-SUFFIX,konami.com
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,konami.org
+DOMAIN-SUFFIX,konamicrossmedia.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamionline.com
+DOMAIN-SUFFIX,konamiopen.jp
+DOMAIN-SUFFIX,konamisportsclub.jp
+DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,kopfhorergunstigshop.com
 DOMAIN-SUFFIX,korbit.co.kr
 DOMAIN-SUFFIX,koreanpornmovie.com
@@ -20795,6 +20814,8 @@ DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
 DOMAIN-SUFFIX,researchscotland.ac.uk
 DOMAIN-SUFFIX,researchwales.ac.uk
+DOMAIN-SUFFIX,resella.jp
+DOMAIN-SUFFIX,resellablue.com
 DOMAIN-SUFFIX,resilient-decarbonised-energy-cdt.ac.uk
 DOMAIN-SUFFIX,resilient-decarbonised-energy-dtc.ac.uk
 DOMAIN-SUFFIX,resl.ac.uk
@@ -27574,6 +27595,7 @@ DOMAIN-SUFFIX,yswet.com
 DOMAIN-SUFFIX,ysx-mm.com
 DOMAIN-SUFFIX,yuenuge113.xyz
 DOMAIN-SUFFIX,yuenuge18.cc
+DOMAIN-SUFFIX,yugioh-card.com
 DOMAIN-SUFFIX,yunlaopo.cc
 DOMAIN-SUFFIX,yunlaopo.com
 DOMAIN-SUFFIX,yunlaopo.net
@@ -32584,6 +32606,7 @@ DOMAIN-SUFFIX,shwchurch3.com
 DOMAIN-SUFFIX,siddharthasintent.org
 DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,sidelinessportseatery.com
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,sierrafriendsoftibet.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sijihuisuo.club
@@ -34270,6 +34293,7 @@ DOMAIN-SUFFIX,zgzcjj.net
 DOMAIN-SUFFIX,zhanbin.net
 DOMAIN-SUFFIX,zhangboli.net
 DOMAIN-SUFFIX,zhangtianliang.com
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zhanlve.org
 DOMAIN-SUFFIX,zhenghui.org
 DOMAIN-SUFFIX,zhenlibu.info
