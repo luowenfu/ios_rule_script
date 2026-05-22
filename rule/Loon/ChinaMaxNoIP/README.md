@@ -189,6 +189,10 @@ ChinaMax排除相关IP规则版本
 | TOTAL | 113523  | 
 | DOMAIN-SUFFIX | 113122  | 
 | TOTAL | 113511  | 
+最后更新时间：2026-05-22 02:42:10
+| DOMAIN | 302  | 
+| DOMAIN-SUFFIX | 113097  | 
+| TOTAL | 113477  | 
 ## Loon 
 #### 配置建议
 - ChinaMaxNoIP.list、ChinaMaxNoIP_Domain.list 共同使用。

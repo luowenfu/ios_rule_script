@@ -300,6 +300,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 23206  | 
 | IP-CIDR6 | 6533  | 
 | TOTAL | 29739  | 
+最后更新时间：2026-05-22 02:41:55
+| IP-CIDR | 22762  | 
+| IP-CIDR6 | 6523  | 
+| TOTAL | 29285  | 
 ## Loon 
 #### 文件区别
 - ChinaIPsTest_Resolve.list与ChinaIPsTest.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。

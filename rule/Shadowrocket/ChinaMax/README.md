@@ -305,6 +305,11 @@
 | DOMAIN-SUFFIX | 113450  | 
 | IP-CIDR | 12291  | 
 | TOTAL | 126132  | 
+最后更新时间：2026-05-22 02:41:42
+| DOMAIN | 303  | 
+| DOMAIN-SUFFIX | 113425  | 
+| IP-CIDR | 12312  | 
+| TOTAL | 126119  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

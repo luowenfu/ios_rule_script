@@ -189,6 +189,10 @@ ChinaMax排除相关IP规则版本
 | TOTAL | 113472  | 
 | DOMAIN-SUFFIX | 113122  | 
 | TOTAL | 113460  | 
+最后更新时间：2026-05-22 02:42:12
+| DOMAIN | 302  | 
+| DOMAIN-SUFFIX | 113097  | 
+| TOTAL | 113426  | 
 ## Clash 
 #### 使用说明
 - ChinaMaxNoIP.yaml，请使用 behavior: "classical"。
