@@ -215,6 +215,9 @@
 # UPDATED: 2026-05-24 02:23:21
 # DOMAIN-SUFFIX: 34031
 # TOTAL: 34308
+# UPDATED: 2026-05-26 02:35:15
+# DOMAIN-SUFFIX: 34033
+# TOTAL: 34310
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -8089,6 +8092,7 @@ login.microsoftonline.com
 .e-tugra.com
 .e3an.ac.uk
 .e5.sk
+.e53w.com
 .ea-anz-press.com
 .ea.com
 .eaaccess.com
@@ -20309,6 +20313,7 @@ login.microsoftonline.com
 .qbmengmei6.mom
 .qbsc.ac.uk
 .qckprn.com
+.qcmod.xyz
 .qcomgeo2.com
 .qctconnect.com
 .qdiehzz7.me
