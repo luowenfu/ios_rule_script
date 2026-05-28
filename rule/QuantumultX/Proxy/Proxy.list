@@ -130,6 +130,9 @@
 # UPDATED: 2026-05-24 02:23:42
 # HOST-SUFFIX: 7126
 # TOTAL: 7276
+# UPDATED: 2026-05-28 02:48:37
+# HOST-SUFFIX: 7127
+# TOTAL: 7277
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4200,6 +4203,7 @@ HOST-SUFFIX,mousebreaker.com,Proxy
 HOST-SUFFIX,movements.org,Proxy
 HOST-SUFFIX,moves-export.com,Proxy
 HOST-SUFFIX,moviefap.com,Proxy
+HOST-SUFFIX,mozilla.ai,Proxy
 HOST-SUFFIX,mozilla.org,Proxy
 HOST-SUFFIX,moztw.org,Proxy
 HOST-SUFFIX,mp3buscador.com,Proxy

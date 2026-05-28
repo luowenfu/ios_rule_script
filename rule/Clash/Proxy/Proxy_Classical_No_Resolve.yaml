@@ -133,6 +133,9 @@
 # UPDATED: 2026-05-24 02:23:41
 # DOMAIN-SUFFIX: 6646
 # TOTAL: 6778
+# UPDATED: 2026-05-28 02:48:36
+# DOMAIN-SUFFIX: 6647
+# TOTAL: 6779
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -3799,6 +3802,7 @@ payload:
   - DOMAIN-SUFFIX,movements.org
   - DOMAIN-SUFFIX,moves-export.com
   - DOMAIN-SUFFIX,moviefap.com
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,moztw.org
   - DOMAIN-SUFFIX,mp3buscador.com

@@ -78,6 +78,7 @@
 # UPDATED: 2026-05-22 02:38:42
 # UPDATED: 2026-05-24 02:22:05
 # UPDATED: 2026-05-26 02:34:12
+# UPDATED: 2026-05-28 02:46:54
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1276,7 +1277,6 @@ payload:
   - DOMAIN-SUFFIX,applepaysupplies.tv
   - DOMAIN-SUFFIX,applewallet.com
   - DOMAIN-SUFFIX,applewallet.tv
-  - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,appstore.co.id
   - DOMAIN-SUFFIX,appstore.com
   - DOMAIN-SUFFIX,appstore.hk
@@ -1552,7 +1552,6 @@ payload:
   - DOMAIN-SUFFIX,wwwipodlounge.com
   - DOMAIN-SUFFIX,wwwmacbookair.com
   - DOMAIN-SUFFIX,apple.comscoreresearch.com
-  - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,appleenews.com
   - DOMAIN-SUFFIX,applemusic.berlin
   - DOMAIN-SUFFIX,applemusic.co
@@ -1590,6 +1589,9 @@ payload:
   - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-icloud.cn
@@ -1597,7 +1599,6 @@ payload:
   - DOMAIN-SUFFIX,appleicloud.cn
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,apzones.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com

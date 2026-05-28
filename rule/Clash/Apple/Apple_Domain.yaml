@@ -78,6 +78,7 @@
 # UPDATED: 2026-05-22 02:38:42
 # UPDATED: 2026-05-24 02:22:05
 # UPDATED: 2026-05-26 02:34:12
+# UPDATED: 2026-05-28 02:46:54
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1276,7 +1277,6 @@ payload:
   - '+.applepaysupplies.tv'
   - '+.applewallet.com'
   - '+.applewallet.tv'
-  - '+.appsto.re'
   - '+.appstore.co.id'
   - '+.appstore.com'
   - '+.appstore.hk'
@@ -1552,7 +1552,6 @@ payload:
   - '+.wwwipodlounge.com'
   - '+.wwwmacbookair.com'
   - '+.apple.comscoreresearch.com'
-  - '+.apple.news'
   - '+.appleenews.com'
   - '+.applemusic.berlin'
   - '+.applemusic.co'
@@ -1590,6 +1589,9 @@ payload:
   - '+.musickit.net'
   - '+.wwwapplemusic.com'
   - '+.apple-dns.net'
+  - '+.apple.news'
+  - '+.appsto.re'
+  - '+.cdn-apple.com'
   - '+.digicert.com'
   - '+.apple-cloudkit.com'
   - '+.apple-icloud.cn'
@@ -1597,7 +1599,6 @@ payload:
   - '+.appleicloud.cn'
   - '+.applemx-icloud.com'
   - '+.apzones.com'
-  - '+.cdn-apple.com'
   - '+.icloud-apple.cn'
   - '+.icloud-content.com'
   - '+.icloud-isupport.com'

@@ -65,6 +65,8 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 124  | 
 最后更新时间：2026-05-26 02:36:15
 | DOMAIN | 140  | 
+最后更新时间：2026-05-28 02:49:30
+| DOMAIN | 116  | 
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
@@ -158,6 +160,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-05-20 02:40:19
 最后更新时间：2026-05-22 02:41:17
 最后更新时间：2026-05-24 02:24:35
+| TOTAL | 246  | 
 ## Surge 
 #### 使用说明
 - PrivateTracker.list，请使用RULE-SET。
