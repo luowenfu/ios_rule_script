@@ -221,6 +221,9 @@
 # UPDATED: 2026-05-28 02:48:14
 # DOMAIN-SUFFIX: 34034
 # TOTAL: 34311
+# UPDATED: 2026-05-30 02:54:16
+# DOMAIN-SUFFIX: 34068
+# TOTAL: 34345
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -7779,7 +7782,6 @@ login.microsoftonline.com
 .douzinnsi-eromannga.com
 .dovercollege.ac.uk
 .dovertechnicalcollege.ac.uk
-.dowjones.io
 .dowjoneson.com
 .download.com
 .download.qatp1.net
@@ -8509,6 +8511,7 @@ login.microsoftonline.com
 .electronicsignature.ru
 .electronjs.org
 .element.io
+.elementary.io
 .elephantlist.com
 .elephantsdream.org
 .elephanttube.com
@@ -10832,6 +10835,7 @@ login.microsoftonline.com
 .gnailapp.sbs
 .gnatwork.ac.uk
 .gnom-cham.com
+.gnome.org
 .gnu.org
 .gnzi.xyz
 .gnzi1.top
@@ -11723,6 +11727,7 @@ login.microsoftonline.com
 .helf.ac.uk
 .hellofuture.ac.uk
 .hellokittybeats.com
+.hellomoto.com
 .hellosmartbook.com
 .hellporno.com
 .hellven.net
@@ -14378,6 +14383,7 @@ login.microsoftonline.com
 .kclwave.ac.uk
 .kcollege.ac.uk
 .kcqsw-na.sbs
+.kde.org
 .kdfuli.com
 .kdy202312.shop
 .ke-westyorkshire.ac.uk
@@ -15379,6 +15385,7 @@ login.microsoftonline.com
 .lww-cetl.ac.uk
 .lwwcn.buzz
 .lwwcn.xyz
+.lxqt-project.org
 .lxxlxx.com
 .ly.gov.tw
 .lyellcentre.ac.uk
@@ -15788,6 +15795,7 @@ login.microsoftonline.com
 .mat6tube.com
 .match.ac.uk
 .matchmover.com
+.mate-desktop.org
 .materials.ac.uk
 .materialsnexus.ac.uk
 .mathcentre.ac.uk
@@ -16827,7 +16835,31 @@ login.microsoftonline.com
 .motherwell.ac.uk
 .motiongraphicsandmore.com
 .motionpictureser.com
+.moto.com
 .motolia.com
+.motorola.ca
+.motorola.cl
+.motorola.co
+.motorola.co.id
+.motorola.co.jp
+.motorola.co.th
+.motorola.co.uk
+.motorola.com
+.motorola.com.au
+.motorola.com.co
+.motorola.com.pe
+.motorola.com.pr
+.motorola.de
+.motorola.es
+.motorola.fr
+.motorola.gr
+.motorola.in
+.motorola.it
+.motorola.net
+.motorola.vn
+.motorolacareers.com
+.motorolanews.com
+.motorolasolutions.com
 .motorshowblog.com
 .mottainai.info
 .moulton.ac.uk
@@ -19495,6 +19527,7 @@ login.microsoftonline.com
 .plansondemand.com
 .plant-phenomics.ac.uk
 .plantsvszombies2.com
+.plasma-mobile.org
 .plasticlabs.com
 .plastics-cadcam.com
 .platiecom.ru
@@ -23366,6 +23399,7 @@ login.microsoftonline.com
 .syntheticbiology.ac.uk
 .sysinternals.com
 .sysmic.ac.uk
+.system76.com
 .systemicrisk.ac.uk
 .syzbj36.xyz
 .szabadeuropa.hu
@@ -26580,6 +26614,7 @@ login.microsoftonline.com
 .xenoblade.com
 .xeon.com
 .xfantazy.com
+.xfce.org
 .xfemaledom.com
 .xfockers.com
 .xfreehd.com
@@ -26614,6 +26649,7 @@ login.microsoftonline.com
 .xiaoshuobb.life
 .xiaoyaoge.xyz
 .xie56.xyz
+.xin21.xyz
 .xinaia-av.buzz
 .xindelu.com
 .xinfhw.com
@@ -29295,6 +29331,7 @@ login.microsoftonline.com
 .doujincafe.com
 .dowei.org
 .dowjones.com
+.dowjones.io
 .download.dappcdn.com
 .dphk.org
 .dpool.top

@@ -67,6 +67,7 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 140  | 
 最后更新时间：2026-05-28 02:49:30
 | DOMAIN | 116  | 
+最后更新时间：2026-05-30 02:55:32
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 4  | 
