@@ -310,6 +310,10 @@
 # DOMAIN-SUFFIX: 112700
 # IP-CIDR: 12344
 # TOTAL: 125423
+# UPDATED: 2026-06-01 02:29:33
+# DOMAIN-SUFFIX: 112699
+# IP-CIDR: 12348
+# TOTAL: 125426
 .0.zone
 .00.net
 .000.link
@@ -13232,7 +13236,6 @@
 .aryasec.com
 .as-doll.com
 .as-hitech.com
-.as.mr
 .as16.com
 .as3f.com
 .as5.com

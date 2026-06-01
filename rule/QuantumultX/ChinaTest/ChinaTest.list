@@ -121,6 +121,8 @@
 # HOST-SUFFIX: 113157
 # UPDATED: 2026-05-30 02:54:56
 # HOST-SUFFIX: 113074
+# UPDATED: 2026-06-01 02:27:27
+# HOST-SUFFIX: 113073
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -179,6 +181,7 @@
 # TOTAL: 113566
 # TOTAL: 113341
 # TOTAL: 113258
+# TOTAL: 113257
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -16746,7 +16749,6 @@ HOST-SUFFIX,arvinhk.com,ChinaTest
 HOST-SUFFIX,aryasec.com,ChinaTest
 HOST-SUFFIX,as-doll.com,ChinaTest
 HOST-SUFFIX,as-hitech.com,ChinaTest
-HOST-SUFFIX,as.mr,ChinaTest
 HOST-SUFFIX,as16.com,ChinaTest
 HOST-SUFFIX,as3f.com,ChinaTest
 HOST-SUFFIX,as5.com,ChinaTest

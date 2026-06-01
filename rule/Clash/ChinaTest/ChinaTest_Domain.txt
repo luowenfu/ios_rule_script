@@ -177,6 +177,9 @@
 # UPDATED: 2026-05-30 02:55:01
 # DOMAIN-SUFFIX: 113074
 # TOTAL: 113226
+# UPDATED: 2026-06-01 02:27:31
+# DOMAIN-SUFFIX: 113073
+# TOTAL: 113225
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -16744,7 +16747,6 @@ xtratime.qcomgeo2.com
 .aryasec.com
 .as-doll.com
 .as-hitech.com
-.as.mr
 .as16.com
 .as3f.com
 .as5.com

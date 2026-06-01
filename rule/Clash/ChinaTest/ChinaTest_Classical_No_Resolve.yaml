@@ -177,6 +177,9 @@
 # UPDATED: 2026-05-30 02:55:00
 # DOMAIN-SUFFIX: 113074
 # TOTAL: 113226
+# UPDATED: 2026-06-01 02:27:31
+# DOMAIN-SUFFIX: 113073
+# TOTAL: 113225
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -16745,7 +16748,6 @@ payload:
   - DOMAIN-SUFFIX,aryasec.com
   - DOMAIN-SUFFIX,as-doll.com
   - DOMAIN-SUFFIX,as-hitech.com
-  - DOMAIN-SUFFIX,as.mr
   - DOMAIN-SUFFIX,as16.com
   - DOMAIN-SUFFIX,as3f.com
   - DOMAIN-SUFFIX,as5.com

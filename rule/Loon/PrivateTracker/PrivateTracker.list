@@ -73,6 +73,7 @@
 # DOMAIN: 116
 # UPDATED: 2026-05-30 02:55:32
 # DOMAIN: 134
+# UPDATED: 2026-06-01 02:28:02
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
@@ -100,6 +101,7 @@
 # TOTAL: 245
 # TOTAL: 252
 # TOTAL: 243
+# TOTAL: 260
 DOMAIN,004430.xyz
 DOMAIN,0123456789nonexistent.com
 # UPDATED: 2025-12-26 02:09:26
@@ -145,7 +147,6 @@ DOMAIN,0d.kebhana.mx
 # UPDATED: 2026-02-08 02:10:57
 # DOMAIN: 117
 # TOTAL: 247
-# TOTAL: 260
 # UPDATED: 2026-03-26 02:23:42
 # UPDATED: 2026-03-28 02:22:03
 # UPDATED: 2026-03-30 02:13:28
@@ -168,21 +169,18 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
-DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,coeus.torrentonline.cc
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
-DOMAIN,explodie.org
-DOMAIN,home.yxgz.club
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,obey.torrentonline.cc
 DOMAIN,open.demonii.com
+DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
@@ -192,16 +190,12 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
-DOMAIN,retracker.spark-rostov.ru
-DOMAIN,seeders-paradise.org
+DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
 DOMAIN,shahidrazi.online
-DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
-DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
-DOMAIN,torrent.bowed.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
@@ -212,16 +206,18 @@ DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr.zukizuki.org
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
-DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bug38.com
 DOMAIN,tracker.bz
@@ -239,13 +235,13 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
+DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
-DOMAIN,tracker.lintk.me
+DOMAIN,tracker.manager.itislove.cz
 DOMAIN,tracker.manager.v6.navy
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.vc
@@ -261,12 +257,14 @@ DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
+DOMAIN,tracker.sharebro.in
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.wepzone.net
@@ -295,7 +293,6 @@ DOMAIN,udp.tracker.projectk.org
 DOMAIN,v6.vito-tracker.space
 DOMAIN,vito-tracker.duckdns.org
 DOMAIN,whybother.torrentonline.cc
-DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
