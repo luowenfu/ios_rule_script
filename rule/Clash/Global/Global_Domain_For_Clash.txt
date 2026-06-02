@@ -227,6 +227,9 @@
 # UPDATED: 2026-06-01 02:26:46
 # DOMAIN-SUFFIX: 34072
 # TOTAL: 34349
+# UPDATED: 2026-06-02 03:41:16
+# DOMAIN-SUFFIX: 34074
+# TOTAL: 34351
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -16466,7 +16469,6 @@ login.microsoftonline.com
 +.minim.ac.uk
 +.minimarkham.ca
 +.minimarkham.com
-+.minimax.io
 +.minimoncton.ca
 +.minimoncton.com
 +.minimontrealcentre.ca
@@ -26638,8 +26640,11 @@ login.microsoftonline.com
 +.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
++.xhnews.live
 +.xhot.pro
++.xhpingcdn.com
 +.xhpjc6-cdn-settings.appsflyersdk.com
++.xhreal5.com
 +.xhub.tv
 +.xiangrikui-app.com
 +.xianir.xyz
