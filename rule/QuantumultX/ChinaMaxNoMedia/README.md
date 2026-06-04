@@ -355,6 +355,11 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8202  | 
 | IP6-CIDR | 4142  | 
 | TOTAL | 125374  | 
+最后更新时间：2026-06-04 03:22:31
+| HOST-SUFFIX | 112536  | 
+| IP-CIDR | 8198  | 
+| IP6-CIDR | 4147  | 
+| TOTAL | 125262  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoMedia.list 单独使用。

@@ -82,6 +82,7 @@
 # UPDATED: 2026-05-30 02:52:57
 # UPDATED: 2026-06-01 02:25:27
 # UPDATED: 2026-06-02 03:39:57
+# UPDATED: 2026-06-04 03:18:28
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1282,7 +1283,6 @@ p-events-delivery.akamaized.net
 +.applepaysupplies.tv
 +.applewallet.com
 +.applewallet.tv
-+.appsto.re
 +.appstore.co.id
 +.appstore.com
 +.appstore.hk
@@ -1643,6 +1643,7 @@ p-events-delivery.akamaized.net
 +.wwwapplemusic.com
 +.apple-dns.net
 +.apple.news
++.appsto.re
 +.cdn-apple.com
 +.digicert.com
 +.apple-cloudkit.com
