@@ -240,6 +240,9 @@
 # UPDATED: 2026-06-08 02:30:48
 # DOMAIN-SUFFIX: 34296
 # TOTAL: 34572
+# UPDATED: 2026-06-10 02:47:25
+# DOMAIN-SUFFIX: 34297
+# TOTAL: 34573
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -18227,6 +18230,7 @@ DOMAIN-SUFFIX,norwichresearchpark.ac.uk
 DOMAIN-SUFFIX,noticias-rt.com
 DOMAIN-SUFFIX,notimundo.press
 DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion-status.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site

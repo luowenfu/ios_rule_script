@@ -240,6 +240,9 @@
 # UPDATED: 2026-06-08 02:30:48
 # DOMAIN-SUFFIX: 34296
 # TOTAL: 34572
+# UPDATED: 2026-06-10 02:47:25
+# DOMAIN-SUFFIX: 34297
+# TOTAL: 34573
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -18228,6 +18231,7 @@ payload:
   - '+.noticias-rt.com'
   - '+.notimundo.press'
   - '+.notion-static.com'
+  - '+.notion-status.com'
   - '+.notion.com'
   - '+.notion.new'
   - '+.notion.site'

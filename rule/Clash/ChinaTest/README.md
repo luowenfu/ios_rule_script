@@ -55,6 +55,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-06-04 03:20:33
 最后更新时间：2026-06-06 02:42:20
 最后更新时间：2026-06-08 02:31:32
+最后更新时间：2026-06-10 02:48:08
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -200,6 +201,8 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 112939  | 
 | DOMAIN-SUFFIX | 112720  | 
 | TOTAL | 112872  | 
+| DOMAIN-SUFFIX | 112744  | 
+| TOTAL | 112896  | 
 ## Clash 
 #### 使用说明
 - ChinaTest.yaml，请使用 behavior: "classical"。
