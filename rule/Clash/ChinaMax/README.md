@@ -381,6 +381,11 @@
 | IP-CIDR | 8218  | 
 | IP-CIDR6 | 4139  | 
 | TOTAL | 125515  | 
+最后更新时间：2026-06-14 02:34:30
+| DOMAIN-SUFFIX | 112713  | 
+| IP-CIDR | 8228  | 
+| IP-CIDR6 | 4134  | 
+| TOTAL | 125406  | 
 ## Clash 
 #### 使用说明
 - ChinaMax.yaml，请使用 behavior: "classical"。

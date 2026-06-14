@@ -220,6 +220,9 @@ ChinaMax排除相关IP规则版本
 | TOTAL | 112872  | 
 | DOMAIN-SUFFIX | 112499  | 
 | TOTAL | 112880  | 
+最后更新时间：2026-06-14 02:35:05
+| DOMAIN-SUFFIX | 112386  | 
+| TOTAL | 112766  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMaxNoIP.list，请使用RULE-SET。
