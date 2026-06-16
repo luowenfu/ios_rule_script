@@ -92,10 +92,11 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-06-10 02:47:24
 最后更新时间：2026-06-12 03:03:08
 最后更新时间：2026-06-14 02:32:49
+最后更新时间：2026-06-16 03:23:31
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 123  | 
+| DOMAIN | 125  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32348  | 
@@ -173,6 +174,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 34297  | 
 | DOMAIN-SUFFIX | 34337  | 
 | DOMAIN-SUFFIX | 34354  | 
+| DOMAIN-SUFFIX | 34399  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
@@ -254,6 +256,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 34619  | 
 | TOTAL | 34659  | 
 | TOTAL | 34676  | 
+| TOTAL | 34723  | 
 ## Surge 
 #### 使用说明
 - Global.list，请使用RULE-SET。
