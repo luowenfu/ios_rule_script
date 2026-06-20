@@ -358,6 +358,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 22131  | 
 | IP-CIDR6 | 6568  | 
 | TOTAL | 28699  | 
+最后更新时间：2026-06-20 02:42:07
+| IP-CIDR | 22649  | 
+| IP-CIDR6 | 6564  | 
+| TOTAL | 29213  | 
 ## Surge 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。

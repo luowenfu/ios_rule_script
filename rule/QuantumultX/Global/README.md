@@ -280,6 +280,10 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 748  | 
 | HOST-SUFFIX | 34447  | 
 | TOTAL | 35393  | 
+最后更新时间：2026-06-20 02:40:40
+| HOST | 750  | 
+| HOST-SUFFIX | 34464  | 
+| TOTAL | 35412  | 
 ## QuantumultX 
 #### 配置建议
 - Global.list 单独使用。
