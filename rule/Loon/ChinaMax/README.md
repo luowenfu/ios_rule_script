@@ -405,6 +405,11 @@
 | DOMAIN-SUFFIX | 112302  | 
 | IP-CIDR6 | 4137  | 
 | TOTAL | 125072  | 
+最后更新时间：2026-06-24 02:47:16
+| DOMAIN | 289  | 
+| DOMAIN-SUFFIX | 112261  | 
+| IP-CIDR6 | 4136  | 
+| TOTAL | 125021  | 
 ## Loon 
 #### 文件区别
 - ChinaMax_Resolve.list与ChinaMax.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。

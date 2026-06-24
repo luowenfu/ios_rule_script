@@ -276,6 +276,10 @@
 # HOST: 752
 # HOST-SUFFIX: 34509
 # TOTAL: 35459
+# UPDATED: 2026-06-24 02:45:52
+# HOST: 753
+# HOST-SUFFIX: 34511
+# TOTAL: 35462
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1003,6 +1007,7 @@ HOST,wwis-dubc1-vip97.adobe.com,Global
 HOST,wwis-dubc1-vip98.adobe.com,Global
 HOST,wwis-dubc1-vip99.adobe.com,Global
 HOST,www-cdn.icloud.com.akadns.net,Global
+HOST,www.microsoft.com,Global
 HOST,www.quora.com.cdn.cloudflare.net,Global
 HOST,yangzhi.app,Global
 HOST,yt3.googleusercontent.com,Global
@@ -11534,8 +11539,10 @@ HOST-SUFFIX,gofile.me,Global
 HOST-SUFFIX,gofit.ac.uk,Global
 HOST-SUFFIX,gofucker.com,Global
 HOST-SUFFIX,gofuckmenow.com,Global
+HOST-SUFFIX,gog-services.com,Global
 HOST-SUFFIX,gog-statics.com,Global
 HOST-SUFFIX,gog.com,Global
+HOST-SUFFIX,gogalaxy.com,Global
 HOST-SUFFIX,gogeo.ac.uk,Global
 HOST-SUFFIX,gogettaxi.org,Global
 HOST-SUFFIX,gogle.com,Global

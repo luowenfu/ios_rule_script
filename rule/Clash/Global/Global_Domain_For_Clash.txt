@@ -262,6 +262,9 @@
 # DOMAIN: 126
 # DOMAIN-SUFFIX: 34474
 # TOTAL: 34753
+# UPDATED: 2026-06-24 02:45:29
+# DOMAIN-SUFFIX: 34476
+# TOTAL: 34755
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -11006,8 +11009,10 @@ login.microsoftonline.com
 +.gofit.ac.uk
 +.gofucker.com
 +.gofuckmenow.com
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogeo.ac.uk
 +.gogettaxi.org
 +.gogle.com
