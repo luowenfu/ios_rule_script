@@ -370,6 +370,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 22910  | 
 | IP-CIDR6 | 6597  | 
 | TOTAL | 29507  | 
+最后更新时间：2026-06-26 02:50:21
+| IP-CIDR | 22706  | 
+| IP-CIDR6 | 6600  | 
+| TOTAL | 29306  | 
 ## Surge 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。

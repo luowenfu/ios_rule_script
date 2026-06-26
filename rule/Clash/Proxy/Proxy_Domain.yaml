@@ -151,6 +151,9 @@
 # UPDATED: 2026-06-22 02:36:09
 # DOMAIN-SUFFIX: 6729
 # TOTAL: 6861
+# UPDATED: 2026-06-26 02:48:57
+# DOMAIN-SUFFIX: 6730
+# TOTAL: 6862
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -2386,6 +2389,7 @@ payload:
   - '+.geph.io'
   - '+.gerefoundation.org'
   - '+.get.app'
+  - '+.get.dappcdn.com'
   - '+.get.dev'
   - '+.get.how'
   - '+.get.page'

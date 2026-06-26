@@ -148,6 +148,9 @@
 # UPDATED: 2026-06-22 02:36:10
 # HOST-SUFFIX: 7200
 # TOTAL: 7350
+# UPDATED: 2026-06-26 02:48:58
+# HOST-SUFFIX: 7201
+# TOTAL: 7351
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -2505,6 +2508,7 @@ HOST-SUFFIX,geocities.jp,Proxy
 HOST-SUFFIX,geph.io,Proxy
 HOST-SUFFIX,gerefoundation.org,Proxy
 HOST-SUFFIX,get.app,Proxy
+HOST-SUFFIX,get.dappcdn.com,Proxy
 HOST-SUFFIX,get.dev,Proxy
 HOST-SUFFIX,get.how,Proxy
 HOST-SUFFIX,get.page,Proxy

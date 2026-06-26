@@ -151,6 +151,9 @@
 # UPDATED: 2026-06-22 02:36:09
 # DOMAIN-SUFFIX: 6729
 # TOTAL: 6861
+# UPDATED: 2026-06-26 02:48:57
+# DOMAIN-SUFFIX: 6730
+# TOTAL: 6862
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -2385,6 +2388,7 @@ DOMAIN-SUFFIX,geocities.jp
 DOMAIN-SUFFIX,geph.io
 DOMAIN-SUFFIX,gerefoundation.org
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,get.page

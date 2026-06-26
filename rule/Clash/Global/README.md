@@ -97,10 +97,11 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-06-20 02:40:21
 最后更新时间：2026-06-22 02:35:47
 最后更新时间：2026-06-24 02:45:29
+最后更新时间：2026-06-26 02:48:38
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 126  | 
+| DOMAIN | 125  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32372  | 
@@ -268,6 +269,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 34753  | 
 | DOMAIN-SUFFIX | 34476  | 
 | TOTAL | 34755  | 
+| DOMAIN-SUFFIX | 34488  | 
+| TOTAL | 34766  | 
 ## Clash 
 #### 使用说明
 - Global.yaml，请使用 behavior: "classical"。
