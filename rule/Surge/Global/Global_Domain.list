@@ -180,6 +180,8 @@
 # DOMAIN-SUFFIX: 34476
 # UPDATED: 2026-06-26 02:48:36
 # DOMAIN-SUFFIX: 34488
+# UPDATED: 2026-06-28 02:29:20
+# DOMAIN-SUFFIX: 34489
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -267,6 +269,7 @@
 # TOTAL: 34799
 # TOTAL: 34801
 # TOTAL: 34812
+# TOTAL: 34813
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -7783,6 +7786,7 @@
 .crbug.com
 .crchina.org
 .crd-net.org
+.creader.com
 .creaders.net
 .creadersnet.com
 .cream.ac.uk

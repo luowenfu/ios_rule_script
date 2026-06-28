@@ -154,6 +154,9 @@
 # UPDATED: 2026-06-26 02:48:57
 # DOMAIN-SUFFIX: 6730
 # TOTAL: 6862
+# UPDATED: 2026-06-28 02:29:41
+# DOMAIN-SUFFIX: 6731
+# TOTAL: 6863
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -1423,6 +1426,7 @@ payload:
   - DOMAIN-SUFFIX,crbug.com
   - DOMAIN-SUFFIX,crchina.org
   - DOMAIN-SUFFIX,crd-net.org
+  - DOMAIN-SUFFIX,creader.com
   - DOMAIN-SUFFIX,creaders.net
   - DOMAIN-SUFFIX,creadersnet.com
   - DOMAIN-SUFFIX,creativelab5.com

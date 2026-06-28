@@ -151,6 +151,9 @@
 # UPDATED: 2026-06-26 02:48:58
 # HOST-SUFFIX: 7201
 # TOTAL: 7351
+# UPDATED: 2026-06-28 02:29:42
+# HOST-SUFFIX: 7202
+# TOTAL: 7352
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1512,6 +1515,7 @@ HOST-SUFFIX,crazyshit.com,Proxy
 HOST-SUFFIX,crbug.com,Proxy
 HOST-SUFFIX,crchina.org,Proxy
 HOST-SUFFIX,crd-net.org,Proxy
+HOST-SUFFIX,creader.com,Proxy
 HOST-SUFFIX,creaders.net,Proxy
 HOST-SUFFIX,creadersnet.com,Proxy
 HOST-SUFFIX,creativelab5.com,Proxy

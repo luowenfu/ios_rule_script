@@ -81,6 +81,9 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 703  | 
 | HOST-KEYWORD | 36  | 
 | HOST-SUFFIX | 32394  | 
+最后更新时间：2026-06-28 02:29:40
+| HOST | 752  | 
+| HOST-SUFFIX | 34524  | 
 | IP-CIDR | 112  | 
 | IP6-CIDR | 4  | 
 | USER-AGENT | 46  | 
@@ -286,7 +289,6 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST-SUFFIX | 34464  | 
 | TOTAL | 35412  | 
 最后更新时间：2026-06-22 02:36:08
-| HOST | 752  | 
 | HOST-SUFFIX | 34509  | 
 | TOTAL | 35459  | 
 最后更新时间：2026-06-24 02:45:52
