@@ -160,6 +160,9 @@
 # UPDATED: 2026-06-30 02:45:14
 # DOMAIN-SUFFIX: 6746
 # TOTAL: 6878
+# UPDATED: 2026-07-02 02:44:03
+# DOMAIN-SUFFIX: 6747
+# TOTAL: 6879
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -1941,6 +1944,7 @@ DOMAIN-SUFFIX,expekt.com
 DOMAIN-SUFFIX,experts-univers.com
 DOMAIN-SUFFIX,exploader.net
 DOMAIN-SUFFIX,expofutures.com
+DOMAIN-SUFFIX,expressnews.com
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,exrates.me
 DOMAIN-SUFFIX,extmatrix.com

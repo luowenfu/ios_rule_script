@@ -288,6 +288,9 @@
 # UPDATED: 2026-06-30 02:45:13
 # HOST-SUFFIX: 34543
 # TOTAL: 35493
+# UPDATED: 2026-07-02 02:44:02
+# HOST-SUFFIX: 34544
+# TOTAL: 35494
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -30277,6 +30280,7 @@ HOST-SUFFIX,expekt.com,Global
 HOST-SUFFIX,experts-univers.com,Global
 HOST-SUFFIX,exploader.net,Global
 HOST-SUFFIX,expofutures.com,Global
+HOST-SUFFIX,expressnews.com,Global
 HOST-SUFFIX,expressvpn.com,Global
 HOST-SUFFIX,exrates.me,Global
 HOST-SUFFIX,extmatrix.com,Global
