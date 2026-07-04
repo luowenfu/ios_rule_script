@@ -277,6 +277,9 @@
 # UPDATED: 2026-07-02 02:43:41
 # DOMAIN-SUFFIX: 34509
 # TOTAL: 34787
+# UPDATED: 2026-07-04 02:32:59
+# DOMAIN-SUFFIX: 34520
+# TOTAL: 34798
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -4179,6 +4182,7 @@ login.microsoftonline.com
 .blackstonespoliceservice.com
 .blacktowhite.net
 .blake.ac.uk
+.blanc.ru
 .blaoshi.cc
 .blast.io
 .blazor.net
@@ -4860,6 +4864,7 @@ login.microsoftonline.com
 .bostoncentre.ac.uk
 .boswp.com
 .botframework.com
+.botim.me
 .botmechanic.io
 .botorch.org
 .botstop.com
@@ -6570,6 +6575,7 @@ login.microsoftonline.com
 .coova.net
 .coova.org
 .copac.ac.uk
+.copilot.com
 .copim.ac.uk
 .copior.ac.uk
 .copro.pw
@@ -12323,6 +12329,9 @@ login.microsoftonline.com
 .horizontal-systems.com
 .horizontalglue.com
 .horizontalsystems.com
+.hornet.com
+.hornetapp.com
+.hornetx.com
 .horniman.ac.uk
 .hornyasianmilfs.com
 .hornybitches.org
@@ -15240,6 +15249,7 @@ login.microsoftonline.com
 .listerpostgraduate.ac.uk
 .listinganalytics.net
 .litbus-anime.com
+.litecoin.org
 .literatumonline.com
 .literotica.com
 .litt.ac.uk
@@ -17794,7 +17804,9 @@ login.microsoftonline.com
 .netflixtechblog.com
 .netlab.ac.uk
 .netlify.com
+.netlifydns.com
 .netlifystatus.com
+.netlifyusercontent.com
 .netlock.hu
 .netname.com.br
 .netpornsex.com
@@ -18441,6 +18453,7 @@ login.microsoftonline.com
 .ntec.ac.uk
 .ntfs.ac.uk
 .ntidagenham.ac.uk
+.ntl.fyi
 .ntnews.com.au
 .ntp-os01.ocn.ad.jp
 .ntp-tk01.ocn.ad.jp
@@ -34429,6 +34442,7 @@ login.microsoftonline.com
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com

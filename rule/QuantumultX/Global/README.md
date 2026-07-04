@@ -303,6 +303,10 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 35493  | 
 | HOST-SUFFIX | 34544  | 
 | TOTAL | 35494  | 
+最后更新时间：2026-07-04 02:33:19
+| HOST | 755  | 
+| HOST-SUFFIX | 34555  | 
+| TOTAL | 35508  | 
 ## QuantumultX 
 #### 配置建议
 - Global.list 单独使用。

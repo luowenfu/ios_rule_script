@@ -186,6 +186,8 @@
 # DOMAIN-SUFFIX: 34508
 # UPDATED: 2026-07-02 02:43:40
 # DOMAIN-SUFFIX: 34509
+# UPDATED: 2026-07-04 02:32:57
+# DOMAIN-SUFFIX: 34520
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -276,6 +278,7 @@
 # TOTAL: 34813
 # TOTAL: 34832
 # TOTAL: 34833
+# TOTAL: 34844
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -4729,6 +4732,7 @@
 .blacktowhite.net
 .blackvpn.com
 .blake.ac.uk
+.blanc.ru
 .blaoshi.cc
 .blast.io
 .blazor.net
@@ -5470,6 +5474,7 @@
 .bot.nu
 .botanwang.com
 .botframework.com
+.botim.me
 .botmechanic.io
 .botorch.org
 .botstop.com
@@ -7655,6 +7660,7 @@
 .coova.net
 .coova.org
 .copac.ac.uk
+.copilot.com
 .copim.ac.uk
 .copior.ac.uk
 .copro.pw
@@ -14815,6 +14821,9 @@
 .horizontal-systems.com
 .horizontalglue.com
 .horizontalsystems.com
+.hornet.com
+.hornetapp.com
+.hornetx.com
 .horniman.ac.uk
 .hornyasianmilfs.com
 .hornybitches.org
@@ -18412,6 +18421,7 @@
 .listinganalytics.net
 .listorious.com
 .litbus-anime.com
+.litecoin.org
 .litenews.hk
 .literatumonline.com
 .literotica.com
@@ -21511,7 +21521,9 @@
 .netlab.ac.uk
 .netlify.app
 .netlify.com
+.netlifydns.com
 .netlifystatus.com
+.netlifyusercontent.com
 .netlock.hu
 .netmarble.com
 .netme.cc
@@ -22311,6 +22323,7 @@
 .ntec.ac.uk
 .ntfs.ac.uk
 .ntidagenham.ac.uk
+.ntl.fyi
 .ntnews.com.au
 .ntp-os01.ocn.ad.jp
 .ntp-tk01.ocn.ad.jp
@@ -32455,6 +32468,7 @@
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com
