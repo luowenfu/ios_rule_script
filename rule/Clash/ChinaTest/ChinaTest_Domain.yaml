@@ -230,6 +230,9 @@
 # UPDATED: 2026-07-04 02:33:44
 # DOMAIN-SUFFIX: 111983
 # TOTAL: 112121
+# UPDATED: 2026-07-06 03:09:51
+# DOMAIN-SUFFIX: 111989
+# TOTAL: 112127
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -15866,6 +15869,7 @@ payload:
   - '+.anqingzhiyun.com'
   - '+.anqn.com'
   - '+.anqu.com'
+  - '+.anquan'
   - '+.anquan.info'
   - '+.anquanbao.com'
   - '+.anquanjs.com'
@@ -35313,7 +35317,6 @@ payload:
   - '+.embryochina.com'
   - '+.embsky.com'
   - '+.emby.men'
-  - '+.emby.yun'
   - '+.embyvip.org'
   - '+.emcbj.com'
   - '+.emcdir.com'
@@ -83268,6 +83271,7 @@ payload:
   - '+.shouhuisoft.com'
   - '+.shouhuojiyun.com'
   - '+.shouhuola.com'
+  - '+.shouji'
   - '+.shouji.com'
   - '+.shouji.racing'
   - '+.shouji10086.com'
@@ -84157,6 +84161,7 @@ payload:
   - '+.simwe.com'
   - '+.simxhs.com'
   - '+.sin0sites.com'
+  - '+.sina'
   - '+.sina-cf.com'
   - '+.sina.lt'
   - '+.sinacdn.com'
@@ -95604,6 +95609,7 @@ payload:
   - '+.weibangong.com'
   - '+.weibanzhushou.com'
   - '+.weibilamp.com'
+  - '+.weibo'
   - '+.weibo.tv'
   - '+.weibochem.com'
   - '+.weiboi.com'
@@ -100221,6 +100227,7 @@ payload:
   - '+.xihazsww.com'
   - '+.xihegp.com'
   - '+.xiherencai.com'
+  - '+.xihuan'
   - '+.xihuan.me'
   - '+.xihusgh.com'
   - '+.xiimoon.com'
@@ -101496,6 +101503,7 @@ payload:
   - '+.xn--91-y60d638c.xyz'
   - '+.xn--9et52u'
   - '+.xn--9kr72kqwe.com'
+  - '+.xn--9krt00a'
   - '+.xn--9myo55bi8l.com'
   - '+.xn--9pr56vfna007k.com'
   - '+.xn--9pry86bq5ex68c.org'
@@ -106687,6 +106695,7 @@ payload:
   - '+.yumingyouhui.com'
   - '+.yummy.tech'
   - '+.yumstone.com'
+  - '+.yun'
   - '+.yun-ac.com'
   - '+.yun-dns.com'
   - '+.yun-gu.com'

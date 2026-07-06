@@ -388,6 +388,9 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 21856  | 
 | IP-CIDR6 | 6553  | 
 | TOTAL | 28409  | 
+最后更新时间：2026-07-06 03:11:01
+| IP-CIDR | 21922  | 
+| TOTAL | 28482  | 
 ## Surge 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。

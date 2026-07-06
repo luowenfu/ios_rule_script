@@ -280,6 +280,9 @@
 # UPDATED: 2026-07-04 02:32:59
 # DOMAIN-SUFFIX: 34520
 # TOTAL: 34798
+# UPDATED: 2026-07-06 03:09:07
+# DOMAIN-SUFFIX: 34524
+# TOTAL: 34801
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -327,7 +330,6 @@ hpstore.corpmerchandise.com
 hub.slarker.me
 i.jeded.com
 imperial.insendi.com
-ingest.apple-studies.com
 lgelectronics.122.2o7.net
 linkedin.sc.omtrdc.net
 live-patreon-marketing.pantheonsite.io
@@ -2288,6 +2290,7 @@ login.microsoftonline.com
 .apple-pay.wang
 .apple-store.net
 .apple-store.wang
+.apple-studies.com
 .apple-usa.net
 .apple.ae
 .apple.at
@@ -2817,6 +2820,7 @@ login.microsoftonline.com
 .atlassian-dev.net
 .atlassian.com
 .atlassian.net
+.atmeta.com
 .atokara.jp
 .atom.io
 .atomyze.ru
@@ -3197,6 +3201,7 @@ login.microsoftonline.com
 .aziani.com
 .aznude.com
 .azubu.tv
+.azure-api.net
 .azure-devices-int.net
 .azure-devices.net
 .azure-dns.com
@@ -3232,6 +3237,7 @@ login.microsoftonline.com
 .azureserviceprofiler.com
 .azuresmartspaces.net
 .azurestackvalidation.com
+.azurestaticapps.net
 .b-cdn.net
 .b-eroland.net
 .b-ok.africa
