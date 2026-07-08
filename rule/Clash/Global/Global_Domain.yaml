@@ -283,6 +283,9 @@
 # UPDATED: 2026-07-06 03:09:07
 # DOMAIN-SUFFIX: 34524
 # TOTAL: 34801
+# UPDATED: 2026-07-08 03:48:17
+# DOMAIN-SUFFIX: 34526
+# TOTAL: 34803
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -19299,6 +19302,8 @@ payload:
   - '+.paulmelloncentre.ac.uk'
   - '+.paulsimon-music.com'
   - '+.pavpal.com'
+  - '+.pawchive.pw'
+  - '+.pawchive.st'
   - '+.paxlicense.org'
   - '+.paydiant.com'
   - '+.payecom.ru'
