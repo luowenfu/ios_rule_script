@@ -233,6 +233,9 @@
 # UPDATED: 2026-07-06 03:09:51
 # DOMAIN-SUFFIX: 111989
 # TOTAL: 112127
+# UPDATED: 2026-07-10 03:30:06
+# DOMAIN-SUFFIX: 111991
+# TOTAL: 112129
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -92236,6 +92239,7 @@ xtratime.qcomgeo2.com
 .twty.vip
 .twwtn.com
 .twyuxin.com
+.twyxh.com
 .twyxi.com
 .twzilla.com
 .twzui6.com
@@ -111964,6 +111968,7 @@ xtratime.qcomgeo2.com
 .zwzyzx.com
 .zx-tour.com
 .zx-xcx.com
+.zx.com
 .zx0093.com
 .zx017.com
 .zx017.net

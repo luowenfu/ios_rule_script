@@ -424,6 +424,11 @@
 # TOTAL: 124786
 # IP-CIDR: 8246
 # TOTAL: 124790
+# UPDATED: 2026-07-10 03:31:00
+# DOMAIN-SUFFIX: 112092
+# IP-CIDR: 8250
+# IP-CIDR6: 4170
+# TOTAL: 124829
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
@@ -434,10 +439,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,qiyi
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.bilibili.app.blue
   - PROCESS-NAME,com.bilibili.app.in
