@@ -437,6 +437,11 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 8250  | 
 | IP-CIDR6 | 4170  | 
 | TOTAL | 124389  | 
+最后更新时间：2026-07-12 02:54:34
+| DOMAIN-SUFFIX | 111592  | 
+| IP-CIDR | 8248  | 
+| IP-CIDR6 | 4168  | 
+| TOTAL | 124325  | 
 ## Clash 
 #### 使用说明
 - ChinaMaxNoMedia.yaml，请使用 behavior: "classical"。

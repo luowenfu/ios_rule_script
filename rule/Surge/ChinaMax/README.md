@@ -443,6 +443,11 @@
 | IP-CIDR | 8250  | 
 | IP-CIDR6 | 4170  | 
 | TOTAL | 124892  | 
+最后更新时间：2026-07-12 02:53:26
+| DOMAIN-SUFFIX | 112028  | 
+| IP-CIDR | 8248  | 
+| IP-CIDR6 | 4168  | 
+| TOTAL | 124827  | 
 ## Surge 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

@@ -289,6 +289,9 @@
 # UPDATED: 2026-07-10 03:29:22
 # DOMAIN-SUFFIX: 34532
 # TOTAL: 34809
+# UPDATED: 2026-07-12 02:51:53
+# DOMAIN-SUFFIX: 34534
+# TOTAL: 34811
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -15749,6 +15752,7 @@ login.microsoftonline.com
 +.makearmanotwar.com
 +.makebettercode.com
 +.makecode.org
++.makeeu.com
 +.makeitopen.com
 +.makeitrealcontest.com
 +.makerepeater.jp
@@ -16801,6 +16805,7 @@ login.microsoftonline.com
 +.mist.ac.uk
 +.mistresskym.com
 +.mit.net
++.mitao.bar
 +.miteam.com
 +.mitnaka.com
 +.mitpressjournals.org

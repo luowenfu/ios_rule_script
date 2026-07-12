@@ -443,6 +443,11 @@
 | IP-CIDR | 8250  | 
 | IP6-CIDR | 4170  | 
 | TOTAL | 124881  | 
+最后更新时间：2026-07-12 02:53:26
+| HOST-SUFFIX | 112028  | 
+| IP-CIDR | 8248  | 
+| IP6-CIDR | 4168  | 
+| TOTAL | 124816  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMax.list 单独使用。
