@@ -308,6 +308,9 @@
 # UPDATED: 2026-07-12 02:52:13
 # HOST-SUFFIX: 34569
 # TOTAL: 35521
+# UPDATED: 2026-07-14 03:19:21
+# HOST-SUFFIX: 34586
+# TOTAL: 35538
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -4512,6 +4515,9 @@ HOST-SUFFIX,bestbuystores.com,Global
 HOST-SUFFIX,bestbuytradein.com,Global
 HOST-SUFFIX,bestbuyus.com,Global
 HOST-SUFFIX,bestcamsites.net,Global
+HOST-SUFFIX,bestchange.com,Global
+HOST-SUFFIX,bestchange.net,Global
+HOST-SUFFIX,bestchange.ru,Global
 HOST-SUFFIX,bestclouddrive.com,Global
 HOST-SUFFIX,bestdori.com,Global
 HOST-SUFFIX,besterpornos.com,Global
@@ -7329,6 +7335,7 @@ HOST-SUFFIX,crixet.com,Global
 HOST-SUFFIX,crmdynint-gcc.com,Global
 HOST-SUFFIX,crmdynint.com,Global
 HOST-SUFFIX,crocels.ac.uk,Global
+HOST-SUFFIX,crocoblock.com,Global
 HOST-SUFFIX,cromite.org,Global
 HOST-SUFFIX,cronton.ac.uk,Global
 HOST-SUFFIX,crontonsixthform.ac.uk,Global
@@ -7749,6 +7756,7 @@ HOST-SUFFIX,delcamna.com,Global
 HOST-SUFFIX,delcamtv.com,Global
 HOST-SUFFIX,delcamuniversity.com,Global
 HOST-SUFFIX,delcamusa.com,Global
+HOST-SUFFIX,delets.online,Global
 HOST-SUFFIX,delicious.com.au,Global
 HOST-SUFFIX,dell.ac,Global
 HOST-SUFFIX,dell.am,Global
@@ -11310,6 +11318,7 @@ HOST-SUFFIX,getpocket.com,Global
 HOST-SUFFIX,getporn.tv,Global
 HOST-SUFFIX,getprintersupports.com,Global
 HOST-SUFFIX,getscorecash.com,Global
+HOST-SUFFIX,getsentry.com,Global
 HOST-SUFFIX,getsexgames.com,Global
 HOST-SUFFIX,getsynapse.io,Global
 HOST-SUFFIX,gettyimages.at,Global
@@ -11975,6 +11984,8 @@ HOST-SUFFIX,hao21.xyz,Global
 HOST-SUFFIX,hao62.xyz,Global
 HOST-SUFFIX,haori888.com,Global
 HOST-SUFFIX,haplorrhini.com,Global
+HOST-SUFFIX,happ.info,Global
+HOST-SUFFIX,happ.su,Global
 HOST-SUFFIX,happymeal.co.nz,Global
 HOST-SUFFIX,happymeal.com,Global
 HOST-SUFFIX,happymeal.com.au,Global
@@ -17349,6 +17360,7 @@ HOST-SUFFIX,motherwell.ac.uk,Global
 HOST-SUFFIX,motiongraphicsandmore.com,Global
 HOST-SUFFIX,motionpictureser.com,Global
 HOST-SUFFIX,moto.com,Global
+HOST-SUFFIX,motocms.com,Global
 HOST-SUFFIX,motolia.com,Global
 HOST-SUFFIX,motopress.com,Global
 HOST-SUFFIX,motorola.ca,Global
@@ -19190,6 +19202,7 @@ HOST-SUFFIX,onekey-asset.com,Global
 HOST-SUFFIX,onekey.so,Global
 HOST-SUFFIX,onekeycn.com,Global
 HOST-SUFFIX,oneme.ru,Global
+HOST-SUFFIX,onemoment.cc,Global
 HOST-SUFFIX,onemozilla.org,Global
 HOST-SUFFIX,onepornlist.com,Global
 HOST-SUFFIX,onesiterip.com,Global
@@ -19607,6 +19620,7 @@ HOST-SUFFIX,pawchive.st,Global
 HOST-SUFFIX,paxlicense.org,Global
 HOST-SUFFIX,paydiant.com,Global
 HOST-SUFFIX,payecom.ru,Global
+HOST-SUFFIX,payget.pro,Global
 HOST-SUFFIX,paygonline.com,Global
 HOST-SUFFIX,payhulu.com,Global
 HOST-SUFFIX,paylike.com,Global
@@ -20090,6 +20104,7 @@ HOST-SUFFIX,plasticlabs.com,Global
 HOST-SUFFIX,plastics-cadcam.com,Global
 HOST-SUFFIX,platiecom.ru,Global
 HOST-SUFFIX,platinumlinks.org,Global
+HOST-SUFFIX,platov.co,Global
 HOST-SUFFIX,play-bmm.shop,Global
 HOST-SUFFIX,play-bmmer.buzz,Global
 HOST-SUFFIX,play4free.com,Global
@@ -21079,6 +21094,8 @@ HOST-SUFFIX,rakutenadvertising.com,Global
 HOST-SUFFIX,rakutengiftcards.ca,Global
 HOST-SUFFIX,rakuya.com.tw,Global
 HOST-SUFFIX,ram.ac.uk,Global
+HOST-SUFFIX,ramon.cash,Global
+HOST-SUFFIX,ramon.money,Global
 HOST-SUFFIX,randd.ac.uk,Global
 HOST-SUFFIX,randomsystems-cdt.ac.uk,Global
 HOST-SUFFIX,randyblue.com,Global
@@ -22317,6 +22334,7 @@ HOST-SUFFIX,sensualgirls.org,Global
 HOST-SUFFIX,sensualmothers.com,Global
 HOST-SUFFIX,sensueel.net,Global
 HOST-SUFFIX,sentry-cdn.com,Global
+HOST-SUFFIX,sentry.dev,Global
 HOST-SUFFIX,senzuritv.net,Global
 HOST-SUFFIX,seo-dash.net,Global
 HOST-SUFFIX,seodirector.ai,Global
@@ -24263,6 +24281,7 @@ HOST-SUFFIX,telri.ac.uk,Global
 HOST-SUFFIX,temenos.ac.uk,Global
 HOST-SUFFIX,temetube.xyz,Global
 HOST-SUFFIX,temp-mail.org,Global
+HOST-SUFFIX,templatemonster.com,Global
 HOST-SUFFIX,tempusuk.ac.uk,Global
 HOST-SUFFIX,tenbin.ai,Global
 HOST-SUFFIX,tenbyfotolia.com,Global
@@ -26578,6 +26597,7 @@ HOST-SUFFIX,wballiance.com,Global
 HOST-SUFFIX,wbautomation.ru,Global
 HOST-SUFFIX,wbautomation.tech,Global
 HOST-SUFFIX,wbbasket.ru,Global
+HOST-SUFFIX,wbcontent.net,Global
 HOST-SUFFIX,wbd.ms,Global
 HOST-SUFFIX,wbdnbo.net,Global
 HOST-SUFFIX,wbdubna.ru,Global
