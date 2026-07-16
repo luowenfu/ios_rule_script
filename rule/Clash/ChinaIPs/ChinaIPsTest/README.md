@@ -405,6 +405,9 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-07-14 03:20:50
 | IP-CIDR | 21394  | 
 | TOTAL | 28019  | 
+最后更新时间：2026-07-16 03:02:47
+| IP-CIDR | 22532  | 
+| IP-CIDR6 | 6685  | 
 ## Clash 
 #### 使用说明
 - ChinaIPsTest_Classical.yaml，请使用 behavior: "classical"。
