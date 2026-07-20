@@ -166,6 +166,9 @@
 # UPDATED: 2026-07-04 02:33:20
 # DOMAIN-SUFFIX: 6748
 # TOTAL: 6880
+# UPDATED: 2026-07-20 02:59:04
+# DOMAIN-SUFFIX: 6749
+# TOTAL: 6881
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -203,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,18board.com
   - DOMAIN-SUFFIX,18board.info
   - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18mh.net
   - DOMAIN-SUFFIX,18onlygirls.com
   - DOMAIN-SUFFIX,18p2p.com

@@ -166,6 +166,9 @@
 # UPDATED: 2026-07-04 02:33:20
 # DOMAIN-SUFFIX: 6748
 # TOTAL: 6880
+# UPDATED: 2026-07-20 02:59:04
+# DOMAIN-SUFFIX: 6749
+# TOTAL: 6881
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -202,6 +205,7 @@ voice.telephony.goog
 .18board.com
 .18board.info
 .18comic.org
+.18comic.vip
 .18mh.net
 .18onlygirls.com
 .18p2p.com

@@ -302,6 +302,9 @@
 # UPDATED: 2026-07-18 02:59:36
 # DOMAIN-SUFFIX: 34567
 # TOTAL: 34848
+# UPDATED: 2026-07-20 02:58:42
+# DOMAIN-SUFFIX: 34568
+# TOTAL: 34849
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -536,7 +539,6 @@ payload:
   - '+.18comic-god.xyz'
   - '+.18comic.cc'
   - '+.18comic.company'
-  - '+.18comic.vip'
   - '+.18commic.com'
   - '+.18doujin.com'
   - '+.18doujinshi.xyz'
@@ -20698,6 +20700,7 @@ payload:
   - '+.qmw.ac.uk'
   - '+.qmzdd.com'
   - '+.qnap.com'
+  - '+.qnapsupport.net'
   - '+.qobuz.com'
   - '+.qombol.com'
   - '+.qoo-app.com'
@@ -28351,6 +28354,7 @@ payload:
   - '+.18board.com'
   - '+.18board.info'
   - '+.18comic.org'
+  - '+.18comic.vip'
   - '+.18mh.net'
   - '+.18onlygirls.com'
   - '+.18p2p.com'

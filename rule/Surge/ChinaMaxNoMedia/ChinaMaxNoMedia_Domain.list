@@ -450,6 +450,11 @@
 # IP-CIDR: 8225
 # IP-CIDR6: 4206
 # TOTAL: 124220
+# UPDATED: 2026-07-20 03:01:17
+# DOMAIN-SUFFIX: 111407
+# IP-CIDR: 8226
+# IP-CIDR6: 4210
+# TOTAL: 124226
 .0.zone
 .00.net
 .000.link
@@ -67597,6 +67602,7 @@
 .mychuguan.com
 .mychunyan.net
 .myckjr.com
+.mycloudnas.com
 .mycloudstudy.com
 .myclub2.com
 .mycnc.org
