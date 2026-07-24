@@ -325,6 +325,9 @@
 # HOST: 778
 # HOST-SUFFIX: 34612
 # TOTAL: 35588
+# UPDATED: 2026-07-24 03:06:01
+# HOST-SUFFIX: 34614
+# TOTAL: 35590
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -34595,6 +34598,7 @@ HOST-SUFFIX,toggleable.com,Global
 HOST-SUFFIX,toh.info,Global
 HOST-SUFFIX,token.im,Global
 HOST-SUFFIX,tokenlon.im,Global
+HOST-SUFFIX,tokenplus.app,Global
 HOST-SUFFIX,tokyo-247.com,Global
 HOST-SUFFIX,tokyo-hot.com,Global
 HOST-SUFFIX,tokyo-porn-tube.com,Global
@@ -35647,6 +35651,7 @@ HOST-SUFFIX,zdnet.com.tw,Global
 HOST-SUFFIX,zello.com,Global
 HOST-SUFFIX,zengjinyan.org,Global
 HOST-SUFFIX,zenmate.com,Global
+HOST-SUFFIX,zenmux.ai,Global
 HOST-SUFFIX,zerohedge.com,Global
 HOST-SUFFIX,zeronet.io,Global
 HOST-SUFFIX,zeutch.com,Global

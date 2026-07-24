@@ -169,6 +169,9 @@
 # UPDATED: 2026-07-22 03:10:58
 # HOST-SUFFIX: 7222
 # TOTAL: 7372
+# UPDATED: 2026-07-24 03:06:02
+# HOST-SUFFIX: 7224
+# TOTAL: 7374
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -6275,6 +6278,7 @@ HOST-SUFFIX,toggleable.com,Proxy
 HOST-SUFFIX,toh.info,Proxy
 HOST-SUFFIX,token.im,Proxy
 HOST-SUFFIX,tokenlon.im,Proxy
+HOST-SUFFIX,tokenplus.app,Proxy
 HOST-SUFFIX,tokyo-247.com,Proxy
 HOST-SUFFIX,tokyo-hot.com,Proxy
 HOST-SUFFIX,tokyo-porn-tube.com,Proxy
@@ -7342,6 +7346,7 @@ HOST-SUFFIX,zello.com,Proxy
 HOST-SUFFIX,zengjinyan.org,Proxy
 HOST-SUFFIX,zenmate.com,Proxy
 HOST-SUFFIX,zenmate.com.ru,Proxy
+HOST-SUFFIX,zenmux.ai,Proxy
 HOST-SUFFIX,zerohedge.com,Proxy
 HOST-SUFFIX,zeronet.io,Proxy
 HOST-SUFFIX,zeutch.com,Proxy

@@ -172,6 +172,9 @@
 # UPDATED: 2026-07-22 03:10:58
 # DOMAIN-SUFFIX: 6751
 # TOTAL: 6883
+# UPDATED: 2026-07-24 03:06:02
+# DOMAIN-SUFFIX: 6753
+# TOTAL: 6885
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -5832,6 +5835,7 @@ voice.telephony.goog
 +.toh.info
 +.token.im
 +.tokenlon.im
++.tokenplus.app
 +.tokyo-247.com
 +.tokyo-hot.com
 +.tokyocn.com
@@ -6864,6 +6868,7 @@ voice.telephony.goog
 +.zengjinyan.org
 +.zenmate.com
 +.zenmate.com.ru
++.zenmux.ai
 +.zerohedge.com
 +.zeronet.io
 +.zeutch.com

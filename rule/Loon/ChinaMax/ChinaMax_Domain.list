@@ -458,6 +458,11 @@
 # DOMAIN-SUFFIX: 111899
 # IP-CIDR6: 4209
 # TOTAL: 124707
+# UPDATED: 2026-07-24 03:07:09
+# DOMAIN-SUFFIX: 111903
+# IP-CIDR: 8229
+# IP-CIDR6: 4214
+# TOTAL: 124720
 .0.zone
 .00.net
 .000.link
@@ -19867,6 +19872,7 @@
 .cd-zc.com
 .cd00c44f211031.beer
 .cd120.com
+.cd120.info
 .cd12371.com
 .cd1958.com
 .cd20.net
@@ -67050,6 +67056,7 @@
 .moe321.com
 .moeclub.org
 .moedot.net
+.moedu.com
 .moeelf.com
 .moefactory.com
 .moefantasy.com
@@ -91151,6 +91158,7 @@
 .tsingpost.com
 .tsingshang.com
 .tsingtek.com
+.tsingtengms.com
 .tsingtoo.com
 .tsingtuo.com
 .tsingyangroup.com
@@ -98793,6 +98801,7 @@
 .xcxymw.com
 .xcxzww.com
 .xcyg.net
+.xcz.im
 .xczhmzb.com
 .xczhsh.com
 .xczim.com

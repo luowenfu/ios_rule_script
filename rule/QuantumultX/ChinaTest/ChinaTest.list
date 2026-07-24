@@ -176,6 +176,8 @@
 # HOST-SUFFIX: 111727
 # UPDATED: 2026-07-22 03:11:16
 # HOST-SUFFIX: 111784
+# UPDATED: 2026-07-24 03:06:19
+# HOST-SUFFIX: 111788
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -259,6 +261,7 @@
 # TOTAL: 111901
 # TOTAL: 111902
 # TOTAL: 111959
+# TOTAL: 111963
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -22898,6 +22901,7 @@ HOST-SUFFIX,cd-wx.net,ChinaTest
 HOST-SUFFIX,cd-zc.com,ChinaTest
 HOST-SUFFIX,cd00c44f211031.beer,ChinaTest
 HOST-SUFFIX,cd120.com,ChinaTest
+HOST-SUFFIX,cd120.info,ChinaTest
 HOST-SUFFIX,cd12371.com,ChinaTest
 HOST-SUFFIX,cd1958.com,ChinaTest
 HOST-SUFFIX,cd20.net,ChinaTest
@@ -68227,6 +68231,7 @@ HOST-SUFFIX,moe233.org,ChinaTest
 HOST-SUFFIX,moe321.com,ChinaTest
 HOST-SUFFIX,moeclub.org,ChinaTest
 HOST-SUFFIX,moedot.net,ChinaTest
+HOST-SUFFIX,moedu.com,ChinaTest
 HOST-SUFFIX,moeelf.com,ChinaTest
 HOST-SUFFIX,moefactory.com,ChinaTest
 HOST-SUFFIX,moefantasy.com,ChinaTest
@@ -91529,6 +91534,7 @@ HOST-SUFFIX,tsingoofoods.com,ChinaTest
 HOST-SUFFIX,tsingpost.com,ChinaTest
 HOST-SUFFIX,tsingshang.com,ChinaTest
 HOST-SUFFIX,tsingtek.com,ChinaTest
+HOST-SUFFIX,tsingtengms.com,ChinaTest
 HOST-SUFFIX,tsingtoo.com,ChinaTest
 HOST-SUFFIX,tsingtuo.com,ChinaTest
 HOST-SUFFIX,tsingyangroup.com,ChinaTest
@@ -98924,6 +98930,7 @@ HOST-SUFFIX,xcxwo.com,ChinaTest
 HOST-SUFFIX,xcxymw.com,ChinaTest
 HOST-SUFFIX,xcxzww.com,ChinaTest
 HOST-SUFFIX,xcyg.net,ChinaTest
+HOST-SUFFIX,xcz.im,ChinaTest
 HOST-SUFFIX,xczhmzb.com,ChinaTest
 HOST-SUFFIX,xczhsh.com,ChinaTest
 HOST-SUFFIX,xczim.com,ChinaTest

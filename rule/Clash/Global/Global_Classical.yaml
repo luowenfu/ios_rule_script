@@ -308,6 +308,9 @@
 # UPDATED: 2026-07-22 03:10:37
 # DOMAIN-SUFFIX: 34577
 # TOTAL: 34858
+# UPDATED: 2026-07-24 03:05:41
+# DOMAIN-SUFFIX: 34579
+# TOTAL: 34860
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -33928,6 +33931,7 @@ payload:
   - DOMAIN-SUFFIX,toh.info
   - DOMAIN-SUFFIX,token.im
   - DOMAIN-SUFFIX,tokenlon.im
+  - DOMAIN-SUFFIX,tokenplus.app
   - DOMAIN-SUFFIX,tokyo-247.com
   - DOMAIN-SUFFIX,tokyo-hot.com
   - DOMAIN-SUFFIX,tokyocn.com
@@ -34946,6 +34950,7 @@ payload:
   - DOMAIN-SUFFIX,zello.com
   - DOMAIN-SUFFIX,zengjinyan.org
   - DOMAIN-SUFFIX,zenmate.com
+  - DOMAIN-SUFFIX,zenmux.ai
   - DOMAIN-SUFFIX,zerohedge.com
   - DOMAIN-SUFFIX,zeronet.io
   - DOMAIN-SUFFIX,zeutch.com
