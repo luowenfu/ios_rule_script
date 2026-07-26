@@ -172,6 +172,9 @@
 # UPDATED: 2026-07-24 03:06:02
 # HOST-SUFFIX: 7224
 # TOTAL: 7374
+# UPDATED: 2026-07-26 03:00:05
+# HOST-SUFFIX: 7226
+# TOTAL: 7376
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1387,6 +1390,7 @@ HOST-SUFFIX,ciciai.com,Proxy
 HOST-SUFFIX,cienen.com,Proxy
 HOST-SUFFIX,cineastentreff.de,Proxy
 HOST-SUFFIX,cipfg.org,Proxy
+HOST-SUFFIX,circle19.org,Proxy
 HOST-SUFFIX,circlethebayfortibet.org,Proxy
 HOST-SUFFIX,cirosantilli.com,Proxy
 HOST-SUFFIX,citizencn.com,Proxy
@@ -3726,6 +3730,7 @@ HOST-SUFFIX,kanzhongguo.com,Proxy
 HOST-SUFFIX,kanzhongguo.eu,Proxy
 HOST-SUFFIX,kaotic.com,Proxy
 HOST-SUFFIX,karayou.com,Proxy
+HOST-SUFFIX,kards.com,Proxy
 HOST-SUFFIX,karkhung.com,Proxy
 HOST-SUFFIX,karmapa-teachings.org,Proxy
 HOST-SUFFIX,karmapa.org,Proxy

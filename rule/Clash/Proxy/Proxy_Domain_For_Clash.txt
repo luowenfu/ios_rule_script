@@ -175,6 +175,9 @@
 # UPDATED: 2026-07-24 03:06:02
 # DOMAIN-SUFFIX: 6753
 # TOTAL: 6885
+# UPDATED: 2026-07-26 03:00:05
+# DOMAIN-SUFFIX: 6755
+# TOTAL: 6887
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -1298,6 +1301,7 @@ voice.telephony.goog
 +.cienen.com
 +.cineastentreff.de
 +.cipfg.org
++.circle19.org
 +.circlethebayfortibet.org
 +.cirosantilli.com
 +.citizencn.com
@@ -3330,6 +3334,7 @@ voice.telephony.goog
 +.kanzhongguo.eu
 +.kaotic.com
 +.karayou.com
++.kards.com
 +.karkhung.com
 +.karmapa-teachings.org
 +.karmapa.org
