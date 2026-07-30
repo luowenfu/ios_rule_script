@@ -178,6 +178,9 @@
 # UPDATED: 2026-07-26 03:00:05
 # DOMAIN-SUFFIX: 6755
 # TOTAL: 6887
+# UPDATED: 2026-07-30 03:04:41
+# DOMAIN-SUFFIX: 6756
+# TOTAL: 6888
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -5914,6 +5917,7 @@ payload:
   - '+.truthontour.org'
   - '+.truthsocial.com'
   - '+.truveo.com'
+  - '+.tryai.dev'
   - '+.tryheart.jp'
   - '+.tsctv.net'
   - '+.tsemtulku.com'

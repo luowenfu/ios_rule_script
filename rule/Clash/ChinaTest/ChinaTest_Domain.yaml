@@ -260,6 +260,9 @@
 # UPDATED: 2026-07-24 03:06:23
 # DOMAIN-SUFFIX: 111788
 # TOTAL: 111931
+# UPDATED: 2026-07-30 03:05:04
+# DOMAIN-SUFFIX: 111789
+# TOTAL: 111932
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -101252,6 +101255,7 @@ payload:
   - '+.xmmuye.com'
   - '+.xmnjdwx.com'
   - '+.xmocloud01.com'
+  - '+.xmoj.tech'
   - '+.xmonecode.com'
   - '+.xmos.tv'
   - '+.xmov.ai'

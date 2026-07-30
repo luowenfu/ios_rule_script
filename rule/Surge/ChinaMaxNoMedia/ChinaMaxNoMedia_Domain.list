@@ -471,6 +471,10 @@
 # TOTAL: 124287
 # IP-CIDR: 8242
 # TOTAL: 124292
+# UPDATED: 2026-07-30 03:07:02
+# DOMAIN-SUFFIX: 111468
+# IP-CIDR: 8236
+# IP-CIDR6: 4193
 .0.zone
 .00.net
 .000.link
@@ -100759,6 +100763,7 @@
 .xmmuye.com
 .xmnjdwx.com
 .xmocloud01.com
+.xmoj.tech
 .xmonecode.com
 .xmos.tv
 .xmov.ai

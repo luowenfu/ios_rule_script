@@ -329,6 +329,9 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-07-28 03:21:30
 | IP-CIDR | 29309  | 
 | TOTAL | 29309  | 
+最后更新时间：2026-07-30 03:06:17
+| IP-CIDR | 29265  | 
+| TOTAL | 29265  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。

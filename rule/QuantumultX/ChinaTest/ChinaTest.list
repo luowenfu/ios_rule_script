@@ -178,6 +178,8 @@
 # HOST-SUFFIX: 111784
 # UPDATED: 2026-07-24 03:06:19
 # HOST-SUFFIX: 111788
+# UPDATED: 2026-07-30 03:05:00
+# HOST-SUFFIX: 111789
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -262,6 +264,7 @@
 # TOTAL: 111902
 # TOTAL: 111959
 # TOTAL: 111963
+# TOTAL: 111964
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -101253,6 +101256,7 @@ HOST-SUFFIX,xmmtu.com,ChinaTest
 HOST-SUFFIX,xmmuye.com,ChinaTest
 HOST-SUFFIX,xmnjdwx.com,ChinaTest
 HOST-SUFFIX,xmocloud01.com,ChinaTest
+HOST-SUFFIX,xmoj.tech,ChinaTest
 HOST-SUFFIX,xmonecode.com,ChinaTest
 HOST-SUFFIX,xmos.tv,ChinaTest
 HOST-SUFFIX,xmov.ai,ChinaTest
