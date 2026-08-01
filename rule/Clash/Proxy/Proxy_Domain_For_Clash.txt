@@ -181,6 +181,9 @@
 # UPDATED: 2026-07-30 03:04:41
 # DOMAIN-SUFFIX: 6756
 # TOTAL: 6888
+# UPDATED: 2026-08-01 03:15:08
+# DOMAIN-SUFFIX: 6757
+# TOTAL: 6889
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -6225,6 +6228,7 @@ voice.telephony.goog
 +.uygur.org
 +.uymaarip.com
 +.v.gd
++.v.recipes
 +.v.roucdn
 +.v2.help
 +.v2.hysteria.network

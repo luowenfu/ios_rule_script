@@ -178,6 +178,9 @@
 # UPDATED: 2026-07-30 03:04:42
 # HOST-SUFFIX: 7227
 # TOTAL: 7377
+# UPDATED: 2026-08-01 03:15:09
+# HOST-SUFFIX: 7228
+# TOTAL: 7378
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -6684,6 +6687,7 @@ HOST-SUFFIX,uyghurtribunal.com,Proxy
 HOST-SUFFIX,uygur.org,Proxy
 HOST-SUFFIX,uymaarip.com,Proxy
 HOST-SUFFIX,v.gd,Proxy
+HOST-SUFFIX,v.recipes,Proxy
 HOST-SUFFIX,v.roucdn,Proxy
 HOST-SUFFIX,v2.help,Proxy
 HOST-SUFFIX,v2.hysteria.network,Proxy

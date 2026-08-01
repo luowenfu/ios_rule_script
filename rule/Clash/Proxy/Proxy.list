@@ -181,6 +181,9 @@
 # UPDATED: 2026-07-30 03:04:41
 # DOMAIN-SUFFIX: 6756
 # TOTAL: 6888
+# UPDATED: 2026-08-01 03:15:08
+# DOMAIN-SUFFIX: 6757
+# TOTAL: 6889
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6225,6 +6228,7 @@ DOMAIN-SUFFIX,uyghurtribunal.com
 DOMAIN-SUFFIX,uygur.org
 DOMAIN-SUFFIX,uymaarip.com
 DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,v.roucdn
 DOMAIN-SUFFIX,v2.help
 DOMAIN-SUFFIX,v2.hysteria.network
