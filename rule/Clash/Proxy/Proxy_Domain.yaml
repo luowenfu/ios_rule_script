@@ -3,6 +3,7 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2025-12-20 02:08:18
 # UPDATED: 2026-04-12 02:12:52
+# UPDATED: 2026-08-04 03:25:58
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
 # DOMAIN-SUFFIX: 6561
@@ -1167,6 +1168,7 @@ payload:
   - '+.centerforhumanreprod.com'
   - '+.centralnation.com'
   - '+.centurys.net'
+  - '+.cerebras.ai'
   - '+.certificate-transparency.org'
   - '+.cex.io'
   - '+.cfhks.org.hk'
@@ -1295,6 +1297,7 @@ payload:
   - '+.chromercise.com'
   - '+.chromestatus.com'
   - '+.chromium.org'
+  - '+.cht.com.tw'
   - '+.chuang-yen.org'
   - '+.chubold.com'
   - '+.chubun.com'
@@ -3919,7 +3922,6 @@ payload:
   - '+.movements.org'
   - '+.moves-export.com'
   - '+.moviefap.com'
-  - '+.mozilla.ai'
   - '+.mozilla.org'
   - '+.moztw.org'
   - '+.mp3buscador.com'
@@ -4242,6 +4244,7 @@ payload:
   - '+.ntdtv.jp'
   - '+.ntdtv.ru'
   - '+.ntdtvla.com'
+  - '+.nthlink.com'
   - '+.ntrfun.com'
   - '+.ntu.edu.tw'
   - '+.nu.nl'
@@ -4807,7 +4810,6 @@ payload:
   - '+.radio.garden'
   - '+.radioaustralia.net.au'
   - '+.radiohilight.net'
-  - '+.radiojar.com'
   - '+.radioline.co'
   - '+.radiotime.com'
   - '+.radiovaticana.org'
@@ -6630,7 +6632,6 @@ payload:
   - '+.wuyanblog.com'
   - '+.wwe.com'
   - '+.wwitv.com'
-  - '+.www.clashverge.dev'
   - '+.www.lamenhu.com'
   - '+.www.orchidbbs.com'
   - '+.www.taup.org.tw'
