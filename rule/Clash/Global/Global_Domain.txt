@@ -323,6 +323,9 @@
 # UPDATED: 2026-08-04 03:25:36
 # DOMAIN-SUFFIX: 34622
 # TOTAL: 34903
+# UPDATED: 2026-08-06 03:20:27
+# DOMAIN-SUFFIX: 34636
+# TOTAL: 34917
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -7215,6 +7218,8 @@ login.microsoftonline.com
 .deepfreeze.tech
 .deeping.ac.uk
 .deepl.com
+.deepwiki.com
+.deepwiki.org
 .deeside.ac.uk
 .defac.ac.uk
 .defenceacademy.ac.uk
@@ -10036,8 +10041,11 @@ login.microsoftonline.com
 .fluids.ac.uk
 .flutter.dev
 .flutterapp.com
+.fly.dev
+.fly.io
 .flyflv.com
 .flyingjizz.com
+.flyio.net
 .flyyindh-cc.sbs
 .fm4.jp
 .fmav.top
@@ -10989,6 +10997,7 @@ login.microsoftonline.com
 .glenfife.ac.uk
 .glenrothes-college.ac.uk
 .glhl.ac.uk
+.glitchwave.com
 .gllm.ac.uk
 .global-sci.org
 .global.market.xiaomi.com
@@ -19265,14 +19274,17 @@ login.microsoftonline.com
 .ozon-credit.ru
 .ozon-dostavka.ru
 .ozon-tech.ru
+.ozon.app
 .ozon.by
 .ozon.com
 .ozon.com.by
 .ozon.com.kz
 .ozon.dev
 .ozon.express
+.ozon.global
 .ozon.kz
 .ozon.li
+.ozon.market
 .ozon.ru
 .ozon.tech
 .ozon.tm
@@ -21657,6 +21669,7 @@ login.microsoftonline.com
 .rutracker.me
 .rutracker.nl
 .rutrecker.net
+.rutube.sport
 .rutubelist.ru
 .ruvideos.net
 .rvc.ac.uk
@@ -21665,6 +21678,7 @@ login.microsoftonline.com
 .rwbautomation.tech
 .rwbgeo.ru
 .rwcmd.ac.uk
+.rym.fm
 .ryokoyomiuri.co.jp
 .ryukyubank.co.jp
 .rzr.to
@@ -22870,6 +22884,7 @@ login.microsoftonline.com
 .snk-corp.co.jp
 .snk-corp.info
 .snkplaymore.info
+.snmc.io
 .snow.me
 .snowcorp.com
 .snowmiku.com
@@ -22944,6 +22959,8 @@ login.microsoftonline.com
 .somanylolies.com
 .somerset.ac.uk
 .somersetcolleges.ac.uk
+.sonematic.net
+.sonemic.com
 .sonorousporn.com
 .sony-africa.com
 .sony-asia.com
