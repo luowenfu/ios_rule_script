@@ -9,6 +9,7 @@
 # UPDATED: 2026-08-02 03:03:32
 # UPDATED: 2026-08-04 03:27:05
 # UPDATED: 2026-08-06 03:21:37
+# UPDATED: 2026-08-08 02:48:31
 # DOMAIN: 297
 # UPDATED: 2026-01-26 02:09:27
 # DOMAIN: 307
@@ -490,6 +491,9 @@
 # IP-CIDR6: 4199
 # TOTAL: 124152
 # TOTAL: 124160
+# DOMAIN-SUFFIX: 111323
+# IP-CIDR6: 4208
+# TOTAL: 124172
 .0.zone
 .00.net
 .000.link
@@ -64124,6 +64128,7 @@
 .madajiefood.com
 .madaomall.com
 .madboxi.com
+.made-in-china.com
 .madefuns.com
 .madeinchinastone.com
 .madewei.com
@@ -65856,6 +65861,7 @@
 .microxiang.com
 .microyan.com
 .microzuji.com
+.micstatic.com
 .mictormedical.com
 .micu.hk
 .micun.com
@@ -73507,6 +73513,7 @@
 .powerchinayun.com
 .powerde.com
 .powereasy.net
+.poweremarket.com
 .powerex1.com
 .powerflow-tech.com
 .powerfulchina.com
