@@ -275,6 +275,9 @@
 # UPDATED: 2026-08-08 02:47:45
 # DOMAIN-SUFFIX: 111172
 # TOTAL: 111315
+# UPDATED: 2026-08-10 02:31:12
+# DOMAIN-SUFFIX: 111173
+# TOTAL: 111316
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -62725,6 +62728,7 @@ payload:
   - '+.lifevc.com'
   - '+.lifevccdn.com'
   - '+.lifeweeker.com'
+  - '+.lifexue.com'
   - '+.lifeyk.com'
   - '+.lifeyn.net'
   - '+.lifezb.com'

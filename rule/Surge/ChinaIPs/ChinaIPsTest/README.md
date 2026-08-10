@@ -454,6 +454,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-08-08 02:48:55
 | IP-CIDR | 22588  | 
 | TOTAL | 29267  | 
+最后更新时间：2026-08-10 02:31:58
+| IP-CIDR | 22571  | 
+| IP-CIDR6 | 6683  | 
+| TOTAL | 29254  | 
 ## Surge 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。

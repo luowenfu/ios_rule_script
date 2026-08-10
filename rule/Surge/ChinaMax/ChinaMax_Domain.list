@@ -10,6 +10,7 @@
 # UPDATED: 2026-08-04 03:27:05
 # UPDATED: 2026-08-06 03:21:37
 # UPDATED: 2026-08-08 02:48:31
+# UPDATED: 2026-08-10 02:31:43
 # DOMAIN: 297
 # UPDATED: 2026-01-26 02:09:27
 # DOMAIN: 307
@@ -494,6 +495,9 @@
 # DOMAIN-SUFFIX: 111323
 # IP-CIDR6: 4208
 # TOTAL: 124172
+# DOMAIN-SUFFIX: 111324
+# IP-CIDR6: 4198
+# TOTAL: 124157
 .0.zone
 .00.net
 .000.link
@@ -61447,6 +61451,7 @@
 .lifevc.com
 .lifevccdn.com
 .lifeweeker.com
+.lifexue.com
 .lifeyk.com
 .lifeyn.net
 .lifezb.com

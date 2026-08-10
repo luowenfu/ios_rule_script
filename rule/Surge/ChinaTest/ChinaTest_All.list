@@ -276,6 +276,9 @@
 # UPDATED: 2026-08-08 02:47:40
 # DOMAIN-SUFFIX: 111172
 # TOTAL: 111346
+# UPDATED: 2026-08-10 02:31:10
+# DOMAIN-SUFFIX: 111173
+# TOTAL: 111347
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -62725,6 +62728,7 @@ DOMAIN-SUFFIX,lifeup.vip
 DOMAIN-SUFFIX,lifevc.com
 DOMAIN-SUFFIX,lifevccdn.com
 DOMAIN-SUFFIX,lifeweeker.com
+DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,lifeyk.com
 DOMAIN-SUFFIX,lifeyn.net
 DOMAIN-SUFFIX,lifezb.com
