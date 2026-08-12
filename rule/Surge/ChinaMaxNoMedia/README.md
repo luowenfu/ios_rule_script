@@ -99,6 +99,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-08-06 03:22:29
 最后更新时间：2026-08-08 02:49:42
 最后更新时间：2026-08-10 02:32:29
+最后更新时间：2026-08-12 02:56:43
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -111,6 +112,7 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 301  | 
 | DOMAIN-SUFFIX | 118202  | 
 | DOMAIN-SUFFIX | 113025  | 
+| DOMAIN-SUFFIX | 110894  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8258  | 
 | IP-CIDR6 | 12289  | 

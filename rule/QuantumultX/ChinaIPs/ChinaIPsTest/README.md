@@ -457,6 +457,8 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-08-10 02:31:58
 | IP-CIDR | 22571  | 
 | IP6-CIDR | 6683  | 
+最后更新时间：2026-08-12 02:55:56
+| IP-CIDR | 22574  | 
 | TOTAL | 29254  | 
 ## QuantumultX 
 #### 配置建议

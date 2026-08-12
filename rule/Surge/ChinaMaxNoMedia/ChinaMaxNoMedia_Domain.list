@@ -11,6 +11,7 @@
 # UPDATED: 2026-08-06 03:22:28
 # UPDATED: 2026-08-08 02:49:41
 # UPDATED: 2026-08-10 02:32:28
+# UPDATED: 2026-08-12 02:56:42
 # DOMAIN: 296
 # UPDATED: 2026-01-26 02:10:36
 # DOMAIN: 306
@@ -59,6 +60,7 @@
 # UPDATED: 2026-05-18 02:26:45
 # DOMAIN: 311
 # DOMAIN-SUFFIX: 113025
+# DOMAIN-SUFFIX: 110894
 # IP-ASN: 1
 # IP-CIDR: 8258
 # IP-CIDR6: 12289
@@ -51541,6 +51543,8 @@
 .iot688.com
 .iot889.com
 .iotachem.com
+.iotaskyt.com
+.iotaskyty.com
 .iotbay.com
 .iotfair.net
 .iotku.com
@@ -87410,6 +87414,7 @@
 .tbbbk.com
 .tbcache.com
 .tbcdn.com
+.tbdesk.com
 .tbh5.com
 .tbhcc.com
 .tbhelper.com

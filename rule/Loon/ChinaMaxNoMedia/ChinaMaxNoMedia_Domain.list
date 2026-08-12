@@ -49,6 +49,8 @@
 # DOMAIN-SUFFIX: 113025
 # UPDATED: 2026-06-30 02:47:31
 # DOMAIN-SUFFIX: 111806
+# UPDATED: 2026-08-12 02:56:45
+# DOMAIN-SUFFIX: 110894
 # IP-ASN: 1
 # IP-CIDR: 8258
 # IP-CIDR6: 12289
@@ -51540,6 +51542,8 @@
 .iot688.com
 .iot889.com
 .iotachem.com
+.iotaskyt.com
+.iotaskyty.com
 .iotbay.com
 .iotfair.net
 .iotku.com
@@ -87409,6 +87413,7 @@
 .tbbbk.com
 .tbcache.com
 .tbcdn.com
+.tbdesk.com
 .tbh5.com
 .tbhcc.com
 .tbhelper.com
