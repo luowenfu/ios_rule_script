@@ -335,6 +335,9 @@
 # UPDATED: 2026-08-14 02:55:26
 # DOMAIN-SUFFIX: 34719
 # TOTAL: 35000
+# UPDATED: 2026-08-16 02:21:23
+# DOMAIN-SUFFIX: 34722
+# TOTAL: 35003
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -21606,6 +21609,7 @@ payload:
   - DOMAIN-SUFFIX,rscem.ac.uk
   - DOMAIN-SUFFIX,rsd-exeter.ac.uk
   - DOMAIN-SUFFIX,rse.ac.uk
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rshb.ru
   - DOMAIN-SUFFIX,rsk.co
@@ -21964,6 +21968,8 @@ payload:
   - DOMAIN-SUFFIX,sbux.com.my
   - DOMAIN-SUFFIX,sbuxcard.com
   - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,sc-gw.com
+  - DOMAIN-SUFFIX,sc-static.net
   - DOMAIN-SUFFIX,sc-toolkit.ac.uk
   - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,sc1.ac.uk

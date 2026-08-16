@@ -227,6 +227,8 @@
 # DOMAIN-SUFFIX: 34679
 # UPDATED: 2026-08-14 02:55:25
 # DOMAIN-SUFFIX: 34719
+# UPDATED: 2026-08-16 02:21:22
+# DOMAIN-SUFFIX: 34722
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -336,6 +338,7 @@
 # TOTAL: 35003
 # TOTAL: 35006
 # TOTAL: 35046
+# TOTAL: 35049
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -21606,6 +21609,7 @@ DOMAIN-SUFFIX,rsc-yorkshire-humberside.ac.uk
 DOMAIN-SUFFIX,rscem.ac.uk
 DOMAIN-SUFFIX,rsd-exeter.ac.uk
 DOMAIN-SUFFIX,rse.ac.uk
+DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rshb.ru
 DOMAIN-SUFFIX,rsk.co
@@ -21964,6 +21968,8 @@ DOMAIN-SUFFIX,sbusinesslondon.ac.uk
 DOMAIN-SUFFIX,sbux.com.my
 DOMAIN-SUFFIX,sbuxcard.com
 DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,sc-gw.com
+DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,sc-toolkit.ac.uk
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,sc1.ac.uk
