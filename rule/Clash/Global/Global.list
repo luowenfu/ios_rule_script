@@ -338,6 +338,9 @@
 # UPDATED: 2026-08-16 02:21:23
 # DOMAIN-SUFFIX: 34722
 # TOTAL: 35003
+# UPDATED: 2026-08-18 02:30:17
+# DOMAIN-SUFFIX: 34723
+# TOTAL: 35004
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -21741,6 +21744,7 @@ DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrecker.net
 DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,rutubelist.ru

@@ -358,6 +358,9 @@
 # UPDATED: 2026-08-16 02:21:43
 # HOST-SUFFIX: 34757
 # TOTAL: 35739
+# UPDATED: 2026-08-18 02:30:37
+# HOST-SUFFIX: 34758
+# TOTAL: 35740
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -22034,6 +22037,7 @@ HOST-SUFFIX,rutracker.cc,Global
 HOST-SUFFIX,rutracker.cr,Global
 HOST-SUFFIX,rutracker.me,Global
 HOST-SUFFIX,rutracker.nl,Global
+HOST-SUFFIX,rutracker.wiki,Global
 HOST-SUFFIX,rutrecker.net,Global
 HOST-SUFFIX,rutube.sport,Global
 HOST-SUFFIX,rutubelist.ru,Global

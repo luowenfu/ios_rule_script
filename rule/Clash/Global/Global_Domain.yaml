@@ -338,6 +338,9 @@
 # UPDATED: 2026-08-16 02:21:23
 # DOMAIN-SUFFIX: 34722
 # TOTAL: 35003
+# UPDATED: 2026-08-18 02:30:17
+# DOMAIN-SUFFIX: 34723
+# TOTAL: 35004
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -21742,6 +21745,7 @@ payload:
   - '+.rutracker.cr'
   - '+.rutracker.me'
   - '+.rutracker.nl'
+  - '+.rutracker.wiki'
   - '+.rutrecker.net'
   - '+.rutube.sport'
   - '+.rutubelist.ru'

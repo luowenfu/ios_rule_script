@@ -55,6 +55,9 @@
 # UPDATED: 2026-03-22 02:12:43
 # DOMAIN-SUFFIX: 117719
 # IP-CIDR: 12571
+# UPDATED: 2026-08-18 02:33:03
+# DOMAIN-SUFFIX: 110902
+# IP-CIDR: 12162
 # USER-AGENT: 65
 # TOTAL: 137992
 # UPDATED: 2025-12-22 02:11:03
@@ -74403,6 +74406,7 @@
 .qianwa.com
 .qianwanku.com
 .qianwen.com
+.qianwenai.com
 .qianxiangbank.com
 .qianxibj.net
 .qianximiye.com

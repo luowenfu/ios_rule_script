@@ -229,6 +229,8 @@
 # DOMAIN-SUFFIX: 34719
 # UPDATED: 2026-08-16 02:21:22
 # DOMAIN-SUFFIX: 34722
+# UPDATED: 2026-08-18 02:30:16
+# DOMAIN-SUFFIX: 34723
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -339,6 +341,7 @@
 # TOTAL: 35006
 # TOTAL: 35046
 # TOTAL: 35049
+# TOTAL: 35050
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -21742,6 +21745,7 @@ DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrecker.net
 DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,rutubelist.ru

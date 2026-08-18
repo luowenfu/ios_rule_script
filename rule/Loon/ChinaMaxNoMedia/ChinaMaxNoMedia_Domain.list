@@ -59,6 +59,10 @@
 # DOMAIN-SUFFIX: 117719
 # IP-CIDR: 8295
 # IP-CIDR6: 4276
+# UPDATED: 2026-08-18 02:32:59
+# DOMAIN-SUFFIX: 110902
+# IP-CIDR: 8186
+# IP-CIDR6: 3976
 # USER-AGENT: 65
 # TOTAL: 137992
 # UPDATED: 2025-12-22 02:10:58
@@ -503,7 +507,6 @@
 # UPDATED: 2026-08-14 02:57:50
 # DOMAIN-SUFFIX: 110901
 # TOTAL: 123720
-# IP-CIDR6: 3976
 # TOTAL: 123437
 .0.zone
 .00.net
@@ -74448,6 +74451,7 @@
 .qianwa.com
 .qianwanku.com
 .qianwen.com
+.qianwenai.com
 .qianxiangbank.com
 .qianxibj.net
 .qianximiye.com

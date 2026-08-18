@@ -192,6 +192,8 @@
 # HOST-SUFFIX: 111173
 # UPDATED: 2026-08-14 02:56:02
 # HOST-SUFFIX: 111180
+# UPDATED: 2026-08-18 02:30:56
+# HOST-SUFFIX: 111181
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -283,6 +285,7 @@
 # TOTAL: 111347
 # TOTAL: 111348
 # TOTAL: 111355
+# TOTAL: 111356
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -75648,6 +75651,7 @@ HOST-SUFFIX,qianvisa.com,ChinaTest
 HOST-SUFFIX,qianwa.com,ChinaTest
 HOST-SUFFIX,qianwanku.com,ChinaTest
 HOST-SUFFIX,qianwen.com,ChinaTest
+HOST-SUFFIX,qianwenai.com,ChinaTest
 HOST-SUFFIX,qianxiangbank.com,ChinaTest
 HOST-SUFFIX,qianxibj.net,ChinaTest
 HOST-SUFFIX,qianximiye.com,ChinaTest

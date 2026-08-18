@@ -121,6 +121,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-08-12 02:53:57
 最后更新时间：2026-08-14 02:55:25
 最后更新时间：2026-08-16 02:21:22
+最后更新时间：2026-08-18 02:30:16
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -231,6 +232,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 34679  | 
 | DOMAIN-SUFFIX | 34719  | 
 | DOMAIN-SUFFIX | 34722  | 
+| DOMAIN-SUFFIX | 34723  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
@@ -341,6 +343,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 35006  | 
 | TOTAL | 35046  | 
 | TOTAL | 35049  | 
+| TOTAL | 35050  | 
 ## Surge 
 #### 使用说明
 - Global.list，请使用RULE-SET。

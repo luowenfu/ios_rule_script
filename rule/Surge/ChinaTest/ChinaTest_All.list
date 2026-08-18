@@ -282,6 +282,9 @@
 # UPDATED: 2026-08-14 02:56:02
 # DOMAIN-SUFFIX: 111180
 # TOTAL: 111354
+# UPDATED: 2026-08-18 02:30:55
+# DOMAIN-SUFFIX: 111181
+# TOTAL: 111355
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -75647,6 +75650,7 @@ DOMAIN-SUFFIX,qianvisa.com
 DOMAIN-SUFFIX,qianwa.com
 DOMAIN-SUFFIX,qianwanku.com
 DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qianwenai.com
 DOMAIN-SUFFIX,qianxiangbank.com
 DOMAIN-SUFFIX,qianxibj.net
 DOMAIN-SUFFIX,qianximiye.com
