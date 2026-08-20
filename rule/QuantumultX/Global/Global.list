@@ -361,6 +361,9 @@
 # UPDATED: 2026-08-18 02:30:37
 # HOST-SUFFIX: 34758
 # TOTAL: 35740
+# UPDATED: 2026-08-20 02:27:20
+# HOST-SUFFIX: 34759
+# TOTAL: 35741
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -18814,6 +18817,7 @@ HOST-SUFFIX,nonlinearnastran.com,Global
 HOST-SUFFIX,nonstopfap.com,Global
 HOST-SUFFIX,noodlemagazine.com,Global
 HOST-SUFFIX,noosferabank.ru,Global
+HOST-SUFFIX,nordcdn.com,Global
 HOST-SUFFIX,norfolkcove.ac.uk,Global
 HOST-SUFFIX,norland.ac.uk,Global
 HOST-SUFFIX,normanmanagedservices.ac.uk,Global
@@ -27165,7 +27169,6 @@ HOST-SUFFIX,windowsuem.com,Global
 HOST-SUFFIX,windsor-forest.ac.uk,Global
 HOST-SUFFIX,windsurf.build,Global
 HOST-SUFFIX,windsurf.com,Global
-HOST-SUFFIX,windy.com,Global
 HOST-SUFFIX,wing.com,Global
 HOST-SUFFIX,winhec.com,Global
 HOST-SUFFIX,winhec.net,Global
@@ -35500,6 +35503,7 @@ HOST-SUFFIX,willw.net,Global
 HOST-SUFFIX,wilsoncenter.org,Global
 HOST-SUFFIX,windowsphoneme.com,Global
 HOST-SUFFIX,windscribe.com,Global
+HOST-SUFFIX,windy.com,Global
 HOST-SUFFIX,wingamestore.com,Global
 HOST-SUFFIX,wingy.site,Global
 HOST-SUFFIX,winning11.com,Global

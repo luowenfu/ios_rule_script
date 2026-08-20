@@ -341,6 +341,9 @@
 # UPDATED: 2026-08-18 02:30:17
 # DOMAIN-SUFFIX: 34723
 # TOTAL: 35004
+# UPDATED: 2026-08-20 02:26:59
+# DOMAIN-SUFFIX: 34724
+# TOTAL: 35005
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -18493,6 +18496,7 @@ login.microsoftonline.com
 +.nonstopfap.com
 +.noodlemagazine.com
 +.noosferabank.ru
++.nordcdn.com
 +.norfolkcove.ac.uk
 +.norland.ac.uk
 +.normanmanagedservices.ac.uk
@@ -26908,7 +26912,6 @@ login.microsoftonline.com
 +.windsor-forest.ac.uk
 +.windsurf.build
 +.windsurf.com
-+.windy.com
 +.wing.com
 +.winhec.com
 +.winhec.net
@@ -34802,6 +34805,7 @@ login.microsoftonline.com
 +.wilsoncenter.org
 +.windowsphoneme.com
 +.windscribe.com
++.windy.com
 +.wingamestore.com
 +.wingy.site
 +.winning11.com
