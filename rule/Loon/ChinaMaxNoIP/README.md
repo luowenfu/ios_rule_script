@@ -81,6 +81,8 @@ ChinaMax排除相关IP规则版本
 | DOMAIN | 289  | 
 最后更新时间：2026-04-10 02:25:59
 | DOMAIN | 312  | 
+最后更新时间：2026-08-22 02:32:09
+| DOMAIN | 267  | 
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 117187  | 
 | USER-AGENT | 65  | 
@@ -308,6 +310,7 @@ ChinaMax排除相关IP规则版本
 | TOTAL | 111384  | 
 | DOMAIN-SUFFIX | 111011  | 
 | TOTAL | 111385  | 
+| TOTAL | 111356  | 
 ## Loon 
 #### 配置建议
 - ChinaMaxNoIP.list、ChinaMaxNoIP_Domain.list 共同使用。

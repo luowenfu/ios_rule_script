@@ -189,6 +189,9 @@
 # UPDATED: 2026-08-12 02:54:21
 # DOMAIN-SUFFIX: 6760
 # TOTAL: 6892
+# UPDATED: 2026-08-22 02:30:24
+# DOMAIN-SUFFIX: 6761
+# TOTAL: 6893
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -4325,6 +4328,7 @@ DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,old-cat.net
+DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com

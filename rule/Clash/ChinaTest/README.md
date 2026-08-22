@@ -82,6 +82,8 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 130  | 
+最后更新时间：2026-08-22 02:30:47
+| DOMAIN | 90  | 
 | DOMAIN-KEYWORD | 9  | 
 | DOMAIN-SUFFIX | 116786  | 
 | IP-CIDR | 11  | 
@@ -292,6 +294,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 111323  | 
 | DOMAIN-SUFFIX | 111181  | 
 | TOTAL | 111324  | 
+| TOTAL | 111295  | 
 ## Clash 
 #### 使用说明
 - ChinaTest.yaml，请使用 behavior: "classical"。

@@ -110,6 +110,8 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST | 289  | 
 最后更新时间：2026-04-10 02:26:30
 | HOST | 312  | 
+最后更新时间：2026-08-22 02:32:41
+| HOST | 267  | 
 | HOST-KEYWORD | 11  | 
 | HOST-SUFFIX | 117079  | 
 | HOST-SUFFIX | 117803  | 
@@ -519,6 +521,8 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 123721  | 
 | TOTAL | 123438  | 
 | TOTAL | 123440  | 
+| IP-CIDR | 8190  | 
+| TOTAL | 123413  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoMedia.list 单独使用。

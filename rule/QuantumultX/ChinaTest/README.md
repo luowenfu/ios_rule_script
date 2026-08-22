@@ -82,6 +82,8 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 130  | 
+最后更新时间：2026-08-22 02:30:43
+| HOST | 90  | 
 | HOST-KEYWORD | 9  | 
 | HOST-SUFFIX | 116786  | 
 | HOST | 131  | 
@@ -294,6 +296,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 111348  | 
 | TOTAL | 111355  | 
 | TOTAL | 111356  | 
+| TOTAL | 111327  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaTest.list 单独使用。

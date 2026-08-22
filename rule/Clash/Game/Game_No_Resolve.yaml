@@ -123,6 +123,7 @@
 # UPDATED: 2026-08-16 02:19:57
 # UPDATED: 2026-08-18 02:28:49
 # UPDATED: 2026-08-20 02:25:31
+# UPDATED: 2026-08-22 02:28:32
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 539
@@ -552,16 +553,13 @@ payload:
   - DOMAIN-SUFFIX,lpl.com.cn
   - DOMAIN-SUFFIX,molesports.com
   - DOMAIN-SUFFIX,playvalorant.com
-  - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
   - DOMAIN-SUFFIX,rgpub.io
   - DOMAIN-SUFFIX,riot-games.com
   - DOMAIN-SUFFIX,riot.com
   - DOMAIN-SUFFIX,riot.net
-  - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,riotforgegames.com
   - DOMAIN-SUFFIX,riotgames.co.kr
-  - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,riotgames.info
   - DOMAIN-SUFFIX,riotgames.jp
   - DOMAIN-SUFFIX,riotgames.net
@@ -638,6 +636,9 @@ payload:
   - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,uplay.com
+  - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -684,7 +685,6 @@ payload:
   - IP-CIDR,210.242.235.6/32,no-resolve
   - IP-CIDR,54.94.196.47/32,no-resolve
   - IP-CIDR,182.162.132.1/32,no-resolve
-  - IP-CIDR,103.4.114.233/32,no-resolve
   - IP-CIDR,182.162.116.1/32,no-resolve
   - IP-CIDR,202.9.67.59/32,no-resolve
   - IP-CIDR,203.69.111.4/32,no-resolve
@@ -697,6 +697,7 @@ payload:
   - IP-CIDR,24.105.30.129/32,no-resolve
   - IP-CIDR,24.105.62.129/32,no-resolve
   - IP-CIDR,54.207.107.12/32,no-resolve
+  - IP-CIDR,103.4.114.233/32,no-resolve
   - IP-CIDR,202.9.67.254/32,no-resolve
   - IP-CIDR,222.231.22.1/32,no-resolve
   - IP-CIDR,13.210.25.233/32,no-resolve

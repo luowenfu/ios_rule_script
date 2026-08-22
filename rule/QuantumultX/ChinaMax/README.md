@@ -115,6 +115,8 @@
 | HOST | 290  | 
 最后更新时间：2026-04-10 02:25:22
 | HOST | 313  | 
+最后更新时间：2026-08-22 02:31:35
+| HOST | 268  | 
 | HOST-KEYWORD | 13  | 
 | HOST-SUFFIX | 117527  | 
 | HOST-SUFFIX | 118246  | 
@@ -524,6 +526,8 @@
 | TOTAL | 124157  | 
 | TOTAL | 123874  | 
 | TOTAL | 123876  | 
+| IP-CIDR | 8190  | 
+| TOTAL | 123849  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMax.list 单独使用。

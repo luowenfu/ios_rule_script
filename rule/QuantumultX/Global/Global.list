@@ -364,6 +364,9 @@
 # UPDATED: 2026-08-20 02:27:20
 # HOST-SUFFIX: 34759
 # TOTAL: 35741
+# UPDATED: 2026-08-22 02:30:23
+# HOST-SUFFIX: 34769
+# TOTAL: 35751
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1527,6 +1530,7 @@ HOST-SUFFIX,592r.com,Global
 HOST-SUFFIX,59mvmv.com,Global
 HOST-SUFFIX,5axis-machining.com,Global
 HOST-SUFFIX,5beatsbydre.com,Global
+HOST-SUFFIX,5ch.io,Global
 HOST-SUFFIX,5ch.net,Global
 HOST-SUFFIX,5fang.cc,Global
 HOST-SUFFIX,5itv.tv,Global
@@ -2760,6 +2764,7 @@ HOST-SUFFIX,amazonstudiosguilds.com,Global
 HOST-SUFFIX,amazontrust.com,Global
 HOST-SUFFIX,amazonvideo.cc,Global
 HOST-SUFFIX,amazonvideodirect.com,Global
+HOST-SUFFIX,amazonwebservices.com,Global
 HOST-SUFFIX,amazonworkdocs.com,Global
 HOST-SUFFIX,ambs.ac.uk,Global
 HOST-SUFFIX,amc.com,Global
@@ -8672,6 +8677,7 @@ HOST-SUFFIX,drdreprobeatssale.com,Global
 HOST-SUFFIX,dream-cdt.ac.uk,Global
 HOST-SUFFIX,dreambmw.ca,Global
 HOST-SUFFIX,dreamforce.com,Global
+HOST-SUFFIX,dreamgen.com,Global
 HOST-SUFFIX,dreammovies.com,Global
 HOST-SUFFIX,dreamorder.com,Global
 HOST-SUFFIX,dreamteamfc.com,Global
@@ -10245,6 +10251,7 @@ HOST-SUFFIX,fans-here.com,Global
 HOST-SUFFIX,fans17.com,Global
 HOST-SUFFIX,fans66.tw,Global
 HOST-SUFFIX,fansking.tw,Global
+HOST-SUFFIX,fansly.com,Global
 HOST-SUFFIX,fansnudes.com,Global
 HOST-SUFFIX,fansone.co,Global
 HOST-SUFFIX,fanspot.jp,Global
@@ -18526,6 +18533,8 @@ HOST-SUFFIX,nichost.ru,Global
 HOST-SUFFIX,nicis.ac.uk,Global
 HOST-SUFFIX,nickscipio.com,Global
 HOST-SUFFIX,nicky.xxx,Global
+HOST-SUFFIX,nico.ms,Global
+HOST-SUFFIX,nicochannel.jp,Global
 HOST-SUFFIX,nicodic.jp,Global
 HOST-SUFFIX,nicolepeters.com,Global
 HOST-SUFFIX,nicomanga.jp,Global
@@ -18857,6 +18866,7 @@ HOST-SUFFIX,northumberland.ac.uk,Global
 HOST-SUFFIX,northumbria.ac.uk,Global
 HOST-SUFFIX,norton.com,Global
 HOST-SUFFIX,norwichresearchpark.ac.uk,Global
+HOST-SUFFIX,notegpt.io,Global
 HOST-SUFFIX,noticias-rt.com,Global
 HOST-SUFFIX,notimundo.press,Global
 HOST-SUFFIX,notion-static.com,Global
@@ -18880,6 +18890,7 @@ HOST-SUFFIX,nottinghamknowledge.ac.uk,Global
 HOST-SUFFIX,nottinghamtrentadfs.ac.uk,Global
 HOST-SUFFIX,nottm-coll.ac.uk,Global
 HOST-SUFFIX,nottsmaternity.ac.uk,Global
+HOST-SUFFIX,novelai.net,Global
 HOST-SUFFIX,novella.ac.uk,Global
 HOST-SUFFIX,noveltrove.com,Global
 HOST-SUFFIX,novids.com,Global
@@ -24335,6 +24346,7 @@ HOST-SUFFIX,takporn.com,Global
 HOST-SUFFIX,talantix.ru,Global
 HOST-SUFFIX,talentlens.com,Global
 HOST-SUFFIX,taleofthenight.com,Global
+HOST-SUFFIX,talkai.info,Global
 HOST-SUFFIX,talkinghealthmatters.ac.uk,Global
 HOST-SUFFIX,talkingkotlin.com,Global
 HOST-SUFFIX,talksport.com,Global
@@ -33218,6 +33230,7 @@ HOST-SUFFIX,oklink.com,Global
 HOST-SUFFIX,okpool.me,Global
 HOST-SUFFIX,okx.com,Global
 HOST-SUFFIX,old-cat.net,Global
+HOST-SUFFIX,oldmapsonline.org,Global
 HOST-SUFFIX,olehdtv.com,Global
 HOST-SUFFIX,olelive.com,Global
 HOST-SUFFIX,olevod.com,Global
