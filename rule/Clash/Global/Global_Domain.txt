@@ -347,6 +347,9 @@
 # UPDATED: 2026-08-22 02:30:02
 # DOMAIN-SUFFIX: 34734
 # TOTAL: 35015
+# UPDATED: 2026-08-24 02:23:18
+# DOMAIN-SUFFIX: 34738
+# TOTAL: 35019
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -6016,7 +6019,6 @@ login.microsoftonline.com
 .chatango.com
 .chatgpt.com
 .chatgpt.livekit.cloud
-.chatgpt.site
 .chatgptvideo.xyz
 .chatgptvideob.buzz
 .chatsex.xxx
@@ -21942,7 +21944,6 @@ login.microsoftonline.com
 .saynow.com
 .sb-mobile.jp
 .sb-telecom.net
-.sb.sb
 .sb24.com
 .sbank.ir
 .sbc.ac.uk
@@ -29284,6 +29285,7 @@ login.microsoftonline.com
 .breaking911.com
 .breakingtweets.com
 .breakwall.net
+.briarproject.org
 .briefdream.com
 .briian.com
 .brill.com
@@ -29498,6 +29500,7 @@ login.microsoftonline.com
 .chapm25.com
 .character.ai
 .chat.com
+.chatgpt.site
 .chatnook.com
 .chatpdf.com
 .chaturbate.com
@@ -31060,6 +31063,7 @@ login.microsoftonline.com
 .himemix.net
 .hindustantimes.com
 .hinet.net
+.historylines.net
 .hitbtc.com
 .hitomi.la
 .hitun.io
@@ -31672,6 +31676,7 @@ login.microsoftonline.com
 .kir.jp
 .kissjav.com
 .kiwi.kz
+.kiwix.org
 .kk-whys.co.jp
 .kkbox.com
 .kknews.cc
@@ -31999,6 +32004,7 @@ login.microsoftonline.com
 .mayimayi.com
 .mcadforums.com
 .mcaf.ee
+.mceindex.com
 .mcfog.com
 .mcreasite.com
 .mcusercontent.com
@@ -33296,6 +33302,7 @@ login.microsoftonline.com
 .savevid.com
 .say2.info
 .sb-cd.com
+.sb.sb
 .sbme.me
 .sbs.com.au
 .sbti.unun.dev
