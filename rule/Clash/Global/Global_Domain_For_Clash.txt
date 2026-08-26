@@ -350,6 +350,9 @@
 # UPDATED: 2026-08-24 02:23:18
 # DOMAIN-SUFFIX: 34738
 # TOTAL: 35019
+# UPDATED: 2026-08-26 02:33:54
+# DOMAIN-SUFFIX: 34739
+# TOTAL: 35020
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -12590,7 +12593,6 @@ login.microsoftonline.com
 +.hp-mns.com
 +.hp-printing.com
 +.hp-webplatform.com
-+.hp-ww.com
 +.hp.company
 +.hp.io
 +.hp3d.com
@@ -28897,6 +28899,7 @@ login.microsoftonline.com
 +.api.ai
 +.api.mixpanel.com
 +.api.moomoobull.com
++.api.shuaiapi.com
 +.apiary.io
 +.apigee.com
 +.apk-dl.com
@@ -34917,6 +34920,7 @@ login.microsoftonline.com
 +.x24hr.com
 +.x365x.com
 +.x3guide.com
++.x86.fr
 +.xanga.com
 +.xbabe.com
 +.xbookcn.com

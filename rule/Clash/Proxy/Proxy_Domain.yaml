@@ -195,6 +195,9 @@
 # UPDATED: 2026-08-24 02:23:41
 # DOMAIN-SUFFIX: 6767
 # TOTAL: 6899
+# UPDATED: 2026-08-26 02:34:17
+# DOMAIN-SUFFIX: 6769
+# TOTAL: 6901
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -587,6 +590,7 @@ payload:
   - '+.api.mixpanel.com'
   - '+.api.moomoobull.com'
   - '+.api.proxlet.com'
+  - '+.api.shuaiapi.com'
   - '+.api.termius.com'
   - '+.apiary.io'
   - '+.apigee.com'
@@ -6671,6 +6675,7 @@ payload:
   - '+.x24hr.com'
   - '+.x365x.com'
   - '+.x3guide.com'
+  - '+.x86.fr'
   - '+.xanga.com'
   - '+.xbabe.com'
   - '+.xbookcn.com'

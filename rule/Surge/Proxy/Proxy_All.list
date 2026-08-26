@@ -196,6 +196,9 @@
 # UPDATED: 2026-08-24 02:23:41
 # DOMAIN-SUFFIX: 6767
 # TOTAL: 6907
+# UPDATED: 2026-08-26 02:34:17
+# DOMAIN-SUFFIX: 6769
+# TOTAL: 6909
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -587,6 +590,7 @@ DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,api.proxlet.com
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apigee.com
@@ -6671,6 +6675,7 @@ DOMAIN-SUFFIX,x1949x.com
 DOMAIN-SUFFIX,x24hr.com
 DOMAIN-SUFFIX,x365x.com
 DOMAIN-SUFFIX,x3guide.com
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,xbabe.com
 DOMAIN-SUFFIX,xbookcn.com

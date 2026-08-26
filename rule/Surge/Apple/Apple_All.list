@@ -127,6 +127,7 @@
 # UPDATED: 2026-08-20 02:25:34
 # UPDATED: 2026-08-22 02:28:35
 # UPDATED: 2026-08-24 02:21:47
+# UPDATED: 2026-08-26 02:32:21
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1654,6 +1655,7 @@ DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleenews.com
 DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,applemusic.co
+DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applemusic.com.au
 DOMAIN-SUFFIX,applemusic.hamburg
 DOMAIN-SUFFIX,applemusic.wang
@@ -1686,13 +1688,12 @@ DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,wwwapplemusic.com
-DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apzones.com
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-KEYWORD,apple-support.akadns.net
@@ -1734,9 +1735,9 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
-USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,WeatherWidget
