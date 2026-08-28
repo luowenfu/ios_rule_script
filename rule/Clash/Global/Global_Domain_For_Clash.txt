@@ -353,6 +353,9 @@
 # UPDATED: 2026-08-26 02:33:54
 # DOMAIN-SUFFIX: 34739
 # TOTAL: 35020
+# UPDATED: 2026-08-28 10:00:37
+# DOMAIN-SUFFIX: 34743
+# TOTAL: 35024
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -1242,6 +1245,7 @@ login.microsoftonline.com
 +.adguard.info
 +.adguard.io
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -11745,6 +11749,7 @@ login.microsoftonline.com
 +.h-webtoon.com
 +.h0930.com
 +.h18ani1.vip
++.h264.io
 +.h2o.ai
 +.h2porn.com
 +.habr.com
@@ -19308,6 +19313,7 @@ login.microsoftonline.com
 +.oursexgames.com
 +.ourshdtv.com
 +.ourshemales.com
++.ouryahoo.com
 +.oustudios.ac.uk
 +.out-app-purchase.com
 +.outbound.io
@@ -27871,6 +27877,7 @@ login.microsoftonline.com
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosportsbook.com
 +.yaklass.ru

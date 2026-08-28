@@ -239,6 +239,8 @@
 # DOMAIN-SUFFIX: 34738
 # UPDATED: 2026-08-26 02:33:53
 # DOMAIN-SUFFIX: 34739
+# UPDATED: 2026-08-28 10:00:36
+# DOMAIN-SUFFIX: 34743
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
@@ -354,6 +356,7 @@
 # TOTAL: 35061
 # TOTAL: 35065
 # TOTAL: 35066
+# TOTAL: 35070
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -1243,6 +1246,7 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
@@ -11746,6 +11750,7 @@ DOMAIN-SUFFIX,h-top.supertop-100.com
 DOMAIN-SUFFIX,h-webtoon.com
 DOMAIN-SUFFIX,h0930.com
 DOMAIN-SUFFIX,h18ani1.vip
+DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,h2porn.com
 DOMAIN-SUFFIX,habr.com
@@ -19309,6 +19314,7 @@ DOMAIN-SUFFIX,ouroath.com
 DOMAIN-SUFFIX,oursexgames.com
 DOMAIN-SUFFIX,ourshdtv.com
 DOMAIN-SUFFIX,ourshemales.com
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,oustudios.ac.uk
 DOMAIN-SUFFIX,out-app-purchase.com
 DOMAIN-SUFFIX,outbound.io
@@ -27872,6 +27878,7 @@ DOMAIN-SUFFIX,yahoo.ws
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosportsbook.com
 DOMAIN-SUFFIX,yaklass.ru
