@@ -195,6 +195,9 @@
 # UPDATED: 2026-08-26 02:34:18
 # HOST-SUFFIX: 7240
 # TOTAL: 7390
+# UPDATED: 2026-08-30 04:17:26
+# HOST-SUFFIX: 7241
+# TOTAL: 7391
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -7106,6 +7109,7 @@ HOST-SUFFIX,wqyd.org,Proxy
 HOST-SUFFIX,wr.pvp.net,Proxy
 HOST-SUFFIX,wrchina.org,Proxy
 HOST-SUFFIX,wretch.cc,Proxy
+HOST-SUFFIX,write.as,Proxy
 HOST-SUFFIX,writesonic.com,Proxy
 HOST-SUFFIX,wsj.com,Proxy
 HOST-SUFFIX,wsj.net,Proxy
