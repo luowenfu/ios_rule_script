@@ -359,6 +359,9 @@
 # UPDATED: 2026-08-30 04:17:10
 # DOMAIN-SUFFIX: 34747
 # TOTAL: 35028
+# UPDATED: 2026-09-01 06:19:40
+# DOMAIN-SUFFIX: 34748
+# TOTAL: 35029
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -18231,7 +18234,6 @@ login.microsoftonline.com
 .nicolepeters.com
 .nicomanga.jp
 .niconico.com
-.nicoseiga.jp
 .niees.ac.uk
 .niesr.ac.uk
 .night.livedoor.biz
@@ -30755,6 +30757,7 @@ login.microsoftonline.com
 .getlantern.org
 .getmalus.com
 .getmdl.io
+.getmonero.org
 .getoutline.org
 .getpricetag.com
 .getsession.org
@@ -32464,6 +32467,7 @@ login.microsoftonline.com
 .nhncorp.jp
 .nianticlabs.com
 .nic.gov
+.nicoseiga.jp
 .nicovideo.jp
 .nighost.org
 .nightlife141.com

@@ -201,6 +201,9 @@
 # UPDATED: 2026-08-30 04:17:26
 # DOMAIN-SUFFIX: 6770
 # TOTAL: 6902
+# UPDATED: 2026-09-01 06:20:03
+# DOMAIN-SUFFIX: 6772
+# TOTAL: 6904
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -2465,6 +2468,7 @@ DOMAIN-SUFFIX,getjetso.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,getmonero.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,getsession.org
@@ -4184,6 +4188,7 @@ DOMAIN-SUFFIX,nhk-ondemand.jp
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nic.gov
+DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nighost.org
 DOMAIN-SUFFIX,nightlife141.com

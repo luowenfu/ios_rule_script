@@ -379,6 +379,9 @@
 # UPDATED: 2026-08-30 04:17:25
 # HOST-SUFFIX: 34782
 # TOTAL: 35764
+# UPDATED: 2026-09-01 06:20:02
+# HOST-SUFFIX: 34783
+# TOTAL: 35765
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -18552,7 +18555,6 @@ HOST-SUFFIX,nicodic.jp,Global
 HOST-SUFFIX,nicolepeters.com,Global
 HOST-SUFFIX,nicomanga.jp,Global
 HOST-SUFFIX,niconico.com,Global
-HOST-SUFFIX,nicoseiga.jp,Global
 HOST-SUFFIX,niees.ac.uk,Global
 HOST-SUFFIX,niesr.ac.uk,Global
 HOST-SUFFIX,night.livedoor.biz,Global
@@ -31109,6 +31111,7 @@ HOST-SUFFIX,getjetso.com,Global
 HOST-SUFFIX,getlantern.org,Global
 HOST-SUFFIX,getmalus.com,Global
 HOST-SUFFIX,getmdl.io,Global
+HOST-SUFFIX,getmonero.org,Global
 HOST-SUFFIX,getoutline.org,Global
 HOST-SUFFIX,getpricetag.com,Global
 HOST-SUFFIX,getsession.org,Global
@@ -33095,6 +33098,7 @@ HOST-SUFFIX,nhncorp.jp,Global
 HOST-SUFFIX,nianticlabs.com,Global
 HOST-SUFFIX,nic.google,Global
 HOST-SUFFIX,nic.gov,Global
+HOST-SUFFIX,nicoseiga.jp,Global
 HOST-SUFFIX,nicovideo.jp,Global
 HOST-SUFFIX,nighost.org,Global
 HOST-SUFFIX,nightlife141.com,Global
