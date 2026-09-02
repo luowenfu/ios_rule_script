@@ -80,6 +80,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-08-18 02:30:56
 最后更新时间：2026-08-26 02:34:36
 最后更新时间：2026-09-01 06:20:23
+最后更新时间：2026-09-02 04:27:06
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -213,6 +214,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-08-30 04:17:38
 | HOST-SUFFIX | 111036  | 
 | HOST-SUFFIX | 111016  | 
+| HOST-SUFFIX | 110933  | 
 | HOST-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP6-CIDR | 4  | 
@@ -310,6 +312,7 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 111848  | 
 | TOTAL | 111182  | 
 | TOTAL | 111162  | 
+| TOTAL | 111079  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaTest.list 单独使用。

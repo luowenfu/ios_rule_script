@@ -380,6 +380,9 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-09-01 06:21:42
 | IP-CIDR | 30460  | 
 | TOTAL | 30460  | 
+最后更新时间：2026-09-02 04:28:12
+| IP-CIDR | 30455  | 
+| TOTAL | 30455  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaIPsTest.list，请使用RULE-SET。
