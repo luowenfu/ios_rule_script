@@ -332,6 +332,9 @@
 # UPDATED: 2026-09-04 04:26:52
 # DOMAIN-SUFFIX: 110688
 # TOTAL: 110982
+# UPDATED: 2026-09-06 03:55:04
+# DOMAIN-SUFFIX: 110708
+# TOTAL: 111002
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
@@ -342,10 +345,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,qiyi
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.bilibili.app.blue
   - PROCESS-NAME,com.bilibili.app.in
