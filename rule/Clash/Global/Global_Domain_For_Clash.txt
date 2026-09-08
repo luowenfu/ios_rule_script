@@ -368,6 +368,9 @@
 # UPDATED: 2026-09-06 03:52:55
 # DOMAIN-SUFFIX: 34756
 # TOTAL: 35037
+# UPDATED: 2026-09-08 05:03:09
+# DOMAIN-SUFFIX: 34762
+# TOTAL: 35043
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -12125,7 +12128,6 @@ login.microsoftonline.com
 +.hentai.pink
 +.hentai.pro
 +.hentai.toys
-+.hentai.tv
 +.hentai0.com
 +.hentai01.com
 +.hentai2.net
@@ -23842,7 +23844,6 @@ login.microsoftonline.com
 +.superstem.ac.uk
 +.supertop.co
 +.superuser.com
-+.supjav.com
 +.supply-chain.ac.uk
 +.supplybestjerseys.com
 +.support-uber.com
@@ -24061,7 +24062,6 @@ login.microsoftonline.com
 +.tagapie.com.tw
 +.tagbank.ru
 +.tags.ac.uk
-+.taiav.com
 +.taiko.xyz
 +.tail-f.com
 +.tailf.com
@@ -28562,6 +28562,8 @@ login.microsoftonline.com
 +.10conditionsoflove.com
 +.10musume.com
 +.111666.best
++.123av.com
++.123av.me
 +.123rf.com
 +.12bet.com
 +.12vpn.com
@@ -31049,6 +31051,7 @@ login.microsoftonline.com
 +.helpzhuling.org
 +.hembed.com
 +.hentai.to
++.hentai.tv
 +.hentaitube.tv
 +.hentaivideoworld.com
 +.heqinglian.net
@@ -33246,6 +33249,7 @@ login.microsoftonline.com
 +.roblox.com
 +.roboforex.com
 +.robustnessiskey.com
++.roc-taiwan.org
 +.rocket-inc.net
 +.rocket.chat
 +.rocketbbs.com
@@ -33261,6 +33265,7 @@ login.microsoftonline.com
 +.rotten.com
 +.rou.video
 +.roucdn.link
++.roushuwo.com
 +.rpglogs.com
 +.rsdlmonitor.com
 +.rsf-chinese.org
@@ -33775,6 +33780,7 @@ login.microsoftonline.com
 +.superpages.com
 +.supervpn.net
 +.superzooi.com
++.supjav.com
 +.suppig.net
 +.supremecourt.gov
 +.suprememastertv.com
@@ -33825,6 +33831,7 @@ login.microsoftonline.com
 +.tagwa.org.au
 +.tagwalk.com
 +.tahr.org.tw
++.taiav.com
 +.tails.net
 +.taipeisociety.org
 +.taipeitimes.com
@@ -33834,6 +33841,7 @@ login.microsoftonline.com
 +.taiwancon.com
 +.taiwandaily.net
 +.taiwandc.org
++.taiwanembassy.org
 +.taiwanhot.net
 +.taiwanjustice.com
 +.taiwanjustice.net
@@ -34924,6 +34932,7 @@ login.microsoftonline.com
 +.wsj.net
 +.wsjhk.com
 +.wtbn.org
++.wtfpass.com
 +.wtfpeople.com
 +.wuerkaixi.com
 +.wufafangwen.com
