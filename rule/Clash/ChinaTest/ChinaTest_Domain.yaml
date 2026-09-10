@@ -312,6 +312,9 @@
 # UPDATED: 2026-09-08 05:03:51
 # DOMAIN-SUFFIX: 110850
 # TOTAL: 110964
+# UPDATED: 2026-09-10 04:21:08
+# DOMAIN-SUFFIX: 110851
+# TOTAL: 110965
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -105353,6 +105356,7 @@ payload:
   - '+.yuanpanguoji.com'
   - '+.yuanqiao.net'
   - '+.yuanqiao.pw'
+  - '+.yuanqidesk.com'
   - '+.yuanqilt.com'
   - '+.yuanqingsh.com'
   - '+.yuanqisenlin.com'

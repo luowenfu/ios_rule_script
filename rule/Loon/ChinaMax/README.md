@@ -115,6 +115,7 @@
 最后更新时间：2026-09-04 04:26:23
 最后更新时间：2026-09-06 03:54:32
 最后更新时间：2026-09-08 05:04:45
+最后更新时间：2026-09-10 04:21:58
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -134,6 +135,7 @@
 | DOMAIN-SUFFIX | 111327  | 
 | DOMAIN-SUFFIX | 111034  | 
 | DOMAIN-SUFFIX | 111051  | 
+| DOMAIN-SUFFIX | 111052  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8258  | 
 | IP-CIDR6 | 12289  | 
@@ -556,6 +558,7 @@
 | TOTAL | 123818  | 
 | TOTAL | 123838  | 
 | TOTAL | 123855  | 
+| TOTAL | 123856  | 
 ## Loon 
 #### 文件区别
 - ChinaMax_Resolve.list与ChinaMax.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
