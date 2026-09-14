@@ -520,6 +520,9 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 22905  | 
 | IP6-CIDR | 7540  | 
 | TOTAL | 30445  | 
+最后更新时间：2026-09-14 04:10:28
+| IP-CIDR | 23119  | 
+| TOTAL | 30659  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaIPsTest.list 单独使用。

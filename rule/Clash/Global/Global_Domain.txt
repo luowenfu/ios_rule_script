@@ -374,6 +374,9 @@
 # UPDATED: 2026-09-10 04:20:22
 # DOMAIN-SUFFIX: 34763
 # TOTAL: 35044
+# UPDATED: 2026-09-14 04:08:31
+# DOMAIN-SUFFIX: 34764
+# TOTAL: 35045
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -33105,6 +33108,7 @@ login.microsoftonline.com
 .qstatus.com
 .qtrac.eu
 .qtweeter.com
+.quakemachinex.com
 .quannengshen.org
 .quantumbooter.net
 .quay.io

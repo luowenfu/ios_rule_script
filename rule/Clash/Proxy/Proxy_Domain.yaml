@@ -210,6 +210,9 @@
 # UPDATED: 2026-09-08 05:03:31
 # DOMAIN-SUFFIX: 6783
 # TOTAL: 6915
+# UPDATED: 2026-09-14 04:08:54
+# DOMAIN-SUFFIX: 6784
+# TOTAL: 6916
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -4822,6 +4825,7 @@ payload:
   - '+.qstatus.com'
   - '+.qtrac.eu'
   - '+.qtweeter.com'
+  - '+.quakemachinex.com'
   - '+.quannengshen.org'
   - '+.quantumbooter.net'
   - '+.quay.io'

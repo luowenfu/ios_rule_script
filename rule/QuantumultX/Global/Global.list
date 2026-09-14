@@ -395,6 +395,9 @@
 # UPDATED: 2026-09-10 04:20:44
 # HOST-SUFFIX: 34798
 # TOTAL: 35781
+# UPDATED: 2026-09-14 04:08:53
+# HOST-SUFFIX: 34799
+# TOTAL: 35782
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -33766,6 +33769,7 @@ HOST-SUFFIX,qq.co.za,Global
 HOST-SUFFIX,qstatus.com,Global
 HOST-SUFFIX,qtrac.eu,Global
 HOST-SUFFIX,qtweeter.com,Global
+HOST-SUFFIX,quakemachinex.com,Global
 HOST-SUFFIX,quannengshen.org,Global
 HOST-SUFFIX,quantumbooter.net,Global
 HOST-SUFFIX,quay.io,Global

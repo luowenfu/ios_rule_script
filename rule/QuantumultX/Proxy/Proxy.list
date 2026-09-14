@@ -207,6 +207,9 @@
 # UPDATED: 2026-09-08 05:03:31
 # HOST-SUFFIX: 7254
 # TOTAL: 7404
+# UPDATED: 2026-09-14 04:08:55
+# HOST-SUFFIX: 7255
+# TOTAL: 7405
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5246,6 +5249,7 @@ HOST-SUFFIX,qq.co.za,Proxy
 HOST-SUFFIX,qstatus.com,Proxy
 HOST-SUFFIX,qtrac.eu,Proxy
 HOST-SUFFIX,qtweeter.com,Proxy
+HOST-SUFFIX,quakemachinex.com,Proxy
 HOST-SUFFIX,quannengshen.org,Proxy
 HOST-SUFFIX,quantumbooter.net,Proxy
 HOST-SUFFIX,quay.io,Proxy
