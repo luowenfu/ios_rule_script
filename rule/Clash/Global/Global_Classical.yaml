@@ -377,6 +377,9 @@
 # UPDATED: 2026-09-14 04:08:31
 # DOMAIN-SUFFIX: 34764
 # TOTAL: 35045
+# UPDATED: 2026-09-18 04:53:35
+# DOMAIN-SUFFIX: 34767
+# TOTAL: 35048
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -23735,6 +23738,9 @@ payload:
   - DOMAIN-SUFFIX,stripe-terminal-local-reader.net
   - DOMAIN-SUFFIX,stripe.ac.uk
   - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.dev
+  - DOMAIN-SUFFIX,stripe.events
+  - DOMAIN-SUFFIX,stripe.global
   - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,stripparadise.com

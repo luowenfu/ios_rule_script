@@ -377,6 +377,9 @@
 # UPDATED: 2026-09-14 04:08:31
 # DOMAIN-SUFFIX: 34764
 # TOTAL: 35045
+# UPDATED: 2026-09-18 04:53:35
+# DOMAIN-SUFFIX: 34767
+# TOTAL: 35048
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -23734,6 +23737,9 @@ login.microsoftonline.com
 +.stripe-terminal-local-reader.net
 +.stripe.ac.uk
 +.stripe.com
++.stripe.dev
++.stripe.events
++.stripe.global
 +.stripe.network
 +.stripecdn.com
 +.stripparadise.com
