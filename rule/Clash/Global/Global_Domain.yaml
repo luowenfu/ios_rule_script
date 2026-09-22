@@ -380,6 +380,9 @@
 # UPDATED: 2026-09-18 04:53:35
 # DOMAIN-SUFFIX: 34767
 # TOTAL: 35048
+# UPDATED: 2026-09-22 05:32:46
+# DOMAIN-SUFFIX: 34772
+# TOTAL: 35053
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -6529,6 +6532,7 @@ payload:
   - '+.code.org'
   - '+.codeberg.org'
   - '+.codeberg.page'
+  - '+.codebuff.com'
   - '+.codecademy.com'
   - '+.codeforaliving.io'
   - '+.codeforces.com'
@@ -10039,11 +10043,13 @@ payload:
   - '+.fire-emblem-heroes.com'
   - '+.firebase-settings.crashlytics.com'
   - '+.firebase.com'
+  - '+.firebase.dev'
   - '+.firebase.io'
   - '+.firebaseapp.com'
   - '+.firech.at'
   - '+.fireemblemawakening.com'
   - '+.fireflyresearch.ac.uk'
+  - '+.firefox-portal-detection.com'
   - '+.firefox.hu'
   - '+.firefoxtweetmachine.com'
   - '+.firefoxusercontent.com'
@@ -10439,6 +10445,7 @@ payload:
   - '+.freebigmovies.com'
   - '+.freebs.com'
   - '+.freebsd.org'
+  - '+.freebuff.com'
   - '+.freecamsfan.com'
   - '+.freecamstars.com'
   - '+.freecartoons.biz'
@@ -24339,6 +24346,7 @@ payload:
   - '+.textminingcentre.ac.uk'
   - '+.texttobuy.org'
   - '+.texture.com'
+  - '+.tfbnw.net'
   - '+.tferwq.com'
   - '+.tfsallin.net'
   - '+.tgac.ac.uk'
