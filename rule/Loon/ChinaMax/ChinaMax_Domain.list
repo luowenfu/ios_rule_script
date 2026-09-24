@@ -561,6 +561,8 @@
 # UPDATED: 2026-09-22 05:34:24
 # DOMAIN-SUFFIX: 111060
 # IP-CIDR6: 4218
+# UPDATED: 2026-09-24 05:00:26
+# DOMAIN-SUFFIX: 111061
 .0.zone
 .00.net
 .000.link
@@ -83113,6 +83115,7 @@
 .sjf029.com
 .sjfcdn.com
 .sjfh168.com
+.sjfls6.com
 .sjfpro.com
 .sjfzxm.com
 .sjg8.com
