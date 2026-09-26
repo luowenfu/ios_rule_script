@@ -409,6 +409,9 @@
 # UPDATED: 2026-09-24 04:59:16
 # HOST-SUFFIX: 34809
 # TOTAL: 35794
+# UPDATED: 2026-09-26 04:58:48
+# HOST-SUFFIX: 34808
+# TOTAL: 35793
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -15721,7 +15724,6 @@ HOST-SUFFIX,like-video.com,Global
 HOST-SUFFIX,likee.com,Global
 HOST-SUFFIX,likeeapp.ru,Global
 HOST-SUFFIX,likeevideo.com,Global
-HOST-SUFFIX,likeevideo.ru,Global
 HOST-SUFFIX,likeseiyu.com,Global
 HOST-SUFFIX,liketruyen.net,Global
 HOST-SUFFIX,liketwice.com,Global
