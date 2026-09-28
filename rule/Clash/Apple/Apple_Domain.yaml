@@ -139,6 +139,7 @@
 # UPDATED: 2026-09-22 05:31:11
 # UPDATED: 2026-09-24 04:57:33
 # UPDATED: 2026-09-26 04:57:30
+# UPDATED: 2026-09-28 04:41:31
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1551
@@ -1662,7 +1663,6 @@ payload:
   - '+.wwwipodlounge.com'
   - '+.wwwmacbookair.com'
   - '+.apple.comscoreresearch.com'
-  - '+.apple.news'
   - '+.appleenews.com'
   - '+.applemusic.berlin'
   - '+.applemusic.co'
@@ -1700,6 +1700,7 @@ payload:
   - '+.wwwapplemusic.com'
   - '+.applemusic.com'
   - '+.apple-dns.net'
+  - '+.apple.news'
   - '+.digicert.com'
   - '+.apple-cloudkit.com'
   - '+.apple-livephotoskit.com'

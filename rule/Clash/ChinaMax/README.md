@@ -124,6 +124,7 @@
 最后更新时间：2026-09-22 05:34:27
 最后更新时间：2026-09-24 05:00:28
 最后更新时间：2026-09-26 04:59:39
+最后更新时间：2026-09-28 04:44:02
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -144,6 +145,7 @@
 | DOMAIN-SUFFIX | 111034  | 
 | DOMAIN-SUFFIX | 111051  | 
 | DOMAIN-SUFFIX | 111052  | 
+| DOMAIN-SUFFIX | 111254  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8258  | 
 | IP-CIDR6 | 12289  | 
@@ -579,6 +581,7 @@
 | DOMAIN-SUFFIX | 111061  | 
 | DOMAIN-SUFFIX | 111304  | 
 | TOTAL | 124056  | 
+| TOTAL | 124006  | 
 ## Clash 
 #### 使用说明
 - ChinaMax.yaml，请使用 behavior: "classical"。

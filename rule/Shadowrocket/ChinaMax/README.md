@@ -124,6 +124,7 @@
 最后更新时间：2026-09-22 05:34:29
 最后更新时间：2026-09-24 05:00:31
 最后更新时间：2026-09-26 04:59:40
+最后更新时间：2026-09-28 04:44:03
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -145,6 +146,7 @@
 | DOMAIN-SUFFIX | 111034  | 
 | DOMAIN-SUFFIX | 111051  | 
 | DOMAIN-SUFFIX | 111052  | 
+| DOMAIN-SUFFIX | 111254  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 20547  | 
 | DOMAIN-SUFFIX | 118163  | 
@@ -537,6 +539,7 @@
 | DOMAIN-SUFFIX | 111061  | 
 | DOMAIN-SUFFIX | 111304  | 
 | TOTAL | 124107  | 
+| TOTAL | 124057  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

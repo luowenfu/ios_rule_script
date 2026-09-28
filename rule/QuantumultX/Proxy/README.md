@@ -82,10 +82,11 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-09-08 05:03:31
 最后更新时间：2026-09-14 04:08:55
 最后更新时间：2026-09-24 04:59:18
+最后更新时间：2026-09-28 04:43:02
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 19  | 
+| HOST | 20  | 
 | HOST-KEYWORD | 26  | 
 | HOST-SUFFIX | 7039  | 
 | IP-CIDR | 93  | 
@@ -218,6 +219,9 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 7405  | 
 | HOST-SUFFIX | 7257  | 
 | TOTAL | 7407  | 
+| HOST-SUFFIX | 7286  | 
+| IP-CIDR | 96  | 
+| TOTAL | 7440  | 
 ## QuantumultX 
 #### 配置建议
 - Proxy.list 单独使用。
