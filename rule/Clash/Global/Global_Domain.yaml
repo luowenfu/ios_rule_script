@@ -393,6 +393,9 @@
 # DOMAIN-SUFFIX: 34775
 # IP-CIDR: 115
 # TOTAL: 35059
+# UPDATED: 2026-10-02 06:15:53
+# DOMAIN-SUFFIX: 34780
+# TOTAL: 35064
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -12866,6 +12869,7 @@ payload:
   - '+.huanyuju.com'
   - '+.huarenav.com'
   - '+.huarenporn.com'
+  - '+.huarun.win'
   - '+.huashundg.com'
   - '+.huawen.ac.uk'
   - '+.huaxin-lls.xyz'
@@ -16477,6 +16481,7 @@ payload:
   - '+.messytube.com'
   - '+.met-nude.com'
   - '+.meta.ai'
+  - '+.metaaivm.com'
   - '+.metabolomics.ac.uk'
   - '+.metabora.io'
   - '+.metabrainz.org'
@@ -19205,6 +19210,7 @@ payload:
   - '+.openbook.org.tw'
   - '+.opencas.io'
   - '+.openclaw.ai'
+  - '+.opencode.ai'
   - '+.opencollective.com'
   - '+.opencreate.org'
   - '+.opendesktop.org'
@@ -30703,6 +30709,7 @@ payload:
   - '+.fututrustee.com'
   - '+.fux.com'
   - '+.fuyin.net'
+  - '+.fuyin116.com'
   - '+.fuyindiantai.org'
   - '+.fuyu.org.tw'
   - '+.fw.cm'
@@ -32312,6 +32319,7 @@ payload:
   - '+.mummysgold.com'
   - '+.murmur.tw'
   - '+.muscdn.com'
+  - '+.muse.ai'
   - '+.musicade.net'
   - '+.musical.ly'
   - '+.musixmatch.com'

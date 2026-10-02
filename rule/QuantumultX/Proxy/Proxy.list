@@ -218,6 +218,9 @@
 # HOST-SUFFIX: 7286
 # IP-CIDR: 96
 # TOTAL: 7440
+# UPDATED: 2026-10-02 06:16:17
+# HOST-SUFFIX: 7288
+# TOTAL: 7442
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -2517,6 +2520,7 @@ HOST-SUFFIX,fututrade.com,Proxy
 HOST-SUFFIX,fututrustee.com,Proxy
 HOST-SUFFIX,fux.com,Proxy
 HOST-SUFFIX,fuyin.net,Proxy
+HOST-SUFFIX,fuyin116.com,Proxy
 HOST-SUFFIX,fuyindiantai.org,Proxy
 HOST-SUFFIX,fuyu.org.tw,Proxy
 HOST-SUFFIX,fw.cm,Proxy
@@ -4429,6 +4433,7 @@ HOST-SUFFIX,multiupload.com,Proxy
 HOST-SUFFIX,mummysgold.com,Proxy
 HOST-SUFFIX,murmur.tw,Proxy
 HOST-SUFFIX,muscdn.com,Proxy
+HOST-SUFFIX,muse.ai,Proxy
 HOST-SUFFIX,musicade.net,Proxy
 HOST-SUFFIX,musical.ly,Proxy
 HOST-SUFFIX,musixmatch.com,Proxy

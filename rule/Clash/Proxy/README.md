@@ -83,6 +83,7 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-09-14 04:08:54
 最后更新时间：2026-09-24 04:59:17
 最后更新时间：2026-09-28 04:43:01
+最后更新时间：2026-10-02 06:16:16
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
@@ -225,6 +226,8 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN-SUFFIX | 6789  | 
 | IP-CIDR | 96  | 
 | TOTAL | 6924  | 
+| DOMAIN-SUFFIX | 6791  | 
+| TOTAL | 6926  | 
 ## Clash 
 #### 使用说明
 - Proxy.yaml，请使用 behavior: "classical"。

@@ -428,6 +428,10 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | HOST-SUFFIX | 34796  | 
 | IP-CIDR | 115  | 
 | TOTAL | 35784  | 
+最后更新时间：2026-10-02 06:16:13
+| HOST | 789  | 
+| HOST-SUFFIX | 34801  | 
+| TOTAL | 35791  | 
 ## QuantumultX 
 #### 配置建议
 - Global.list 单独使用。

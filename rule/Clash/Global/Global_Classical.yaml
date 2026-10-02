@@ -393,6 +393,9 @@
 # DOMAIN-SUFFIX: 34775
 # IP-CIDR: 115
 # TOTAL: 35059
+# UPDATED: 2026-10-02 06:15:53
+# DOMAIN-SUFFIX: 34780
+# TOTAL: 35064
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -12866,6 +12869,7 @@ payload:
   - DOMAIN-SUFFIX,huanyuju.com
   - DOMAIN-SUFFIX,huarenav.com
   - DOMAIN-SUFFIX,huarenporn.com
+  - DOMAIN-SUFFIX,huarun.win
   - DOMAIN-SUFFIX,huashundg.com
   - DOMAIN-SUFFIX,huawen.ac.uk
   - DOMAIN-SUFFIX,huaxin-lls.xyz
@@ -16477,6 +16481,7 @@ payload:
   - DOMAIN-SUFFIX,messytube.com
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabolomics.ac.uk
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metabrainz.org
@@ -19205,6 +19210,7 @@ payload:
   - DOMAIN-SUFFIX,openbook.org.tw
   - DOMAIN-SUFFIX,opencas.io
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opendesktop.org
@@ -30703,6 +30709,7 @@ payload:
   - DOMAIN-SUFFIX,fututrustee.com
   - DOMAIN-SUFFIX,fux.com
   - DOMAIN-SUFFIX,fuyin.net
+  - DOMAIN-SUFFIX,fuyin116.com
   - DOMAIN-SUFFIX,fuyindiantai.org
   - DOMAIN-SUFFIX,fuyu.org.tw
   - DOMAIN-SUFFIX,fw.cm
@@ -32312,6 +32319,7 @@ payload:
   - DOMAIN-SUFFIX,mummysgold.com
   - DOMAIN-SUFFIX,murmur.tw
   - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,musicade.net
   - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,musixmatch.com

@@ -221,6 +221,9 @@
 # DOMAIN-SUFFIX: 6789
 # IP-CIDR: 96
 # TOTAL: 6932
+# UPDATED: 2026-10-02 06:16:16
+# DOMAIN-SUFFIX: 6791
+# TOTAL: 6934
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -2389,6 +2392,7 @@ DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuyin.net
+DOMAIN-SUFFIX,fuyin116.com
 DOMAIN-SUFFIX,fuyindiantai.org
 DOMAIN-SUFFIX,fuyu.org.tw
 DOMAIN-SUFFIX,fw.cm
@@ -4006,6 +4010,7 @@ DOMAIN-SUFFIX,multiupload.com
 DOMAIN-SUFFIX,mummysgold.com
 DOMAIN-SUFFIX,murmur.tw
 DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,musicade.net
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musixmatch.com
