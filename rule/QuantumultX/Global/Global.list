@@ -420,6 +420,8 @@
 # HOST: 789
 # HOST-SUFFIX: 34801
 # TOTAL: 35791
+# UPDATED: 2026-10-04 04:29:31
+# HOST-SUFFIX: 34804
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -6997,6 +6999,7 @@ HOST-SUFFIX,classics.ac.uk,Global
 HOST-SUFFIX,classymomsex.com,Global
 HOST-SUFFIX,clau.de,Global
 HOST-SUFFIX,claude.ai,Global
+HOST-SUFFIX,claude.dev,Global
 HOST-SUFFIX,claudemcpclient.com,Global
 HOST-SUFFIX,claudemcpcontent.com,Global
 HOST-SUFFIX,claudeusercontent.com,Global
@@ -26792,7 +26795,6 @@ HOST-SUFFIX,walker-institute.ac.uk,Global
 HOST-SUFFIX,walker.ac.uk,Global
 HOST-SUFFIX,wallberis.ru,Global
 HOST-SUFFIX,wallet.com,Global
-HOST-SUFFIX,wallhaven.cc,Global
 HOST-SUFFIX,walmart-content.com,Global
 HOST-SUFFIX,walmart.com,Global
 HOST-SUFFIX,walmart.pharmacy,Global
@@ -27149,7 +27151,6 @@ HOST-SUFFIX,wikidot.com,Global
 HOST-SUFFIX,wikifeet.com,Global
 HOST-SUFFIX,wikihow.com,Global
 HOST-SUFFIX,wikimediacloud.org,Global
-HOST-SUFFIX,wikimediafoundation.org,Global
 HOST-SUFFIX,wikiporn.tv,Global
 HOST-SUFFIX,wikisexguide.com,Global
 HOST-SUFFIX,wilberes.ru,Global
@@ -35451,6 +35452,7 @@ HOST-SUFFIX,wainao.me,Global
 HOST-SUFFIX,waiwaier.com,Global
 HOST-SUFFIX,walletconnect.com,Global
 HOST-SUFFIX,walletconnect.org,Global
+HOST-SUFFIX,wallhaven.cc,Global
 HOST-SUFFIX,wallmama.com,Global
 HOST-SUFFIX,wallornot.org,Global
 HOST-SUFFIX,wallpapercasa.com,Global
@@ -35573,6 +35575,7 @@ HOST-SUFFIX,wiki.kfd.me,Global
 HOST-SUFFIX,wikia.com,Global
 HOST-SUFFIX,wikibooks.org,Global
 HOST-SUFFIX,wikidata.org,Global
+HOST-SUFFIX,wikifunctions.org,Global
 HOST-SUFFIX,wikileaks-forum.com,Global
 HOST-SUFFIX,wikileaks.ch,Global
 HOST-SUFFIX,wikileaks.com,Global
@@ -35585,12 +35588,14 @@ HOST-SUFFIX,wikileaks.pl,Global
 HOST-SUFFIX,wikilivres.info,Global
 HOST-SUFFIX,wikimapia.org,Global
 HOST-SUFFIX,wikimedia.org,Global
+HOST-SUFFIX,wikimediafoundation.org,Global
 HOST-SUFFIX,wikinews.org,Global
 HOST-SUFFIX,wikipedia.com,Global
 HOST-SUFFIX,wikipedia.org,Global
 HOST-SUFFIX,wikiquote.org,Global
 HOST-SUFFIX,wikis.tw,Global
 HOST-SUFFIX,wikisource.org,Global
+HOST-SUFFIX,wikispecies.org,Global
 HOST-SUFFIX,wikiunblocked.org,Global
 HOST-SUFFIX,wikiversity.org,Global
 HOST-SUFFIX,wikivoyage.org,Global

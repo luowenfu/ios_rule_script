@@ -396,6 +396,9 @@
 # UPDATED: 2026-10-02 06:15:53
 # DOMAIN-SUFFIX: 34780
 # TOTAL: 35064
+# UPDATED: 2026-10-04 04:29:12
+# DOMAIN-SUFFIX: 34783
+# TOTAL: 35067
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -6390,6 +6393,7 @@ login.microsoftonline.com
 +.classymomsex.com
 +.clau.de
 +.claude.ai
++.claude.dev
 +.claudemcpclient.com
 +.claudemcpcontent.com
 +.claudeusercontent.com
@@ -26562,7 +26566,6 @@ login.microsoftonline.com
 +.walker.ac.uk
 +.wallberis.ru
 +.wallet.com
-+.wallhaven.cc
 +.walmart-content.com
 +.walmart.com
 +.walmart.pharmacy
@@ -26922,7 +26925,6 @@ login.microsoftonline.com
 +.wikifeet.com
 +.wikihow.com
 +.wikimediacloud.org
-+.wikimediafoundation.org
 +.wikiporn.tv
 +.wikisexguide.com
 +.wilberes.ru
@@ -34761,6 +34763,7 @@ login.microsoftonline.com
 +.waiwaier.com
 +.walletconnect.com
 +.walletconnect.org
++.wallhaven.cc
 +.wallmama.com
 +.wallornot.org
 +.wallpapercasa.com
@@ -34880,6 +34883,7 @@ login.microsoftonline.com
 +.wikia.com
 +.wikibooks.org
 +.wikidata.org
++.wikifunctions.org
 +.wikileaks-forum.com
 +.wikileaks.ch
 +.wikileaks.com
@@ -34892,12 +34896,14 @@ login.microsoftonline.com
 +.wikilivres.info
 +.wikimapia.org
 +.wikimedia.org
++.wikimediafoundation.org
 +.wikinews.org
 +.wikipedia.com
 +.wikipedia.org
 +.wikiquote.org
 +.wikis.tw
 +.wikisource.org
++.wikispecies.org
 +.wikiunblocked.org
 +.wikiversity.org
 +.wikivoyage.org
