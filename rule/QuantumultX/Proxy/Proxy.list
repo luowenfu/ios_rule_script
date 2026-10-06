@@ -224,6 +224,9 @@
 # UPDATED: 2026-10-04 04:29:34
 # HOST-SUFFIX: 7292
 # TOTAL: 7446
+# UPDATED: 2026-10-06 07:37:05
+# HOST-SUFFIX: 7293
+# TOTAL: 7447
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -3035,6 +3038,7 @@ HOST-SUFFIX,googlemashups.com,Proxy
 HOST-SUFFIX,googlepagecreator.com,Proxy
 HOST-SUFFIX,googlephotos.com,Proxy
 HOST-SUFFIX,googleplay.com,Proxy
+HOST-SUFFIX,googleplaycensorship.com,Proxy
 HOST-SUFFIX,googleplus.com,Proxy
 HOST-SUFFIX,googlescholar.com,Proxy
 HOST-SUFFIX,googlesile.com,Proxy

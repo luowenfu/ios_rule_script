@@ -422,6 +422,9 @@
 # TOTAL: 35791
 # UPDATED: 2026-10-04 04:29:31
 # HOST-SUFFIX: 34804
+# UPDATED: 2026-10-06 07:37:04
+# HOST-SUFFIX: 34805
+# TOTAL: 35795
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -31549,6 +31552,7 @@ HOST-SUFFIX,googlemashups.com,Global
 HOST-SUFFIX,googlepagecreator.com,Global
 HOST-SUFFIX,googlephotos.com,Global
 HOST-SUFFIX,googleplay.com,Global
+HOST-SUFFIX,googleplaycensorship.com,Global
 HOST-SUFFIX,googleplus.com,Global
 HOST-SUFFIX,googlescholar.com,Global
 HOST-SUFFIX,googlesile.com,Global

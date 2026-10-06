@@ -400,6 +400,9 @@
 # UPDATED: 2026-10-04 04:29:10
 # DOMAIN-SUFFIX: 34783
 # TOTAL: 35113
+# UPDATED: 2026-10-06 07:36:41
+# DOMAIN-SUFFIX: 34784
+# TOTAL: 35114
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -11552,6 +11555,7 @@ DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,googleplaycensorship.com
 DOMAIN-SUFFIX,googleplex.com
 DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlescholar.com
