@@ -144,10 +144,11 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 最后更新时间：2026-10-06 07:36:41
 最后更新时间：2026-10-08 06:31:43
 最后更新时间：2026-10-10 06:06:34
+最后更新时间：2026-10-12 05:21:45
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 128  | 
+| DOMAIN | 127  | 
 | DOMAIN-KEYWORD | 36  | 
 | DOMAIN-SUFFIX | 32340  | 
 | DOMAIN-SUFFIX | 32348  | 
@@ -411,6 +412,8 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 35141  | 
 | DOMAIN-SUFFIX | 34814  | 
 | TOTAL | 35144  | 
+| DOMAIN-SUFFIX | 34900  | 
+| TOTAL | 35229  | 
 ## Surge 
 #### 使用说明
 - Global.list，请使用RULE-SET。
