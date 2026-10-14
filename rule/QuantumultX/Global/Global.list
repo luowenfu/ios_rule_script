@@ -436,6 +436,9 @@
 # HOST: 792
 # HOST-SUFFIX: 34921
 # TOTAL: 35914
+# UPDATED: 2026-10-14 06:11:21
+# HOST-SUFFIX: 34922
+# TOTAL: 35915
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1732,6 +1735,7 @@ HOST-SUFFIX,91se.fun,Global
 HOST-SUFFIX,91sesex.xyz,Global
 HOST-SUFFIX,91sew.xyz,Global
 HOST-SUFFIX,91sew40.buzz,Global
+HOST-SUFFIX,91short.com,Global
 HOST-SUFFIX,91vhome.com,Global
 HOST-SUFFIX,920share.com,Global
 HOST-SUFFIX,921bb.com,Global

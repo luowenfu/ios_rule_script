@@ -412,6 +412,9 @@
 # DOMAIN: 127
 # DOMAIN-SUFFIX: 34900
 # TOTAL: 35183
+# UPDATED: 2026-10-14 06:11:07
+# DOMAIN-SUFFIX: 34901
+# TOTAL: 35184
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -1046,6 +1049,7 @@ login.microsoftonline.com
 +.91sesex.xyz
 +.91sew.xyz
 +.91sew40.buzz
++.91short.com
 +.91vhome.com
 +.920share.com
 +.921bb.com

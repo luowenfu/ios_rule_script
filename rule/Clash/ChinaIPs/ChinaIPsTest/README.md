@@ -575,6 +575,10 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 | IP-CIDR | 16174  | 
 | IP-CIDR6 | 6855  | 
 | TOTAL | 23029  | 
+最后更新时间：2026-10-14 06:12:19
+| IP-CIDR | 16171  | 
+| IP-CIDR6 | 6857  | 
+| TOTAL | 23028  | 
 ## Clash 
 #### 使用说明
 - ChinaIPsTest_Classical.yaml，请使用 behavior: "classical"。
