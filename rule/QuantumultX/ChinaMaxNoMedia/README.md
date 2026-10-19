@@ -603,6 +603,10 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 123323  | 
 | HOST-SUFFIX | 110129  | 
 | TOTAL | 123034  | 
+最后更新时间：2026-10-18 04:01:48
+| HOST | 269  | 
+| HOST-SUFFIX | 110041  | 
+| TOTAL | 122945  | 
 ## QuantumultX 
 #### 配置建议
 - ChinaMaxNoMedia.list 单独使用。

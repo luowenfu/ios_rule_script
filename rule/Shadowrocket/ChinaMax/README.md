@@ -565,6 +565,10 @@
 | TOTAL | 123760  | 
 | DOMAIN-SUFFIX | 110564  | 
 | TOTAL | 123471  | 
+最后更新时间：2026-10-18 04:00:50
+| DOMAIN | 270  | 
+| DOMAIN-SUFFIX | 110476  | 
+| TOTAL | 123382  | 
 ## Shadowrocket 
 #### 使用说明
 - ChinaMax.list，请使用RULE-SET。

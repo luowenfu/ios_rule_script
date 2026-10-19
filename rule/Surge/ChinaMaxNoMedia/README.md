@@ -603,6 +603,10 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 | TOTAL | 123334  | 
 | DOMAIN-SUFFIX | 110129  | 
 | TOTAL | 123045  | 
+最后更新时间：2026-10-18 04:01:47
+| DOMAIN | 269  | 
+| DOMAIN-SUFFIX | 110041  | 
+| TOTAL | 122956  | 
 ## Surge 
 #### 使用说明
 - ChinaMaxNoMedia.list，请使用RULE-SET。

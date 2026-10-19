@@ -605,6 +605,10 @@
 | TOTAL | 123709  | 
 | DOMAIN-SUFFIX | 110564  | 
 | TOTAL | 123420  | 
+最后更新时间：2026-10-18 04:00:48
+| DOMAIN | 270  | 
+| DOMAIN-SUFFIX | 110476  | 
+| TOTAL | 123331  | 
 ## Clash 
 #### 使用说明
 - ChinaMax.yaml，请使用 behavior: "classical"。
